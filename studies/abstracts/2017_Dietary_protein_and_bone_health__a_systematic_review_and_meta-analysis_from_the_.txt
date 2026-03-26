@@ -1,0 +1,70 @@
+Title: Dietary protein and bone health: a systematic review and meta-analysis from the National Osteoporosis Foundation.
+Authors: Shams-White MM
+Year: 2017
+Journal: Am J Clin Nutr
+PMID: 28404575
+DOI: 10.3945/ajcn.116.145110
+
+ABSTRACT:
+1. Am J Clin Nutr. 2017 Jun;105(6):1528-1543. doi: 10.3945/ajcn.116.145110. Epub 
+2017 Apr 12.
+
+Dietary protein and bone health: a systematic review and meta-analysis from the 
+National Osteoporosis Foundation.
+
+Shams-White MM(1)(2), Chung M(1), Du M(1)(2), Fu Z(1), Insogna KL(3), Karlsen 
+MC(2), LeBoff MS(4)(5), Shapses SA(6), Sackey J(1)(2), Wallace TC(7)(8), Weaver 
+CM(9).
+
+Author information:
+(1)Department of Public Health and Community Medicine, School of Medicine, and.
+(2)Friedman School of Nutrition Science and Policy, Tufts University, Boston, 
+MA.
+(3)Yale Bone Center at the Yale School of Medicine, Yale University, New Haven, 
+CT.
+(4)Skeletal Health and Osteoporosis Center and Bone Density Unit, Harvard 
+Medical School, Boston, MA.
+(5)Endocrine, Diabetes and Hypertension Division, Brigham and Women's Hospital, 
+Boston, MA.
+(6)Department of Nutritional Sciences, Rutgers University, New Brunswick, NJ.
+(7)National Osteoporosis Foundation, Arlington, VA; taylor.wallace@me.com.
+(8)Department of Nutrition and Food Studies, George Mason University, Fairfax, 
+VA; and.
+(9)Department of Nutrition Science, Women's Global Health Institute, Purdue 
+University, West Lafayette, IN.
+
+Comment in
+    Am J Clin Nutr. 2017 Jun;105(6):1257-1258. doi: 10.3945/ajcn.117.158162.
+
+Background: Considerable attention has recently focused on dietary protein's 
+role in the mature skeleton, prompted partly by an interest in nonpharmacologic 
+approaches to maintain skeletal health in adult life.Objective: The aim was to 
+conduct a systematic review and meta-analysis evaluating the effects of dietary 
+protein intake alone and with calcium with or without vitamin D (Ca±D) on bone 
+health measures in adults.Design: Searches across 5 databases were conducted 
+through October 2016 including randomized controlled trials (RCTs) and 
+prospective cohort studies examining 1) the effects of "high versus low" protein 
+intake or 2) dietary protein's synergistic effect with Ca±D intake on bone 
+health outcomes. Two investigators independently conducted abstract and 
+full-text screenings, data extractions, and risk of bias (ROB) assessments. 
+Strength of evidence was rated by group consensus. Random-effects meta-analyses 
+for outcomes with ≥4 RCTs were performed.Results: Sixteen RCTs and 20 
+prospective cohort studies were included in the systematic review. Overall ROB 
+was medium. Moderate evidence suggested that higher protein intake may have a 
+protective effect on lumbar spine (LS) bone mineral density (BMD) compared with 
+lower protein intake (net percentage change: 0.52%; 95% CI: 0.06%, 0.97%, I2: 
+0%; n = 5) but no effect on total hip (TH), femoral neck (FN), or total body BMD 
+or bone biomarkers. Limited evidence did not support an effect of protein with 
+Ca±D on LS BMD, TH BMD, or forearm fractures; there was insufficient evidence 
+for FN BMD and overall fractures.Conclusions: Current evidence shows no adverse 
+effects of higher protein intakes. Although there were positive trends on BMD at 
+most bone sites, only the LS showed moderate evidence to support benefits of 
+higher protein intake. Studies were heterogeneous, and confounding could not be 
+excluded. High-quality, long-term studies are needed to clarify dietary 
+protein's role in bone health. This trial was registered at www.crd.york.ac.uk 
+as CRD42015017751.
+
+© 2017 American Society for Nutrition.
+
+DOI: 10.3945/ajcn.116.145110
+PMID: 28404575 [Indexed for MEDLINE]

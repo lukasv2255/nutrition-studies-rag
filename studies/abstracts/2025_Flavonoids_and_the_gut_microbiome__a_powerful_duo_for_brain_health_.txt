@@ -1,0 +1,66 @@
+Title: Flavonoids and the gut microbiome: a powerful duo for brain health.
+Authors: Taherkhani S
+Year: 2025
+Journal: Crit Rev Food Sci Nutr
+PMID: 39632543
+DOI: 10.1080/10408398.2024.2435593
+
+ABSTRACT:
+1. Crit Rev Food Sci Nutr. 2025;65(28):6029-6044. doi: 
+10.1080/10408398.2024.2435593. Epub 2024 Dec 4.
+
+Flavonoids and the gut microbiome: a powerful duo for brain health.
+
+Taherkhani S(1), Ahmadi P(2)(3), Nasiraie LR(4), Janzadeh A(3), Honardoost M(5), 
+Sedghi Esfahani S(6).
+
+Author information:
+(1)Department of Physiology, School of Medicine, Iran University of Medical 
+Sciences, Tehran, Iran.
+(2)Immunology Research Center, Mashhad University of Medical Sciences, Mashhad, 
+Iran.
+(3)Neuromusculoskeletal Research Center, Iran University of Medical Sciences, 
+Tehran, Iran.
+(4)Department of Food Science and Technology, Islamic Azad University, Nour 
+Branch, Nour, Iran.
+(5)Cardio-Oncology Research Center, Rajaie Cardiovascular Medical and Research 
+Center, Iran University of Medical Sciences, Tehran, Iran.
+(6)Department of Molecular Biotechnology, Cell Science Research Center, Royan 
+Institute for Biotechnology, ACECR, Isfahan, Iran.
+
+Flavonoids, a class of polyphenolic compounds, are widely distributed in 
+plant-based foods and have been recognized for their potential to promote 
+overall health and well-being. Flavonoids in fruits and vegetables offer various 
+beneficial effects such as anti-aging, anticancer, and anti-inflammatory 
+properties. Flavonoids have been extensively studied for their neuroprotective 
+properties, which are attributed to their ability to cross the blood-brain 
+barrier and interact with neural cells. Factors like gut microbiota composition, 
+age, genetics, and diet can impact how well flavonoids are absorbed in the gut. 
+The gut microbiota can enhance the absorption of flavonoids through enzymatic 
+processes, making microbiota composition a key factor influenced by age, 
+genetics, and diet. Flavonoids can modulate the gut microbiota through prebiotic 
+and antimicrobial effects, affecting the production of beneficial microbial 
+metabolites like short-chain fatty acids (SCFAs) such as butyrate, which play a 
+role in brain function and health. The gut microbiome also modulates the immune 
+system, which is critical for preventing neuroinflammation. Additionally, 
+flavonoids can benefit mental and psychological health by influencing 
+anti-inflammatory signaling pathways in brain cells and increasing the 
+absorption of tyrosine and tryptophan, precursors to neurotransmitters like 
+serotonin, dopamine, norepinephrine, adrenaline, and gamma-aminobutyric acid 
+(GABA). The flavonoid-gut microbiome axis is a complex and multifaceted 
+relationship that has significant implications for neurological health. This 
+review will explore how genetic and environmental factors can impact flavonoid 
+absorption and the positive effects of flavonoids on brain health and the gut 
+microbiota network.
+
+Plain Language Summary: Flavonoids alter gut microbiota by replacing pathogens 
+with beneficial bacteria and enhancing SCFA production.Gut microbiota 
+metabolizes flavonoids into bioactive metabolites that influence brain 
+health.Gut microbiota metabolizes flavonoids, turning them to more bioactive 
+metabolitesFlavonoids are potential neuroprotective agents that affect 
+neurological health through their interactions with the gut microbiome.Diet, 
+age, genetics, and epigenetics influence brain health through flavonoid 
+modification and gut microbiome.
+
+DOI: 10.1080/10408398.2024.2435593
+PMID: 39632543 [Indexed for MEDLINE]

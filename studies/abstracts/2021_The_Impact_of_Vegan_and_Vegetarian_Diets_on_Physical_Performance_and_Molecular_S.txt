@@ -1,0 +1,45 @@
+Title: The Impact of Vegan and Vegetarian Diets on Physical Performance and Molecular Signaling in Skeletal Muscle.
+Authors: Pohl A
+Year: 2021
+Journal: Nutrients
+PMID: 34836139
+DOI: 10.3390/nu13113884
+
+ABSTRACT:
+1. Nutrients. 2021 Oct 29;13(11):3884. doi: 10.3390/nu13113884.
+
+The Impact of Vegan and Vegetarian Diets on Physical Performance and Molecular 
+Signaling in Skeletal Muscle.
+
+Pohl A(1), Schünemann F(1), Bersiner K(1), Gehlert S(1)(2).
+
+Author information:
+(1)Department of Biosciences of Sport Science, Institute of Sport Science, 
+University of Hildesheim, 31141 Hildesheim, Germany.
+(2)Department for Molecular and Cellular Sports Medicine, German Sports 
+University Cologne, 50933 Cologne, Germany.
+
+Muscular adaptations can be triggered by exercise and diet. As vegan and 
+vegetarian diets differ in nutrient composition compared to an omnivorous diet, 
+a change in dietary regimen might alter physiological responses to physical 
+exercise and influence physical performance. Mitochondria abundance, muscle 
+capillary density, hemoglobin concentration, endothelial function, functional 
+heart morphology and availability of carbohydrates affect endurance performance 
+and can be influenced by diet. Based on these factors, a vegan and vegetarian 
+diet possesses potentially advantageous properties for endurance performance. 
+Properties of the contractile elements, muscle protein synthesis, the 
+neuromuscular system and phosphagen availability affect strength performance and 
+can also be influenced by diet. However, a vegan and vegetarian diet possesses 
+potentially disadvantageous properties for strength performance. Current 
+research has failed to demonstrate consistent differences of performance between 
+diets but a trend towards improved performance after vegetarian and vegan diets 
+for both endurance and strength exercise has been shown. Importantly, diet 
+alters molecular signaling via leucine, creatine, DHA and EPA that directly 
+modulates skeletal muscle adaptation. By changing the gut microbiome, diet can 
+modulate signaling through the production of SFCA.
+
+DOI: 10.3390/nu13113884
+PMCID: PMC8623732
+PMID: 34836139 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

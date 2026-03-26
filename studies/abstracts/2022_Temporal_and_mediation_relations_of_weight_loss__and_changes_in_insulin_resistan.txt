@@ -1,0 +1,65 @@
+Title: Temporal and mediation relations of weight loss, and changes in insulin resistance and blood pressure in response to 2-year weight-loss diet interventions: the POUNDS Lost trial.
+Authors: Han L
+Year: 2022
+Journal: Eur J Nutr
+PMID: 34319427
+DOI: 10.1007/s00394-021-02643-8
+
+ABSTRACT:
+1. Eur J Nutr. 2022 Feb;61(1):269-275. doi: 10.1007/s00394-021-02643-8. Epub 2021
+ Jul 28.
+
+Temporal and mediation relations of weight loss, and changes in insulin 
+resistance and blood pressure in response to 2-year weight-loss diet 
+interventions: the POUNDS Lost trial.
+
+Han L(1)(2)(3), Zhang T(3), You D(4), Chen W(3), Bray G(5), Sacks F(6), Qi 
+L(7)(8).
+
+Author information:
+(1)Hwa Mei Hospital, University of Chinese Academy of Sciences, Ningbo, 
+Zhejiang, People's Republic of China.
+(2)Department of Global Health, Ningbo Institute of Life and Health Industry, 
+University of Chinese Academy of Sciences, Ningbo, Zhejiang, People's Republic 
+of China.
+(3)Department of Epidemiology, School of Public Health and Tropical Medicine, 
+Tulane University, New Orleans, LA, 70112, USA.
+(4)Department of Science and Technology, Kunming Medical University, Kunming, 
+650500, China.
+(5)Pennington Biomedical Research Center, Louisiana State University, Baton 
+Rouge, LA, USA.
+(6)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA.
+(7)Department of Epidemiology, School of Public Health and Tropical Medicine, 
+Tulane University, New Orleans, LA, 70112, USA. lqi1@tulane.edu.
+(8)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA. lqi1@tulane.edu.
+
+PURPOSE: Body weight and insulin resistance (IR) are closely correlated, and 
+their temporal sequences in affecting blood pressure (BP) remain poorly defined. 
+We examined the temporal sequences of weight loss and IR change, and their 
+relations with BP in the Pounds Lost trial, a randomized weight-loss diet 
+intervention study.
+METHODS: The present study included overweight/obese adults, who were randomized 
+in a 2 × 2 factorial design to low-calorie diets containing 20 or 40% fat and 15 
+or 25% protein (diets with 65, 55, 45 and 35% carbohydrate). Weight, IR, 
+systolic and diastolic BP levels were measured at baseline, 6 and 24 months. 
+After excluding the subjects who took antihypertensive drugs, cross-lagged path 
+and mediation analyses were performed among 540 participants.
+RESULTS: After adjusting for age, race, sex, and diet groups, the cross-lagged 
+path coefficient from baseline weight to 24-month IR (β1 = 0.135, P = 0.04) was 
+significantly greater than the path coefficient (β2 = 0.022, P > 0.05) from 
+baseline IR to 24-month weight (P < 0.05 for the difference in βs), indicating 
+that weight-loss preceded change of IR. The mediation effects of 24-month IR on 
+the 24-month systolic BP and diastolic BP were estimated at 20.94% (P = 0.004) 
+and 17.03% (P = 0.034), respectively.
+CONCLUSIONS: Our data indicate that weight loss precedes change of IR, which 
+mediates a significant proportion of the effects of weight loss on changes of BP 
+in response to the diet interventions.
+TRIAL REGISTRATION: NCT00072995 First Posted November 17, 2003 Last Update 
+Posted January 30, 2013 this study was not 'retrospectively registered'.
+
+© 2021. Springer-Verlag GmbH Germany, part of Springer Nature.
+
+DOI: 10.1007/s00394-021-02643-8
+PMID: 34319427 [Indexed for MEDLINE]

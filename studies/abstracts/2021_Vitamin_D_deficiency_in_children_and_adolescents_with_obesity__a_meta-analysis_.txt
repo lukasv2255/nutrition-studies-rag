@@ -1,0 +1,43 @@
+Title: Vitamin D deficiency in children and adolescents with obesity: a meta-analysis.
+Authors: Fiamenghi VI
+Year: 2021
+Journal: J Pediatr (Rio J)
+PMID: 33022267
+DOI: 10.1016/j.jped.2020.08.006
+
+ABSTRACT:
+1. J Pediatr (Rio J). 2021 May-Jun;97(3):273-279. doi:
+10.1016/j.jped.2020.08.006.  Epub 2020 Oct 3.
+
+Vitamin D deficiency in children and adolescents with obesity: a meta-analysis.
+
+Fiamenghi VI(1), Mello ED(2).
+
+Author information:
+(1)Universidade Federal do Rio Grande do Sul (UFRGS), Programa de Pós-Graduação 
+em Saúde da Criança e do Adolescente, Porto Alegre, RS, Brazil. Electronic 
+address: vfiamenghi@hcpa.edu.br.
+(2)Universidade Federal do Rio Grande do Sul (UFRGS), Programa de Pós-Graduação 
+em Saúde da Criança e do Adolescente, Porto Alegre, RS, Brazil.
+
+OBJECTIVE: To evaluate the prevalence of vitamin D deficiency in obese children 
+and adolescents when compared to eutrophic controls.
+METHODS: Systematic review with meta-analysis covering studies with patients 
+aged 0-18 years old diagnosed with obesity and vitamin D deficiency and control 
+group of eutrophic patients. The studies were retrieved in the PubMed, Embase, 
+and LILACS databases in December 2019. The search used the terms "obesity" in 
+combination with "pediatric population" and "vitamin D".
+RESULTS: Through the search 3155 articles were retrieved; and after analysis, 20 
+studies were selected according to the study objectives. A total of 24,600 
+children and adolescents were included. Through meta-analysis, the relative risk 
+for the association between obesity and vitamin D deficiency in the pediatric 
+population was 1.41 (95% CI: 1.26-1.59) (I² = 89%, p < 0.01).
+CONCLUSION: Children and adolescents with obesity have higher risk of vitamin D 
+deficiency.
+
+Copyright © 2020 Sociedade Brasileira de Pediatria. Published by Elsevier 
+Editora Ltda. All rights reserved.
+
+DOI: 10.1016/j.jped.2020.08.006
+PMCID: PMC9432231
+PMID: 33022267 [Indexed for MEDLINE]

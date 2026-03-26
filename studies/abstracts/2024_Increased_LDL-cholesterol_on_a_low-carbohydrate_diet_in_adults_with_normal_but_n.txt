@@ -1,0 +1,27 @@
+Title: Increased LDL-cholesterol on a low-carbohydrate diet in adults with normal but not high body weight: a meta-analysis.
+Year: 2024
+DOI: 10.1016/j.ajcnut.2024.01.009
+
+ABSTRACT:
+BACKGROUND
+LDL-cholesterol (LDL-C) change with consumption of a low-carbohydrate diet (LCD) is highly variable. Identifying the source of this heterogeneity could guide clinical decision-making.
+
+
+OBJECTIVE
+To evaluate LDL-C change in randomized controlled trials (RCTs) involving LCDs, with a focus on body mass index (BMI).
+
+
+DESIGN
+Three electronic indexes (Pubmed, EBSCO, Scielo) were searched for studies between 1 January 2003 and 20 December 2022. Two independent reviewers identified RCTs involving adults consuming <130 g/day carbohydrate and reporting BMI and LDL-C change or equivalent data. Two investigators extracted relevant data which were validated by other investigators. Data were analyzed using a random-effects model and contrasted with results of pooled individual participant data (IPD).
+
+
+RESULTS
+Forty-one trials with 1379 participants and a mean intervention duration of 19.4 weeks were included. In a meta-regression accounting for 51.4% of the observed heterogeneity on LCDs, mean baseline BMI had a strong inverse association with LDL-C change (β=-2.5 mg/dL per BMI unit, CI95% = -3.7 to -1.4), whereas saturated fat amount was not significantly associated with LDL-C change. For trials with mean baseline BMI <25 kg/m2, LDL-C increased by 41 mg/dL, (CI95% = 19.6 to 63.3) on the LCD. By contrast, for trials with mean BMI 25 to <35 kg/m2, LDL-C did not change; and for trials with mean BMI ≥35 kg/m2, LDL-C decreased by 7 mg/dL (CI95% = -12.1 to -1.3). Using IPD, the relationship between BMI and LDL-C change was not observed on higher-carbohydrate diets.
+
+
+CONCLUSIONS
+A substantial increase in LDL-C is likely for individuals with low but not high BMI with consumption of a LCD, findings that may help guide individualized nutritional management of cardiovascular risk. As carbohydrate restriction tends to improve other lipid and non-lipid risk factors, the clinical significance of isolated LDL-C elevation in this context warrants investigation.
+
+
+SYSTEMATIC REVIEW PREREGISTRATION
+PROSPERO, CRD42022299278.

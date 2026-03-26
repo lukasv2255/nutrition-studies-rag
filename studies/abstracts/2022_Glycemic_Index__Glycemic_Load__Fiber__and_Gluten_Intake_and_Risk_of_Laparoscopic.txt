@@ -1,0 +1,75 @@
+Title: Glycemic Index, Glycemic Load, Fiber, and Gluten Intake and Risk of Laparoscopically-Confirmed Endometriosis in Premenopausal Women.
+Year: 2022
+DOI: 10.1093/jn/nxac107
+
+ABSTRACT:
+1. J Nutr. 2022 Sep 6;152(9):2088-2096. doi: 10.1093/jn/nxac107.
+
+Glycemic Index, Glycemic Load, Fiber, and Gluten Intake and Risk of 
+Laparoscopically Confirmed Endometriosis in Premenopausal Women.
+
+Schwartz NRM(1), Afeiche MC(2), Terry KL(3)(4), Farland LV(5), Chavarro 
+JE(4)(6)(7), Missmer SA(4)(8)(9), Harris HR(10)(11).
+
+Author information:
+(1)CHOICE Institute, Department of Pharmacy, School of Pharmacy, University of 
+Washington, Seattle, WA, USA.
+(2)Nestlé Research, Lausanne, Switzerland.
+(3)Obstetrics and Gynecology Epidemiology Center, Brigham and Women's Hospital, 
+Boston, MA, USA.
+(4)Department of Epidemiology, Harvard TH Chan School of Public Health, Boston, 
+MA, USA.
+(5)Department of Epidemiology and Biostatistics, Mel and Enid Zuckerman College 
+of Public Health, University of Arizona, Tucson, AZ, USA.
+(6)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital and Harvard Medical School, Boston, MA, USA.
+(7)Department of Nutrition, Harvard TH Chan School of Public Health, Boston, MA, 
+USA.
+(8)Division of Adolescent and Young Adult Medicine, Department of Medicine, 
+Boston Children's Hospital and Harvard Medical School, Boston, MA, USA.
+(9)Department of Obstetrics, Gynecology, and Reproductive Biology, College of 
+Human Medicine, Michigan State University, Grand Rapids, MI, USA.
+(10)Program in Epidemiology, Division of Public Health Sciences, Fred Hutchinson 
+Cancer Research Center, Seattle, WA, USA.
+(11)Department of Epidemiology, School of Public Health, University of 
+Washington, Seattle, WA, USA.
+
+BACKGROUND: The etiology of endometriosis is not well understood. Limited 
+evidence suggests that dietary factors influence risk, but prospective data 
+related to carbohydrate, fiber, and gluten consumption are scarce. Despite this, 
+recommendations concerning fiber, gluten intake, and endometriosis are pervasive 
+in the lay literature.
+OBJECTIVES: We aimed to investigate the associations of carbohydrate quality 
+[glycemic index (GI) and glycemic load (GL)], fiber intake (total, legume, 
+vegetable, cruciferous vegetable, fruit, cereal), and gluten intake with 
+incident laparoscopically confirmed endometriosis.
+METHODS: This was a prospective cohort study using data collected from 81,961 
+premenopausal women in the Nurses' Health Study II (mean age = 36 y in 1991). 
+Diet was assessed with a validated FFQ every 4 y. Cox proportional hazards 
+models were used to calculate rate ratios (RRs) and 95% CIs.
+RESULTS: A total of 3810 incident cases of laparoscopically confirmed 
+endometriosis were reported over 24 y of follow-up. Women in the highest 
+quintile of GI had 12% (95% CI: 1.01, 1.23; Ptrend = 0.03) higher risk of 
+endometriosis diagnosis than those in the lowest quintile. Total vegetable and 
+cruciferous vegetable fiber intakes were also associated with higher risk 
+(highest compared with lowest quintile RR: 1.13; 95% CI: 1.02, 1.24; 
+Ptrend = 0.004 and RR: 1.17; 95% CI: 1.06, 1.29; Ptrend = 0.02, respectively). 
+Higher intake of fruit fiber was associated with lower risk of endometriosis but 
+the association was not significant after adjusting for the Alternative Healthy 
+Eating Index. Gluten intake was also associated with lower risk (highest 
+compared with lowest quintile RR: 0.91; 95% CI: 0.80, 1.02; Ptrend = 0.01), but 
+these results were not consistent in direction nor statistical significance 
+across sensitivity analyses. No association was observed for GL or total, 
+legume, or cereal fiber intake.
+CONCLUSIONS: Our findings suggest that carbohydrate quality and specific types 
+of fiber-total vegetable and cruciferous vegetable fiber-are associated with 
+endometriosis diagnosis in premenopausal women. These results also indicate it 
+is unlikely that gluten intake is a strong factor in the etiology or 
+symptomatology of endometriosis.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+American Society for Nutrition.
+
+DOI: 10.1093/jn/nxac107
+PMCID: PMC9445851
+PMID: 35554558 [Indexed for MEDLINE]

@@ -1,0 +1,53 @@
+Title: Red Cabbage Microgreens Lower Circulating Low-Density Lipoprotein (LDL), Liver Cholesterol, and Inflammatory Cytokines in Mice Fed a High-Fat Diet.
+Year: 2016
+DOI: 10.1021/ACS.JAFC.6B03805
+
+ABSTRACT:
+1. J Agric Food Chem. 2016 Dec 7;64(48):9161-9171. doi: 10.1021/acs.jafc.6b03805.
+ Epub 2016 Nov 28.
+
+Red Cabbage Microgreens Lower Circulating Low-Density Lipoprotein (LDL), Liver 
+Cholesterol, and Inflammatory Cytokines in Mice Fed a High-Fat Diet.
+
+Huang H(1)(2), Jiang X(2), Xiao Z(3)(4), Yu L(2), Pham Q(1), Sun J(5), Chen 
+P(5), Yokoyama W(6), Yu LL(2), Luo YS(3), Wang TT(1).
+
+Author information:
+(1)Diet, Genomics and Immunology Laboratory, Beltsville Human Nutrition Research 
+Center, ARS, U.S. Department of Agriculture , Beltsville, Maryland 20705, United 
+States.
+(2)Nutrition and Food Science Department, University of Maryland , College Park, 
+Maryland 20742, United States.
+(3)Food Quality Laboratory, Beltsville Area Research Center, ARS, U.S. 
+Department of Agriculture , Beltsville, Maryland 20705, United States.
+(4)Department of Agriculture, Culinology and Hospitality Management, Southwest 
+Minnesota State University , Marshall, Minnesota 56258, United States.
+(5)Food Composition and Methods Development Laboratory, Beltsville Human 
+Nutrition Research Center, ARS, U.S. Department of Agriculture , Beltsville, 
+Maryland 20705, United States.
+(6)Healthy Processed Foods Research Unit, Western Regional Research Center, ARS, 
+U.S. Department of Agriculture , Albany, California 94710, United States.
+
+Cardiovascular disease (CVD) is the leading cause of death in the United States, 
+and hypercholesterolemia is a major risk factor. Population studies, as well as 
+animal and intervention studies, support the consumption of a variety of 
+vegetables as a means to reduce CVD risk through modulation of 
+hypercholesterolemia. Microgreens of a variety of vegetables and herbs have been 
+reported to be more nutrient dense compared to their mature counterparts. 
+However, little is known about the effectiveness of microgreens in affecting 
+lipid and cholesterol levels. The present study used a rodent diet-induced 
+obesity (DIO) model to address this question. C57BL/6NCr mice (n = 60, male, 5 
+weeks old) were randomly assigned to six feeding groups: (1) low-fat diet; (2) 
+high-fat diet; (3) low-fat diet + 1.09% red cabbage microgreens; (4) low-fat 
+diet + 1.66% mature red cabbage; (5) high-fat diet + 1.09% red cabbage 
+microgreens; (6) high-fat diet + 1.66% mature red cabbage. The animals were on 
+their respective diets for 8 weeks. We found microgreen supplementation 
+attenuated high-fat diet induced weight gain. Moreover, supplementation with 
+microgreens significantly lowered circulating LDL levels in animals fed the 
+high-fat diet and reduced hepatic cholesterol ester, triacylglycerol levels, and 
+expression of inflammatory cytokines in the liver. These data suggest that 
+microgreens can modulate weight gain and cholesterol metabolism and may protect 
+against CVD by preventing hypercholesterolemia.
+
+DOI: 10.1021/acs.jafc.6b03805
+PMID: 27933986 [Indexed for MEDLINE]

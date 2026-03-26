@@ -1,0 +1,62 @@
+Title: Sleep Disturbance and Changes in Energy Intake and Body Composition During Weight Loss in the POUNDS Lost Trial.
+Authors: Li A
+Year: 2022
+Journal: Diabetes
+PMID: 35202470
+DOI: 10.2337/db21-0699
+
+ABSTRACT:
+1. Diabetes. 2022 May 1;71(5):934-944. doi: 10.2337/db21-0699.
+
+Sleep Disturbance and Changes in Energy Intake and Body Composition During 
+Weight Loss in the POUNDS Lost Trial.
+
+Li A(1), Li X(1), Zhou T(1), Ma H(1), Heianza Y(1), Williamson DA(2), Smith 
+SR(2), Bray GA(2), Sacks FM(3), Qi L(1)(3).
+
+Author information:
+(1)Department of Epidemiology, School of Public Health and Tropical Medicine, 
+Tulane University, New Orleans, LA.
+(2)Pennington Biomedical Research Center, Louisiana State University, Baton 
+Rouge, LA.
+(3)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA.
+
+To examine associations between sleep disturbance and changes in weight and body 
+composition and the mediating role of changes of appetite and food cravings in 
+the Preventing Overweight Using Novel Dietary Strategies (POUNDS Lost) 2-year 
+weight-loss diet intervention trial, this study included 810 overweight or obese 
+individuals with baseline sleep disturbance assessment who were randomly 
+assigned one of four diets varying in macronutrient composition. Changes in body 
+weight and fat distribution were assessed by DEXA and computed tomography during 
+the 2-year intervention. Participants were asked to provide sleep disturbance 
+levels (no, slight, moderate, or great) at baseline and to recall their sleep 
+disturbances since last visit at 6, 12, 18, and 24 months. Weight loss during 
+the first 6 months was followed by 1.5 years of steady weight regain. 
+Participants with greater sleep disturbance from baseline to 6 months showed 
+significant losses of body weight (Ptrend <0.001) and waist circumference 
+(Ptrend = 0.002) at 6 months, after multivariate adjustment. Compared with 
+individuals without sleep disturbance at all from baseline to 6 months, those 
+with slight, moderate, or great sleep disturbance showed an elevated risk of 
+failure to lose weight (-5% or more loss) at 6 months, when the maximum weight 
+loss was achieved, with an odds ratio of 1.24 (95% CI 0.87, 1.78), 1.27 (95% CI 
+0.75, 2.13), or 3.12 (95% CI 1.61, 6.03), respectively. In addition, we observed 
+that the repeatedly measured levels of sleep disturbance over 2 years were 
+inversely associated with the overall weight loss rate (weight changes per 6 
+months) (Ptrend <0.001). Further, sleep disturbances during weight loss from 
+baseline to 6 months and weight regain from 6 months to 24 months were 
+significantly predictive of total fat, total fat mass percent, and trunk fat 
+percent changes during the 2 years. Our results also indicated that food 
+cravings for carbohydrates/starches, fast food fats, and sweets; cravings, 
+prospective consumption, hunger of appetite measurements; and dietary restraint, 
+disinhibition, and hunger subscales measured at 6 months significantly mediated 
+the effects of sleep disturbance on weight loss. In conclusion, our results 
+suggested that more severe sleep disturbance during weight loss was associated 
+with an elevated risk of failure to lose weight during the dietary intervention. 
+Food cravings and eating behaviors may partly mediate these associations.
+
+© 2022 by the American Diabetes Association.
+
+DOI: 10.2337/db21-0699
+PMCID: PMC9044134
+PMID: 35202470 [Indexed for MEDLINE]

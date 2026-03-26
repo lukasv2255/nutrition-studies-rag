@@ -1,0 +1,58 @@
+Title: Dietary glycemic index, glycemic load, and refined carbohydrates are associated with risk of stroke: a prospective cohort study in urban Chinese women.
+Year: 2016
+DOI: 10.3945/AJCN.115.129379
+
+ABSTRACT:
+1. Am J Clin Nutr. 2016 Nov;104(5):1345-1351. doi: 10.3945/ajcn.115.129379. Epub 
+2016 Oct 12.
+
+Dietary glycemic index, glycemic load, and refined carbohydrates are associated 
+with risk of stroke: a prospective cohort study in urban Chinese women.
+
+Yu D(1), Zhang X(1)(2), Shu XO(1), Cai H(1), Li H(3), Ding D(4), Hong Z(4), 
+Xiang YB(3), Gao YT(3), Zheng W(1), Yang G(5).
+
+Author information:
+(1)Division of Epidemiology, Department of Medicine, Vanderbilt University 
+Medical Center, Nashville, TN.
+(2)Tennessee Department of Health, Nashville, TN.
+(3)Department of Epidemiology, Shanghai Cancer Institute, Renji Hospital, 
+Shanghai Jiaotong University School of Medicine, Shanghai, China; and.
+(4)Department of Neurology, Huashan Hospital, Fudan University, Shanghai, China.
+(5)Division of Epidemiology, Department of Medicine, Vanderbilt University 
+Medical Center, Nashville, TN; gong.yang@vanderbilt.edu.
+
+BACKGROUND: Epidemiologic evidence on dietary carbohydrates and stroke risk 
+remains controversial. Very few prospective cohort studies have been conducted 
+in Asian populations, who usually consume a high-carbohydrate diet and have a 
+high burden of stroke.
+OBJECTIVE: We examined dietary glycemic index (GI), glycemic load (GL), and 
+intakes of refined and total carbohydrates in relation to risks of total, 
+ischemic, and hemorrhagic stroke and stroke mortality.
+DESIGN: This study included 64,328 Chinese women, aged 40-70 y, with no history 
+of cardiovascular disease, diabetes, or cancer. A validated, 
+interviewer-administered food-frequency questionnaire was used to assess usual 
+dietary intakes at baseline and during follow-up. Incident stroke cases and 
+deaths were identified via follow-up interviews and death registries and were 
+confirmed by review of medical records and death certificates.
+RESULTS: During mean follow-ups of 10 y for stroke incidence and 12 y for stroke 
+mortality, we ascertained 2991 stroke cases (2750 ischemic and 241 hemorrhagic) 
+and 609 stroke deaths. After potential confounders were controlled for, we 
+observed significant positive associations of dietary GI and GL with total 
+stroke risk; multivariable-adjusted HRs (95% CIs) for high compared with low 
+levels (90th compared with 10th percentile) were 1.19 (1.04, 1.36) for GI and 
+1.27 (1.04, 1.54) for GL (both P-linearity < 0.05 and P-overall significance < 
+0.05). Similar linear associations were found for ischemic stroke, but the 
+associations with hemorrhagic stroke appeared to be J-shaped. Similar trends of 
+positive associations with stroke risks were suggested for refined carbohydrates 
+but not for total carbohydrates. No significant associations were found for 
+stroke mortality after multivariable adjustment.
+CONCLUSION: Our results suggest that high dietary GI and GL, primarily due to 
+high intakes of refined grains, are associated with increased risks of total, 
+ischemic, and hemorrhagic stroke in middle-aged and older urban Chinese women.
+
+© 2016 American Society for Nutrition.
+
+DOI: 10.3945/ajcn.115.129379
+PMCID: PMC5081713
+PMID: 27733400 [Indexed for MEDLINE]

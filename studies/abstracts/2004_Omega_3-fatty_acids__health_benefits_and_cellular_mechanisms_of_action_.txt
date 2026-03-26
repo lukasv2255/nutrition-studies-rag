@@ -1,0 +1,36 @@
+Title: Omega 3-fatty acids: health benefits and cellular mechanisms of action.
+Year: 2004
+DOI: 10.2174/1389557043403431
+
+ABSTRACT:
+1. Mini Rev Med Chem. 2004 Oct;4(8):859-71. doi: 10.2174/1389557043403431.
+
+Omega 3-fatty acids: health benefits and cellular mechanisms of action.
+
+Siddiqui RA(1), Shaikh SR, Sech LA, Yount HR, Stillwell W, Zaloga GP.
+
+Author information:
+(1)Methodist Research Institute, Indianapolis, Indiana 46202, USA. 
+rsiddiqu@clarian.org
+
+Epidemiological evidence has established that ingestion of long-chain 
+polyunsaturated omega-3 fatty acids (omega-3 PUFAs), abundant in fish oils, have 
+profound effects on many human disorders and diseases, including cardiovascular 
+disease and cancer. Here we briefly review the dietary recommendations and the 
+food sources that are naturally enriched by these fatty acids. There are also a 
+number of products including eggs, bread, and cereals available to supplement 
+omega-3 fatty acid dietary intake. Some of these supplements are proposed to aid 
+different pathological conditions. While the beneficial effects of omega-3 fatty 
+acids can no longer be doubted, their molecular mechanism of action remains 
+elusive. Without question, the action of omega-3 fatty acids is complex and 
+involves a number of integrated signaling pathways. This review focuses on one 
+of the possible cellular mechanisms by which the omega-3 PUFAs, docosahexaenoic 
+acid (DHA) and eicosapentaenoic acid (EPA), may function. Studies with cancer 
+cells suggest that DHA induces cell cycle arrest and apoptosis by activating 
+protein phosphatases, leading to dephosphorylation of retinoblastoma protein 
+(pRB). Protein phosphatases are also involved with the protein Bcl2, which 
+regulates the release of cytochrome c from mitochondria, and eventually, 
+activation of the apoptotic enzyme caspase 3.
+
+DOI: 10.2174/1389557043403431
+PMID: 15544547 [Indexed for MEDLINE]

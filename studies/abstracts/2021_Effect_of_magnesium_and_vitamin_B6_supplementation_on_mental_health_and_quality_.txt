@@ -1,0 +1,59 @@
+Title: Effect of magnesium and vitamin B6 supplementation on mental health and quality of life in stressed healthy adults: Post-hoc analysis of a randomised controlled trial.
+Authors: Noah L
+Year: 2021
+Journal: Stress Health
+PMID: 33864354
+DOI: 10.1002/smi.3051
+
+ABSTRACT:
+1. Stress Health. 2021 Dec;37(5):1000-1009. doi: 10.1002/smi.3051. Epub 2021 May
+6.
+
+Effect of magnesium and vitamin B6 supplementation on mental health and quality 
+of life in stressed healthy adults: Post-hoc analysis of a randomised controlled 
+trial.
+
+Noah L(1), Dye L(2), Bois De Fer B(3), Mazur A(4), Pickering G(5), Pouteau E(1).
+
+Author information:
+(1)Global Medical Nutritionals, Consumer Healthcare, Sanofi-Aventis, Paris, 
+France.
+(2)Nutrition and Behaviour Group, School of Psychology, University of Leeds, 
+Leeds, UK.
+(3)Statistics, Consumer Healthcare, Sanofi-Aventis, Paris, France.
+(4)Unité de Nutrition Humaine, Université Clermont Auvergne, INRAE, UNH, 
+Clermont-Ferrand, France.
+(5)Clinical Pharmacology Centre, INSERM CIC 1405, University Hospital 
+Clermont-Ferrand, Clermont-Ferrand, France.
+
+Magnesium status and vitamin B6 intake have been linked to mental health and/or 
+quality of life (QoL). In an 8-week Phase IV randomised controlled study in 
+individuals with low magnesemia and severe/extremely severe stress but who were 
+otherwise healthy, greater stress reduction was achieved with magnesium combined 
+with vitamin B6 than with magnesium alone. We present a previously unreported 
+secondary analysis of the effect of magnesium, with and without vitamin B6, on 
+depression, anxiety, and QoL. Adults with Depression Anxiety Stress Scales 
+(DASS-42) stress subscale score >18 were randomised 1:1 to magnesium + vitamin 
+B6 combination (Magne B6® ; daily dose 300 and 30 mg, respectively) or magnesium 
+alone (Magnespasmyl® ; daily dose 300 mg). Outcomes included changes from 
+baseline in DASS-42 depression and anxiety scores, and QoL (Short Form-36 Health 
+Survey). DASS-42 anxiety and depression scores significantly improved from 
+baseline to week 8 with both treatments, particularly during the first 4 weeks. 
+Improvement in QoL continued over 8 weeks. Participants' perceived capacity for 
+physical activity in daily life showed greater improvement with 
+magnesium + vitamin B6 than magnesium alone (Week 4). In conclusion, magnesium 
+supplementation, with or without vitamin B6, could provide a meaningful clinical 
+benefit in daily life for individuals with stress and low magnesemia.
+
+© 2021 The Authors. Stress and Health published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/smi.3051
+PMCID: PMC9292249
+PMID: 33864354 [Indexed for MEDLINE]
+
+Conflict of interest statement: Lionel Noah, Béatrice Bois De Fer, and Etienne 
+Pouteau are employees of Sanofi‐Aventis. Gisèle Pickering reports consultancy 
+fees from Sanofi, unrelated to this publication. André Mazur reports consultancy 
+fees from Sanofi, unrelated to this publication. Louise Dye has received 
+research funding from Sanofi and consultancy payments unrelated to this 
+publication.

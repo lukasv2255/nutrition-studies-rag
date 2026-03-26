@@ -1,0 +1,51 @@
+Title: Immune Function and Micronutrient Requirements Change over the Life Course.
+Authors: Maggini S
+Year: 2018
+Journal: Nutrients
+PMID: 30336639
+DOI: 10.3390/nu10101531
+
+ABSTRACT:
+1. Nutrients. 2018 Oct 17;10(10):1531. doi: 10.3390/nu10101531.
+
+Immune Function and Micronutrient Requirements Change over the Life Course.
+
+Maggini S(1), Pierre A(2), Calder PC(3)(4).
+
+Author information:
+(1)Bayer Consumer Care AG, 4002 Basel, Switzerland. silvia.maggini@bayer.com.
+(2)Bayer Consumer Care AG, 4002 Basel, Switzerland. adeline.pierre@bayer.com.
+(3)Human Development & Health, Faculty of Medicine, University of Southampton, 
+Southampton SO16 6YD, UK. P.C.Calder@soton.ac.uk.
+(4)NIHR Southampton Biomedical Research Centre, University Hospital Southampton 
+NHS Foundation Trust and University of Southampton, Southampton SO16 6YD, UK. 
+P.C.Calder@soton.ac.uk.
+
+As humans age, the risk and severity of infections vary in line with immune 
+competence according to how the immune system develops, matures, and declines. 
+Several factors influence the immune system and its competence, including 
+nutrition. A bidirectional relationship among nutrition, infection and immunity 
+exists: changes in one component affect the others. For example, distinct immune 
+features present during each life stage may affect the type, prevalence, and 
+severity of infections, while poor nutrition can compromise immune function and 
+increase infection risk. Various micronutrients are essential for 
+immunocompetence, particularly vitamins A, C, D, E, B2, B6, and B12, folic acid, 
+iron, selenium, and zinc. Micronutrient deficiencies are a recognized global 
+public health issue, and poor nutritional status predisposes to certain 
+infections. Immune function may be improved by restoring deficient 
+micronutrients to recommended levels, thereby increasing resistance to infection 
+and supporting faster recovery when infected. Diet alone may be insufficient and 
+tailored micronutrient supplementation based on specific age-related needs 
+necessary. This review looks at immune considerations specific to each life 
+stage, the consequent risk of infection, micronutrient requirements and 
+deficiencies exhibited over the life course, and the available evidence 
+regarding the effects of micronutrient supplementation on immune function and 
+infection.
+
+DOI: 10.3390/nu10101531
+PMCID: PMC6212925
+PMID: 30336639 [Indexed for MEDLINE]
+
+Conflict of interest statement: S.M. and A.P. are employed by Bayer Consumer 
+Care Ltd., a manufacturer of multivitamins. P.C.C. has received funding, as a 
+Key Opinion Leader, from Bayer Consumer Care Ltd.

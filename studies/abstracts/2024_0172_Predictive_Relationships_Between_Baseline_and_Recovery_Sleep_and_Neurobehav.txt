@@ -1,0 +1,26 @@
+Title: 0172 Predictive Relationships Between Baseline and Recovery Sleep and Neurobehavioral Measures During Sleep Deprivation
+Year: 2024
+DOI: 10.1093/sleep/zsae067.0172
+
+ABSTRACT:
+
+ 
+ 
+ We investigated whether baseline sleep measures derived from actigraphy the night before total sleep deprivation (TSD) predicted cognitive performance and subjective sleepiness and fatigue during TSD. We also investigated whether these measures during TSD predicted that night’s recovery sleep.
+ 
+ 
+ 
+ Thirty-two adults (ages 27-53;14 females) participated in a five-day experiment under controlled conditions comprised of two baseline 8h time in bed (TIB) nights (B1, B2), approximately 39h of TSD, and two recovery nights of 8-10h TIB (R1=10h, R2=8h). Neurobehavioral measures including the Digit Symbol Substitution Test (DSST), Digit Span (DS), the 10-minute Psychomotor Vigilance Test (PVT), the Karolinska Sleepiness Scale, and the Profile of Mood States Fatigue scale were collected at 0400h, 1130h, and 1730h during TSD. During the second baseline night (B2) and the first recovery night (R1), wrist actigraphy (Actiwatch Spectrum) assessed sleep indices including sleep duration, sleep onset latency (SOL), wake after sleep onset (WASO), sleep efficiency (SE), percent sleep, and the timing of sleep onset, offset, and midpoint. Pearson’s correlations determined relationships between B2 sleep and TSD neurobehavioral measures and between TSD neurobehavioral and R1 sleep measures (p< 0.05 was significant).
+ 
+ 
+ 
+ Greater SE at baseline was significantly associated with less subjective sleepiness during TSD (r=−0.415;r2=0.172), and a later sleep onset (r=−0.409;r2=0.167) and a later midpoint (r=−0.376; r2=0.142) were significantly correlated with less subjective fatigue during TSD. Higher DSST scores during TSD were significantly associated with shorter duration, greater SOL, and a later sleep onset during recovery (r:−0.473-0.547; r2:0.172-0.299). Similarly, higher DS scores significantly correlated with later sleep onset (r=0.370; r2=0.137). Fewer PVT lapses during TSD were significantly associated with shorter duration, higher SE, lower WASO, higher percent sleep, and an earlier sleep offset during recovery (r:−0.417-0.489; r2:0.136-0.239).
+ 
+ 
+ 
+ Our novel findings demonstrated that measures of sleep continuity and timing the night before TSD predicted resilience to subjective sleepiness and fatigue, but not cognitive performance during TSD. By contrast, cognitive but not subjective performance resilience during TSD predicted that night’s recovery sleep duration, continuity, and timing. Thus, actigraphic measures uniquely predict subjective responses to TSD and reflect cognitive performance responses during sleep loss.
+ 
+ 
+ 
+ NASA grants NNX14AN49G and 80NSSC20K0243 (NG)
+

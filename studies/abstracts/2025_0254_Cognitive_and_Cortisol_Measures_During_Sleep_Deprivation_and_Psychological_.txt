@@ -1,0 +1,26 @@
+Title: 0254 Cognitive and Cortisol Measures During Sleep Deprivation and Psychological Stress Influence Recovery Sleep Metrics
+Year: 2025
+DOI: 10.1093/sleep/zsaf090.0254
+
+ABSTRACT:
+
+ 
+ 
+ Little is known about the factors during total sleep deprivation (TSD) and psychological stress that affect recovery sleep. We determined the relative contributions of cognitive and cortisol measures, which represent distinct domains, as predictors of recovery sleep timing and duration.
+ 
+ 
+ 
+ We conducted a five-day experiment under highly controlled conditions in 32 healthy adults (ages 27-53; 14 females). Salivary cortisol samples were collected during 1) TSD morning (TSD AM; after 25h of TSD) and 2) TSD evening following a modified Trier Social Stress Test, which induced psychological stress (TSD PM; after 34h of TSD). Digit Span Test (DS), Digit Symbol Substitution Test (DSST), and Psychomotor Vigilance Test (PVT) performance data were collected at 0400h, 1130h, and 1730h during TSD and averaged. Wrist actigraphy assessed sleep indices during the first recovery night following TSD (10h time in bed). Multiple linear regression models determined the impact of TSD cognitive and cortisol measures as predictors of recovery sleep timing and duration. The models and independent variables were all significant (p< 0.05).
+ 
+ 
+ 
+ Sleep Onset. Each 1-point DS total # correct increase predicted a 0.042h later sleep onset and each 1 µg/dL AM cortisol increase predicted a 0.958h later sleep onset. Sleep Offset. In addition, each 1 PVT lapse increase predicted a 0.031h later sleep offset and each 1 µg/dL PM cortisol increase predicted a 1.205h earlier sleep offset. Sleep Duration. Each 1 PVT lapse increase predicted a 2.153 minute sleep duration increase, and each 1 µg/dL AM cortisol increase predicted an 87.367 minute sleep duration decrease. In addition, each 1-point DSST # correct increase predicted a 1.657 minute sleep duration decrease and each 1 µg/dL PM cortisol increase predicted a 100.535 minute sleep duration decrease. Across models, 35.8%-40.6% of the sleep timing and duration variance was explained, with r ranges between 0.598-0.637.
+ 
+ 
+ 
+ Our results elucidate the important roles of cognitive performance and cortisol metrics obtained during sleep loss in influencing recovery sleep timing and duration, suggesting the possibility of intervening on these measures to modify subsequent sleep. Our findings highlight hypothalamic-pituitary-adrenal axis and cognitive measures as biomarkers for recovery sleep health.
+ 
+ 
+ 
+ NASA NNX14AN49G, 80NSSC20K0243 (NG)
+

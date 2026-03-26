@@ -1,0 +1,23 @@
+Title: Changes in blood lipid concentrations associated with changes in intake of dietary saturated fat in the context of a healthy low-carbohydrate weight-loss diet: a secondary analysis of the Diet Intervention Examining The Factors Interacting with Treatment Success (DIETFITS) trial.
+Year: 2019
+DOI: 10.1093/ajcn/nqy305
+
+ABSTRACT:
+Background
+For low-carbohydrate diets, a public health approach has focused on the replacement of carbohydrates with unsaturated fats. However, little research exists on the impacts of saturated fat intake on the lipid profile in the context of whole-food-based low-carbohydrate weight-loss diets.
+
+
+Objectives
+The primary aim of this secondary analysis of the DIETFITS weight loss trial was to evaluate the associations between changes in percentage of dietary saturated fatty acid intake (%SFA) and changes in low-density lipoproteins, high-density lipoproteins, and triglyceride concentrations for those following a healthy low-carbohydrate (HLC) diet. The secondary aim was to examine these associations specifically for HLC dieters who had the highest 12-month increases in %SFA.
+
+
+Methods
+In the DIETFITS trial, 609 generally healthy adults, aged 18-50 years, with body mass indices of 28-40 kg/m2 were randomly assigned to a healthy low-fat (HLF) or HLC diet for 12 months. In this analysis, linear regression, both without and with adjustment for potential confounders, was used to measure the association between 12-month change in %SFA and blood lipids in 208 HLC participants with complete diet and blood lipid data.
+
+
+Results
+Participants consumed an average of 12-18% of calories from SFA. An increase of %SFA, without significant changes in absolute saturated fat intake, over 12 months was associated with a statistically significant decrease in triglycerides in the context of a weight-loss study in which participants simultaneously decreased carbohydrate intake. The association between increase in %SFA and decrease in triglycerides was no longer significant when adjusting for 12-month change in carbohydrate intake, suggesting carbohydrate intake may be a mediator of this relationship.
+
+
+Conclusions
+Those on a low-carbohydrate weight-loss diet who increase their percentage intake of dietary saturated fat may improve their overall lipid profile provided they focus on a high-quality diet and lower their intakes of both calories and refined carbohydrates. This trial was registered at clinicaltrials.gov as NCT01826591.

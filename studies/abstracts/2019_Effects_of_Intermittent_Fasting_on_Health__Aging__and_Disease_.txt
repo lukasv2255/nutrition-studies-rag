@@ -1,0 +1,32 @@
+Title: Effects of Intermittent Fasting on Health, Aging, and Disease.
+Authors: de Cabo R
+Year: 2019
+Journal: N Engl J Med
+PMID: 31881139
+DOI: 10.1056/NEJMra1905136
+
+ABSTRACT:
+1. N Engl J Med. 2019 Dec 26;381(26):2541-2551. doi: 10.1056/NEJMra1905136.
+
+Effects of Intermittent Fasting on Health, Aging, and Disease.
+
+de Cabo R(1), Mattson MP(1).
+
+Author information:
+(1)From the Translational Gerontology Branch (R.C.) and the Laboratory of 
+Neurosciences (M.P.M.), Intramural Research Program, National Institute on 
+Aging, National Institutes of Health, and the Department of Neuroscience, Johns 
+Hopkins University School of Medicine (M.P.M.) - both in Baltimore.
+
+Erratum in
+    N Engl J Med. 2020 Jan 16;382(3):298. doi: 10.1056/NEJMx190038.
+    N Engl J Med. 2020 Mar 5;382(10):978. doi: 10.1056/NEJMx200002.
+
+Comment in
+    N Engl J Med. 2020 Apr 30;382(18):1771. doi: 10.1056/NEJMc2001176.
+    N Engl J Med. 2020 Apr 30;382(18):1771-1772. doi: 10.1056/NEJMc2001176.
+    N Engl J Med. 2020 Apr 30;382(18):1772. doi: 10.1056/NEJMc2001176.
+    N Engl J Med. 2020 Apr 30;382(18):1773. doi: 10.1056/NEJMc2001176.
+
+DOI: 10.1056/NEJMra1905136
+PMID: 31881139 [Indexed for MEDLINE]

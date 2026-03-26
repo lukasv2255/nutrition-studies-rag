@@ -1,0 +1,19 @@
+Title: Alcohol Consumption and Cardiovascular Health.
+Year: 2022
+DOI: 10.1016/j.amjmed.2022.04.021
+
+ABSTRACT:
+INTRODUCTION
+Studies evaluating alcohol consumption and cardiovascular diseases have shown inconsistent results.
+
+
+METHODS
+We performed a systematic review of peer-reviewed publications from an extensive query of Ovid MEDLINE, Ovid Embase, Ovid Cochrane Database of Systematic Reviews, Scopus, and Web of Science from database inception to March 2022 for all studies that reported the association between alcohol consumption in terms of quantity (daily or weekly amounts) and type of beverage (wine, beer or spirit) and cardiovascular disease events.
+
+
+RESULTS
+The study population included a total of 1,579,435 individuals based on 56 cohorts from several countries. We found that moderate wine consumption defined as 1-4 drinks per week was associated with a reduction in risk for cardiovascular mortality when compared to beer or spirits. However, higher risk for cardiovascular disease mortality was typically seen with heavier daily or weekly alcohol consumption across all types of beverages.
+
+
+CONCLUSIONS
+It is possible that the observational studies may overestimate the benefits of alcohol for cardiovascular disease outcomes. Although moderate wine consumption is probably associated with low cardiovascular disease events, there are many confounding factors, in particular lifestyle, genetic and socioeconomic associations with wine drinking which likely explain much of the association with wine and reduced cardiovascular disease events. Further prospective study of alcohol and all-cause mortality, including cancer, is needed.

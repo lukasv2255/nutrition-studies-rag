@@ -1,0 +1,52 @@
+Title: Effects of Magnesium Supplementation on Muscle Soreness and Performance.
+Authors: Reno AM
+Year: 2022
+Journal: J Strength Cond Res
+PMID: 33009349
+DOI: 10.1519/JSC.0000000000003827
+
+ABSTRACT:
+1. J Strength Cond Res. 2022 Aug 1;36(8):2198-2203. doi: 
+10.1519/JSC.0000000000003827. Epub 2020 Oct 1.
+
+Effects of Magnesium Supplementation on Muscle Soreness and Performance.
+
+Reno AM(1), Green M(2), Killen LG(2), O'Neal EK(2), Pritchett K(3), Hanson Z(3).
+
+Author information:
+(1)Department of Kinesiology, University of Alabama in Huntsville, Huntsville, 
+Alabama.
+(2)Department of Kinesiology, University of North Alabama, Florence, Alabama; 
+and.
+(3)Department of Health Sciences, Central Washington University, Ellensburg, 
+Washington.
+
+Reno, AM, Green, M, Killen, LG, O'Neal, EK, Pritchett, K, and Hanson, Z. Effects 
+of magnesium supplementation on muscle soreness and performance. J Strength Cond 
+Res 36(8): 2198-2203, 2022-This double-blind, between-group study examined 
+effects of magnesium (Mg) supplementation (350 mg·d -1 , 10 days) on muscle 
+soreness and performance. College-aged male ( n = 9) and female ( n = 13) 
+subjects completed baseline and posttreatment eccentric bench press sessions 
+inducing fatigue/soreness followed by performance sessions (total volume and 
+repetitions to failure [RTF] [65, 75, and 85% of 1 repetition maximum]) 48 hours 
+later with perceptual measures. Subjects estimated soreness using a Delayed 
+Onset of Muscle Soreness scale by striking a vertical line on a 6-cm horizontal 
+line (at 24, 36, and 48 hours post trial) from 0-no soreness to 6-intolerable 
+soreness. Results are presented as means ± SD (alpha ≤0.05). Mg significantly 
+reduced (∼1-2 units lower on a 6-point scale) muscle soreness from the baseline 
+eccentric to postintervention trial 24, 36, and 48 hours with no significant 
+change for placebo (Pla) group. Performance approached significance for total 
+RTF ( p = 0.06) and 65 and 75% RTF ( p = 0.08) (Mg vs. Pla). Perceptual 
+responses for session rating of perceived exertion and acute rating of perceived 
+exertion were significant for Mg (5.1 ± 2.4 to 4.1 ± 2.0) vs. Pla (5.0 ± 1.8 to 
+5.5 ± 1.6). Perceived recovery after supplementation was improved vs. baseline 
+for Mg (5.4 ± 2.2 to 7.5 ± 2.3) but not for Pla (6.2 ± 2.4 to 7.2 ± 3.3). 
+Results show significantly reduced muscle soreness, session rating of perceived 
+exertion, acute rating of perceived exertion, and improved perceived recovery 
+after Mg (vs. Pla) supplementation and some evidence for positive performance 
+impact.
+
+Copyright © 2020 National Strength and Conditioning Association.
+
+DOI: 10.1519/JSC.0000000000003827
+PMID: 33009349 [Indexed for MEDLINE]

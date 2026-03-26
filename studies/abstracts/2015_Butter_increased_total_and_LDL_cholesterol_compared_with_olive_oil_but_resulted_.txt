@@ -1,0 +1,50 @@
+Title: Butter increased total and LDL cholesterol compared with olive oil but resulted in higher HDL cholesterol compared with a habitual diet.
+Year: 2015
+DOI: 10.3945/ajcn.115.112227
+
+ABSTRACT:
+1. Am J Clin Nutr. 2015 Aug;102(2):309-15. doi: 10.3945/ajcn.115.112227. Epub
+2015  Jul 1.
+
+Butter increased total and LDL cholesterol compared with olive oil but resulted 
+in higher HDL cholesterol compared with a habitual diet.
+
+Engel S(1), Tholstrup T(2).
+
+Author information:
+(1)Department of Nutrition, Exercise, and Sports, Faculty of Science, University 
+of Copenhagen, Frederiksberg, Denmark saraengel@nexs.ku.dk.
+(2)Department of Nutrition, Exercise, and Sports, Faculty of Science, University 
+of Copenhagen, Frederiksberg, Denmark.
+
+BACKGROUND: Butter is known to have a cholesterol-raising effect and, therefore, 
+has often been included as a negative control in dietary studies, whereas the 
+effect of moderate butter intake has not been elucidated to our knowledge.
+OBJECTIVE: We compared the effects of moderate butter intake, moderate olive oil 
+intake, and a habitual diet on blood lipids, high-sensitivity C-reactive protein 
+(hsCRP), glucose, and insulin.
+DESIGN: The study was a controlled, double-blinded, randomized 2 × 5-wk 
+crossover dietary intervention study with a 14-d run-in period during which 
+subjects consumed their habitual diets. The study included 47 healthy men and 
+women (mean ± SD total cholesterol: 5.22 ± 0.90 mmol/L) who substituted a part 
+of their habitual diets with 4.5% of energy from butter or refined olive oil.
+RESULTS: Study subjects were 70% women with a mean age and body mass index (in 
+kg/m²) of 40.4 y and 23.5, respectively. Butter intake increased total 
+cholesterol and LDL cholesterol more than did olive oil intake (P < 0.05) and 
+the run-in period (P < 0.005 and P < 0.05, respectively) and increased HDL 
+cholesterol compared with the run-in period (P < 0.05). No difference in effects 
+was observed for triacylglycerol, hsCRP, insulin, and glucose concentrations. 
+The intake of saturated fatty acids was significantly higher in the butter 
+period than in the olive oil and run-in periods (P < 0.0001).
+CONCLUSIONS: Moderate intake of butter resulted in increases in total 
+cholesterol and LDL cholesterol compared with the effects of olive oil intake 
+and a habitual diet (run-in period). Furthermore, moderate butter intake was 
+also followed by an increase in HDL cholesterol compared with the habitual diet. 
+We conclude that hypercholesterolemic people should keep their consumption of 
+butter to a minimum, whereas moderate butter intake may be considered part of 
+the diet in the normocholesterolemic population.
+
+© 2015 American Society for Nutrition.
+
+DOI: 10.3945/ajcn.115.112227
+PMID: 26135349 [Indexed for MEDLINE]

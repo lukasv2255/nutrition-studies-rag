@@ -1,0 +1,69 @@
+Title: Distinct genetic subtypes of adiposity and glycemic changes in response to weight-loss diet intervention: the POUNDS Lost trial.
+Authors: Chen Y
+Year: 2021
+Journal: Eur J Nutr
+PMID: 32274554
+DOI: 10.1007/s00394-020-02244-x
+
+ABSTRACT:
+1. Eur J Nutr. 2021 Feb;60(1):249-258. doi: 10.1007/s00394-020-02244-x. Epub 2020
+ Apr 9.
+
+Distinct genetic subtypes of adiposity and glycemic changes in response to 
+weight-loss diet intervention: the POUNDS Lost trial.
+
+Chen Y(1)(2), Zhou T(1), Sun D(1), Li X(1), Ma H(1), Liang Z(1)(3), Heianza 
+Y(1), Pei X(2), Bray GA(4), Sacks FM(5), Qi L(6)(7)(8).
+
+Author information:
+(1)Department of Epidemiology, School of Public Health and Tropical Medicine, 
+Tulane University, 1440 Canal Street, Suite 1724, New Orleans, LA, USA.
+(2)Department of Public Health Laboratory Sciences, West China School of Public 
+Health, Sichuan University, Chengdu, Sichuan, China.
+(3)Obstetrical Department, Women's Hospital, School of Medicine, Zhejiang 
+University, Hangzhou, Zhejiang, China.
+(4)Pennington Biomedical Research Center, Louisiana State University, Baton 
+Rouge, LA, USA.
+(5)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA.
+(6)Department of Epidemiology, School of Public Health and Tropical Medicine, 
+Tulane University, 1440 Canal Street, Suite 1724, New Orleans, LA, USA. 
+lqi1@tulane.edu.
+(7)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA. lqi1@tulane.edu.
+(8)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA. lqi1@tulane.edu.
+
+PURPOSE: Obesity is a heterogeneous condition and distinct adiposity subtypes 
+may differentially affect type 2 diabetes risk. We assessed relations between 
+genetically determined subtypes of adiposity and changes in glycemic traits in a 
+dietary intervention trial.
+METHODS: The four genetic subtypes of adiposity including waist-hip 
+ratio-increase only (WHRonly+), body mass index-increase only (BMIonly+), 
+WHR-increase and BMI-increase (BMI+WHR+), and WHR-decrease and BMI-increase 
+(BMI+WHR-) were assessed by polygenetic scores (PGSs), calculated based on 159 
+single nucleotide polymorphisms related to BMI and/or WHR. We examined the 
+associations between the four PGSs and changes in fasting glucose, insulin, 
+β-cell function (HOMA-B) and insulin resistance (HOMA-IR) in 692 overweight 
+participants (84% white Americans) who were randomly assigned to one of four 
+weight-loss diets in a 2-year intervention trial.
+RESULTS: Higher BMI+WHR-PGS was associated with a greater decrease in 2-year 
+changes in waist circumference in white participants (P = 0.002). We also found 
+significant interactions between WHRonly+PGS and dietary protein in 2-year 
+changes in fasting glucose and HOMA-B (P = 0.0007 and < 0.0001, respectively). 
+When consuming an average-protein diet, participants with higher WHRonly+PGS 
+showed less increased fasting glucose (β = - 0.46, P = 0.006) and less reduction 
+in HOMA-B (β = 0.02, P = 0.005) compared with lower WHRonly+PGS. Conversely, 
+eating high-protein diet was associated with less decreased HOMA-B among 
+individuals with lower than higher WHRonly+PGS (β = - 0.02, P = 0.006).
+CONCLUSIONS: Distinct genetically determined adiposity subtypes may 
+differentially modify the effects of weight-loss diets on improving glucose 
+metabolism in white Americans. This trial was registered at clinicaltrials.gov 
+as NCT00072995.
+
+DOI: 10.1007/s00394-020-02244-x
+PMCID: PMC7959583
+PMID: 32274554 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Statement The authors 
+declare that they have no conflict of interest.

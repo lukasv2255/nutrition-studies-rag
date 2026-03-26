@@ -1,0 +1,43 @@
+Title: Zinc and immunity.
+Authors: Prasad AS
+Year: 1998
+Journal: Mol Cell Biochem
+PMID: 9823012
+DOI: 
+
+ABSTRACT:
+1. Mol Cell Biochem. 1998 Nov;188(1-2):63-9.
+
+Zinc and immunity.
+
+Prasad AS(1).
+
+Author information:
+(1)Department of Internal Medicine, Wayne State University School of Medicine, 
+Detroit, Michigan, USA.
+
+Nutritional deficiency of zinc is widespread throughout the developing countries 
+and a conditioned deficiency of zinc is known to occur in many diseased states. 
+Zinc is known to play an important role in the immune system and zinc deficient 
+subjects may experience increased susceptibility to a variety of pathogens. We 
+have studied the effects of a mild deficiency of zinc on T cells in an 
+experimental model of human zinc deficiency. We showed that T cell functions 
+were affected adversely even when the deficiency of zinc was mild in humans. 
+Characteristically during zinc deficiency, the serum thymulin activity (a thymic 
+hormone) was decreased which was restored following zinc supplementation. Our 
+studies also showed that zinc deficiency caused an imbalance between TH1 and TH2 
+functions. The production of IFN-g, IL-2, TNF-a (products of TH1 cells) were 
+decreased, whereas the production of IL-4, IL-6 and IL-10 (products of TH2) were 
+not affected during zinc deficiency. T cell subpopulation studies revealed that 
+the CD4+ CD45RA+ to CD4+ CD45RO+ ratio was decreased as a result of zinc 
+deficiency, suggesting that zinc may be required for the regeneration of new 
+CD4+ T cells. We further documented that zinc deficiency decreased NK cell lytic 
+activity and caused a decrease in the percentage of CD8+ CD73+ T cells which are 
+known to be predominantly precursors of cytotoxic T cells. In a suitable cell 
+culture model our studies revealed that the gene expression of a DNA 
+synthesizing enzyme TK was affected adversely which resulted in delayed cell 
+cycle and decreased cell growth. The above immunological consequences of zinc 
+deficiency may be responsible for decreased cell mediated immune functions in 
+zinc deficient subjects.
+
+PMID: 9823012 [Indexed for MEDLINE]

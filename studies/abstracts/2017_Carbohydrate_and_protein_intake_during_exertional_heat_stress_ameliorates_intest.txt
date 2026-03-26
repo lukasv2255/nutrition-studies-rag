@@ -1,0 +1,52 @@
+Title: Carbohydrate and protein intake during exertional heat stress ameliorates intestinal epithelial injury and small intestine permeability.
+Year: 2017
+DOI: 10.1139/apnm-2017-0361
+
+ABSTRACT:
+1. Appl Physiol Nutr Metab. 2017 Dec;42(12):1283-1292. doi:
+10.1139/apnm-2017-0361.  Epub 2017 Aug 4.
+
+Carbohydrate and protein intake during exertional heat stress ameliorates 
+intestinal epithelial injury and small intestine permeability.
+
+Snipe RMJ(1), Khoo A(1), Kitic CM(2), Gibson PR(3), Costa RJS(1).
+
+Author information:
+(1)a Monash University, Department of Nutrition, Dietetics and Food, Level 1, 
+264 Ferntree Gully Road, Notting Hill, Victoria 3168, Australia.
+(2)b University of Tasmania, Sport Performance Optimisation Research Team, 
+School of Health Sciences, Locked Bag 1322, Launceston, Tasmania 7250, 
+Australia.
+(3)c Monash University, Department of Gastroenterology - The Alfred Hospital, 55 
+Commercial Road, Melbourne, 3004 Victoria, Australia.
+
+Exertional heat stress (EHS) disturbs the integrity of the gastrointestinal 
+tract leading to endotoxaemia and cytokinaemia, which have symptomatic and 
+health implications. This study aimed to determine the effects of carbohydrate 
+and protein intake during EHS on gastrointestinal integrity, symptoms, and 
+systemic responses. Eleven (male, n = 6; female, n = 5) endurance runners 
+completed 2 h of running at 60% maximal oxygen uptake in 35 °C ambient 
+temperature on 3 occasions in randomised order, consuming water (WATER), 15 g 
+glucose (GLUC), or energy-matched whey protein hydrolysate (WPH) before and 
+every 20 min during EHS. Rectal temperature and gastrointestinal symptoms were 
+recorded every 10 min during EHS. Blood was collected pre- and post-EHS, and 
+during recovery to determine plasma concentrations of intestinal fatty-acid 
+binding protein (I-FABP) as a marker of intestinal epithelial injury, cortisol, 
+endotoxin, and inflammatory cytokines. Urinary lactulose/l-rhamnose ratio was 
+used to measure small intestine permeability. Compared with WATER, GLUC, and WPH 
+ameliorated EHS associated intestinal epithelial injury (I-FABP: 897 ± 478 
+pg·mL-1 vs. 123 ± 197 pg·mL-1 and 82 ± 156 pg·mL-1, respectively, p < 0.001) and 
+small intestine permeability (lactulose/l-rhamnose ratio: 0.034 ± 0.014 vs. 
+0.017 ± 0.005 and 0.008 ± 0.002, respectively, p = 0.001). Endotoxaemia was 
+observed post-EHS in all trials (10.2 pg·mL-1, p = 0.001). Post-EHS 
+anti-endotoxin antibodies were higher (p < 0.01) and cortisol and interleukin-6 
+lower (p < 0.05) on GLUC than WATER only. Total and upper gastrointestinal 
+symptoms were greater on WPH, compared with GLUC and WATER (p < 0.05), in 
+response to EHS. In conclusion, carbohydrate and protein intake during EHS 
+ameliorates intestinal injury and permeability. Carbohydrate also supports 
+endotoxin clearance and reduces stress markers, while protein appears to 
+increase gastrointestinal symptoms, suggesting that carbohydrate is a more 
+appropriate option.
+
+DOI: 10.1139/apnm-2017-0361
+PMID: 28777927 [Indexed for MEDLINE]

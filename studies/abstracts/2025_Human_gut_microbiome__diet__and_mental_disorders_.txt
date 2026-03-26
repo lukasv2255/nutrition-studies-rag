@@ -1,0 +1,41 @@
+Title: Human gut microbiome, diet, and mental disorders.
+Authors: Borrego-Ruiz A
+Year: 2025
+Journal: Int Microbiol
+PMID: 38561477
+DOI: 10.1007/s10123-024-00518-6
+
+ABSTRACT:
+1. Int Microbiol. 2025 Jan;28(1):1-15. doi: 10.1007/s10123-024-00518-6. Epub 2024
+ Apr 1.
+
+Human gut microbiome, diet, and mental disorders.
+
+Borrego-Ruiz A(1), Borrego JJ(2).
+
+Author information:
+(1)Departamento de Psicología Social y de las Organizaciones, Universidad 
+Nacional de Educación a Distancia (UNED), Madrid, Spain.
+(2)Departamento de Microbiología, Universidad de Málaga. Instituto de 
+Investigación Biomédica de Málaga y Plataforma en Nanomedicina BIONAND, Málaga, 
+Spain. jjborrego@uma.es.
+
+Diet is one of the most important external factor shaping the composition and 
+metabolic activities of the gut microbiome. The gut microbiome plays a crucial 
+role in host health, including immune system development, nutrients metabolism, 
+and the synthesis of bioactive molecules. In addition, the gut microbiome has 
+been described as critical for the development of several mental disorders. 
+Nutritional psychiatry is an emerging field of research that may provide a link 
+between diet, microbial function, and brain health. In this study, we have 
+reviewed the influence of different diet types, such as Western, Mediterranean, 
+vegetarian, and ketogenic, on the gut microbiota composition and function, and 
+their implication in various neuropsychiatric and psychological disorders.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s10123-024-00518-6
+PMCID: PMC11775079
+PMID: 38561477 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.

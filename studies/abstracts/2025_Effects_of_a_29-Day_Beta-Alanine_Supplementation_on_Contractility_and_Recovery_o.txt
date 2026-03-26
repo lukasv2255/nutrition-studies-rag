@@ -1,0 +1,9 @@
+Title: Effects of a 29-Day Beta-Alanine Supplementation on Contractility and Recovery of the Musculus Rectus Femoris
+Year: 2025
+DOI: 10.5960/dzsm.2025.639
+
+ABSTRACT:
+Beta-alanine supplementation has been shown to improve fatigue-associated alterations in Ca2+ sensitivity and handling, thereby possibly delaying fatigue and recovery after exercise. Some in vitro data further indicate that beta-alanine positively affects muscle contractility.
+In this double-blind study, 24 physically active participants were randomly assigned to a placebo (n=12) and an intervention group (n=12). They performed an isokinetic exercise protocol consisting of 15 concentric and eccentric all-out contractions per set at ω=60°/s, ROM=0-170°, hip angle=110° and with a 2 min interset rest period until concentric force dropped below 50% of the predetermined peak force. Muscle contractility was tested during the interset rest periods and during a 24 h recovery period using Tensiomyography.
+No significant interaction effects for time group were found, indicating that beta-alanine did not improve work output, fatigue, or muscle contractility during or after maximum effort isokinetic knee extension.
+The lack of findings could be explained by exercise duration, type of exercise, dosing protocol, training status or a priori power analysis.

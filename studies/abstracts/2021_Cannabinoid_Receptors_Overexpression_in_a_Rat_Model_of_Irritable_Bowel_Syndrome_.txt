@@ -1,0 +1,6 @@
+Title: Cannabinoid Receptors Overexpression in a Rat Model of Irritable Bowel Syndrome (IBS) after Treatment with a Ketogenic Diet
+Year: 2021
+DOI: 10.3390/ijms22062880
+
+ABSTRACT:
+The administration of a ketogenic diet (KD) has been considered therapeutic in subjects with irritable bowel syndrome (IBS). This study aimed to investigate the molecular mechanisms by which a low-carbohydrate diet, such as KD, can improve gastrointestinal symptoms and functions in an animal model of IBS by evaluating possible changes in intestinal tissue expression of endocannabinoid receptors. In rats fed a KD, we detected a significant restoration of cell damage to the intestinal crypt base, a histological feature of IBS condition, and upregulation of CB1 and CB2 receptors. The diet also affected glucose metabolism and intestinal membrane permeability, with an overexpression of the glucose transporter GLUT1 and tight junction proteins in treated rats. The present data suggest that CB receptors represent one of the molecular pathways through which the KD works and support possible cannabinoid-mediated protection at the intestinal level in the IBS rats after dietary treatment.

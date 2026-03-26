@@ -1,0 +1,19 @@
+Title: Relevance of dietary glycemic index, glycemic load and fiber intake before and during pregnancy for the risk of gestational diabetes mellitus and maternal glucose homeostasis.
+Year: 2021
+DOI: 10.1016/j.clnu.2021.03.041
+
+ABSTRACT:
+BACKGROUND & AIMS
+To date, the prevalence of Gestational diabetes mellitus (GDM) in China was 17.5%. Given the substantial relevance of GDM for medium- and long-term health of both mother and offspring and the paucity of existing data on the link between maternal diet and glucose homeostasis during pregnancy in Asian population, additional studies are needed. To examine the relevance of dietary glycemic index (GI), glycemic load (GL) and fiber intake before and during pregnancy for the development of GDM and glucose homeostasis over the course of pregnancy.
+
+
+METHODS
+Cox proportional hazards analysis and linear mixed effects regressions were performed on data from 9317 women for whom three food frequency questionnaires (pre-pregnancy, 1st and 2nd trimesters) and biochemical measures during pregnancy were available. Investigated outcome variables included GDM risk, fasting plasma glucose (FPG), glycated hemoglobin (HbA1C), and homeostasis model assessment insulin resistance (HOMA-IR) in the 1st, 2nd and 3rd trimesters.
+
+
+RESULTS
+Women in the highest tertile of dietary GI (or GL) before pregnancy, in the 1st, or the 2nd trimester respectively had a 12% (15%), 25% (23%) or 29% (25%) higher risk of developing GDM than those in the lowest tertile (all p for trend ≤ 0.02). Women with the highest dietary fiber intake before pregnancy, in the 1st or 2nd trimester had a 11%, 17% or 18% lower GDM risk (all p for trend ≤ 0.03). Moreover, increases in GI or GL and decreases in fiber intake over the course of pregnancy (1st to 3rd trimesters) were independently associated with adverse concurrent developments in FPG, HbA1C and HOMA-IR (p ≤ 0.03).
+
+
+CONCLUSIONS
+Our study indicates that dietary GI, GL and fiber intake before and during pregnancy affects glucose homeostasis of pregnant Chinese women.

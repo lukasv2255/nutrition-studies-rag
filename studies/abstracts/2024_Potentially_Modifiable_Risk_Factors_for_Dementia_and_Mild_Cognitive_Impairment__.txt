@@ -1,0 +1,80 @@
+Title: Potentially Modifiable Risk Factors for Dementia and Mild Cognitive Impairment: An Umbrella Review and Meta-Analysis.
+Authors: Jones A
+Year: 2024
+Journal: Dement Geriatr Cogn Disord
+PMID: 38346414
+DOI: 10.1159/000536643
+
+ABSTRACT:
+1. Dement Geriatr Cogn Disord. 2024;53(2):91-106. doi: 10.1159/000536643. Epub
+2024  Feb 26.
+
+Potentially Modifiable Risk Factors for Dementia and Mild Cognitive Impairment: 
+An Umbrella Review and Meta-Analysis.
+
+Jones A(1)(2), Ali MU(1), Kenny M(1), Mayhew A(1)(2)(3), Mokashi V(4), He H(5), 
+Lin S(6), Yavari E(6), Paik K(6), Subramanian D(5), Dydynsky R(6), Aryal K(1), 
+Correia RH(1), Dash D(1), Manis DR(7), O'Connell M(8), Liu-Ambrose T(9)(10)(11), 
+Taler V(12)(13), McMillan JM(14), Hogan DB(14), Kirkland S(15), Costa AP(1)(2), 
+Wolfson C(16)(17), Raina P(1)(2)(3), Griffith L(1)(2)(3).
+
+Author information:
+(1)Department of Health Research Methods, Evidence, and Impact, McMaster 
+University, Hamilton, Ontario, Canada.
+(2)McMaster Institute for Research on Aging, Hamilton, Ontario, Canada.
+(3)Labarge Centre for Mobility in Aging, Hamilton, Ontario, Canada.
+(4)School of Life Sciences, McMaster University, Hamilton, Ontario, Canada.
+(5)Michael G. DeGroote School of Medicine, Hamilton, Ontario, Canada.
+(6)Department of Family and Community Medicine, University of Toronto, Toronto, 
+Ontario, Canada.
+(7)Edson College of Nursing and Health Innovation, Arizona State University, 
+Phoenix, Arizona, USA.
+(8)Department of Psychology, University of Saskatchewan, Saskatoon, 
+Saskatchewan, Canada.
+(9)Department of Physical Therapy, University of British Columbia, Vancouver, 
+British Columbia, Canada.
+(10)Centre for Aging SMART at Vancouver Coastal Health, Vancouver Coastal Health 
+Research Institute, Vancouver, British Columbia, Canada.
+(11)Djavad Mowafaghian Centre for Brain Health, Vancouver Coastal Health 
+Research Institute, Vancouver, British Columbia, Canada.
+(12)School of Psychology, University of Ottawa, Ottawa, Ontario, Canada.
+(13)Bruyère Research Institute, Ottawa, Ontario, Canada.
+(14)Division of Geriatric Medicine, Cumming School of Medicine, University of 
+Calgary, Calgary, Alberta, Canada.
+(15)Department of Community Health and Epidemiology and Division of Geriatric 
+Medicine, Dalhousie University, Halifax, Nova Scotia, Canada.
+(16)Department of Epidemiology, Biostatistics and Occupational Health, School of 
+Population and Global Health and Department of Medicine, McGill University, QC, 
+Montreal, Canada.
+(17)Research Institute of the McGill University Health Centre, QC, Montreal, 
+Canada.
+
+INTRODUCTION: The prevalence of mild and major neurocognitive disorders (NCDs), 
+also referred to as mild cognitive impairment and dementia, is rising globally. 
+The prevention of NCDs is a major global public health interest. We sought to 
+synthesize the literature on potentially modifiable risk factors for NCDs.
+METHODS: We conducted an umbrella review using a systematic search across 
+multiple databases to identify relevant systematic reviews and meta-analyses. 
+Eligible reviews examined potentially modifiable risk factors for mild or major 
+NCDs. We used a random-effects multi-level meta-analytic approach to synthesize 
+risk ratios for each risk factor while accounting for overlap in the reviews. We 
+further examined risk factors for major NCD due to two common etiologies: 
+Alzheimer's disease and vascular dementia.
+RESULTS: A total of 45 reviews with 212 meta-analyses were synthesized. We 
+identified fourteen broadly defined modifiable risk factors that were 
+significantly associated with these disorders: alcohol consumption, body weight, 
+depression, diabetes mellitus, diet, hypertension, less education, physical 
+inactivity, sensory loss, sleep disturbance, smoking, social isolation, 
+traumatic brain injury, and vitamin D deficiency. All 14 factors were associated 
+with the risk of major NCD, and five were associated with mild NCD. We found 
+considerably less research for vascular dementia and mild NCD.
+CONCLUSION: Our review quantifies the risk associated with 14 potentially 
+modifiable risk factors for mild and major NCDs, including several factors 
+infrequently included in dementia action plans. Prevention strategies should 
+consider approaches that reduce the incidence and severity of these risk factors 
+through health promotion, identification, and early management.
+
+© 2024 S. Karger AG, Basel.
+
+DOI: 10.1159/000536643
+PMID: 38346414 [Indexed for MEDLINE]

@@ -1,0 +1,14 @@
+Title: C60 fullerene improves the recovery of biomechanical parameters of muscle soleus contraction in rats after chronic alcoholization
+Year: 2024
+DOI: 10.26565/2075-3810-2024-51-05
+
+ABSTRACT:
+Background: Recovery of biomechanical parameters of contraction of muscles damaged by alcoholic myopathy is a rather complex and long-term process. Therefore, the search for effective therapeutic means for its acceleration is an extremely urgent task in biomedicine.
+
+Aim of work: The effect of C60 fullerene aqueous solution (C60FAS) on the dynamics of skeletal muscle contraction in rats after 9 months of chronic alcoholization and 2 months after cessation of alcohol consumption was investigated.
+
+Materials and Methods: When analyzing the miotic response using tensometry, such biomechanical parameters as the time of reduction of the muscle force response by 50% from the initial value, the values of the contraction force and the impulse of the muscle force were evaluated.
+
+Results: It has been shown that animals orally administered alcohol and C60FAS (daily dose of 1 mg/kg) together (scheme II) during the experiment showed an increase in muscle force response by 40–45±2% compared with the group of alcoholized animals and by 12–15±1% compared with the group of rats administered C60FAS 1 h after alcohol ingestion (scheme I). The positive effect of C60FAS administration according to scheme II and scheme I was 34±2% and 10±1%, respectively, compared with the group of alcoholized animals in the case of recording the time of reduction of the muscle force response by 50% of the initial value. After 2 months of rehabilitation, the level of minimum muscle contraction force when using C60FAS in both schemes differed by about 15±1% compared to the group of alcoholized animals, and the time of reduction of the force response by 50% was not significantly recorded. Finally, the use of C60FAS revealed a significant increase in the magnitude of the muscle force impulse: up to 86±4% (scheme I) and almost to control values — 94±2% (scheme II).
+
+Conclusions: The obtained results indicate the prospects of using C60FAS to restore the biomechanical parameters of skeletal muscle contraction during long-term development of alcoholic myopathy.

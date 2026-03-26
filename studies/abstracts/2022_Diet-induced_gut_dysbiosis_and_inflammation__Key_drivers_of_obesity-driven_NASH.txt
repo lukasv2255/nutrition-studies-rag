@@ -1,0 +1,6 @@
+Title: Diet-induced gut dysbiosis and inflammation: Key drivers of obesity-driven NASH
+Year: 2022
+DOI: 10.1016/j.isci.2022.105905
+
+ABSTRACT:
+Summary Sucrose, the primary circulating sugar in plants, contains equal amounts of fructose and glucose. The latter is the predominant circulating sugar in animals and thus the primary fuel source for various tissue and cell types in the body. Chronic excessive energy intake has, however, emerged as a major driver of obesity and associated pathologies including nonalcoholic fatty liver diseases (NAFLD) and the more severe nonalcoholic steatohepatitis (NASH). Consumption of a high-caloric, western-style diet induces gut dysbiosis and inflammation resulting in leaky gut. Translocation of gut-derived bacterial content promotes hepatic inflammation and ER stress, and when either or both of these are combined with steatosis, it can cause NASH. Here, we review the metabolic links between diet-induced changes in the gut and NASH. Furthermore, therapeutic interventions for the treatment of obesity and liver metabolic diseases are also discussed with a focus on restoring the gut-liver axis.

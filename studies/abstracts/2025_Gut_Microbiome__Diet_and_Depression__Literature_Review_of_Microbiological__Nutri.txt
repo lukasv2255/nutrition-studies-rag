@@ -1,0 +1,53 @@
+Title: Gut Microbiome, Diet and Depression: Literature Review of Microbiological, Nutritional and Neuroscientific Aspects.
+Authors: Clerici L
+Year: 2025
+Journal: Curr Nutr Rep
+PMID: 39928205
+DOI: 10.1007/s13668-025-00619-2
+
+ABSTRACT:
+1. Curr Nutr Rep. 2025 Feb 10;14(1):30. doi: 10.1007/s13668-025-00619-2.
+
+Gut Microbiome, Diet and Depression: Literature Review of Microbiological, 
+Nutritional and Neuroscientific Aspects.
+
+Clerici L(1), Bottari D(2), Bottari B(3).
+
+Author information:
+(1)Department of Food and Drug, University of Parma, Parma, Italy.
+(2)IMT School for Advanced Studies, Lucca, Italy.
+(3)Department of Food and Drug, University of Parma, Parma, Italy. 
+benedetta.bottari@unipr.it.
+
+PURPOSE OF REVIEW: This review explores the intricate relationships among the 
+gut microbiota, dietary patterns, and mental health, focusing specifically on 
+depression. It synthesizes insights from microbiological, nutritional, and 
+neuroscientific perspectives to understand how the gut-brain axis influences 
+mood and cognitive function.
+RECENT FINDINGS: Recent studies underscore the central role of gut microbiota in 
+modulating neurological and psychological health via the gut-brain axis. Key 
+findings highlight the importance of dietary components, including probiotics, 
+prebiotics, and psychobiotics, in restoring microbial balance and enhancing mood 
+regulation. Different dietary patterns exhibit a profound impact on gut 
+microbiota composition, suggesting their potential as complementary strategies 
+for mental health support. Furthermore, mechanisms like tryptophan metabolism, 
+the HPA axis, and microbial metabolites such as SCFAs are implicated in linking 
+diet and microbiota to depression. Clinical trials show promising effects of 
+probiotics in alleviating depressive symptoms. This review illuminates the 
+potential of diet-based interventions targeting the gut microbiota to mitigate 
+depression and improve mental health. While the interplay between microbial 
+diversity, diet, and brain function offers promising therapeutic avenues, 
+further clinical research is needed to validate these findings and establish 
+robust, individualized treatment strategies.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s13668-025-00619-2
+PMCID: PMC11811453
+PMID: 39928205 [Indexed for MEDLINE]
+
+Conflict of interest statement: Compliance with Ethical Standards. Institutional 
+Review Board Statement: Not applicable. Informed Consent Statement: Not 
+applicable. Conflicts of Interest: The authors declare no competing interests. 
+Human and Animal Rights and Informed Consent: This article does not contain any 
+studies with human or animal subjects performed by any of the authors.

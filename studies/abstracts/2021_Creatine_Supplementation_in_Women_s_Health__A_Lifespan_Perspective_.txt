@@ -1,0 +1,51 @@
+Title: Creatine Supplementation in Women's Health: A Lifespan Perspective.
+Authors: Smith-Ryan AE
+Year: 2021
+Journal: Nutrients
+PMID: 33800439
+DOI: 10.3390/nu13030877
+
+ABSTRACT:
+1. Nutrients. 2021 Mar 8;13(3):877. doi: 10.3390/nu13030877.
+
+Creatine Supplementation in Women's Health: A Lifespan Perspective.
+
+Smith-Ryan AE(1)(2), Cabre HE(1)(2), Eckerson JM(3), Candow DG(4).
+
+Author information:
+(1)Applied Physiology Laboratory, Department of Exercise and Sport Science, 
+University of North Carolina at Chapel Hill, Chapel Hill, NC 27713, USA.
+(2)Human Movement Science Curriculum, Department of Allied Health Science, 
+University of North Carolina at Chapel Hill, Chapel Hill, NC 27713, USA.
+(3)Department of Exercise Science and Pre-Health Professions, Creighton 
+University, Omaha, NE 68178, USA.
+(4)Aging Muscle & Bone Laboratory, Faculty of Kinesiology & Healthy Studies, 
+University of Regina, Regina, SK S4S 0A2, Canada.
+
+Despite extensive research on creatine, evidence for use among females is 
+understudied. Creatine characteristics vary between males and females, with 
+females exhibiting 70-80% lower endogenous creatine stores compared to males. 
+Understanding creatine metabolism pre- and post-menopause yields important 
+implications for creatine supplementation for performance and health among 
+females. Due to the hormone-related changes to creatine kinetics and 
+phosphocreatine resynthesis, supplementation may be particularly important 
+during menses, pregnancy, post-partum, during and post-menopause. Creatine 
+supplementation among pre-menopausal females appears to be effective for 
+improving strength and exercise performance. Post-menopausal females may also 
+experience benefits in skeletal muscle size and function when consuming high 
+doses of creatine (0.3 g·kg-1·d-1); and favorable effects on bone when combined 
+with resistance training. Pre-clinical and clinical evidence indicates positive 
+effects from creatine supplementation on mood and cognition, possibly by 
+restoring brain energy levels and homeostasis. Creatine supplementation may be 
+even more effective for females by supporting a pro-energetic environment in the 
+brain. The purpose of this review was to highlight the use of creatine in 
+females across the lifespan with particular emphasis on performance, body 
+composition, mood, and dosing strategies.
+
+DOI: 10.3390/nu13030877
+PMCID: PMC7998865
+PMID: 33800439 [Indexed for MEDLINE]
+
+Conflict of interest statement: Abbie Smith-Ryan and Darren Candow serve as 
+scientific advisors to Alzchem, a company that makes creatine. Alzchem had no 
+role in the content or writing of this paper.

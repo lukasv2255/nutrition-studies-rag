@@ -1,0 +1,45 @@
+Title: Magnesium and Migraine.
+Authors: Dominguez LJ
+Year: 2025
+Journal: Nutrients
+PMID: 40005053
+DOI: 10.3390/nu17040725
+
+ABSTRACT:
+1. Nutrients. 2025 Feb 18;17(4):725. doi: 10.3390/nu17040725.
+
+Magnesium and Migraine.
+
+Dominguez LJ(1), Veronese N(2), Sabico S(3), Al-Daghri NM(3), Barbagallo M(2).
+
+Author information:
+(1)Department of Medicine, "Kore" University of Enna, 94100 Enna, Italy.
+(2)Geriatric Unit, Department of Medicine, University of Palermo, 90127 Palermo, 
+Italy.
+(3)Chair for Biomarkers of Chronic Diseases, Biochemistry Department, College of 
+Science, King Saud University, Riyadh 11451, Saudi Arabia.
+
+Migraine is a widespread and intricate neurological condition that involves 
+various factors and is marked by recurring headache episodes. Migraine is among 
+the ten neurological conditions accounting for the greatest disability in the 
+whole population, the leading cause of disability for children and adolescents 
+aged 5-19 years, and the second cause of disability for adults aged 20-59 years. 
+Magnesium deficiency is also a very common condition resulting from diverse 
+reasons, including insufficient dietary consumption or increased loss through 
+the gastrointestinal or renal system. Accumulated evidence from case reports, 
+case-control studies, observational studies, and randomized, placebo-controlled 
+trials has shown the effectiveness of magnesium supplementation in alleviating 
+migraine, both acutely and chronically. Mechanisms that may help explain these 
+results include the potential link between magnesium deficit and spreading 
+cortical depression, vascular changes, oxidative stress, chronic inflammation, 
+nervous excitation, neurotransmitter release, and electrolyte imbalances. This 
+article aims to provide a comprehensive review of the available evidence on the 
+links between magnesium and migraine, considering the role of magnesium in the 
+pathogenesis of migraine and the utility of magnesium in its prevention and 
+treatment.
+
+DOI: 10.3390/nu17040725
+PMCID: PMC11858643
+PMID: 40005053 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

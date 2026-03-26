@@ -1,0 +1,19 @@
+Title: Low Energy Intake Leads to Body Composition and Performance Decrements in a Highly-Trained, Female Athlete: The WANDER (Woman's Activity and Nutrition during an Extensive Hiking Route) Case Study.
+Year: 2023
+DOI: 10.1080/27697061.2023.2282614
+
+ABSTRACT:
+OBJECTIVE
+This case study's purpose was to quantify energy intake vs energy expenditure during a thru-hiker's trek and assess its relationship to performance and health.
+
+
+METHODS
+A highly trained, female thru-hiker (Age (yrs): 62, Ht (cm): 157, Wt (kg): 53.5, BMI (kg/m2): 21.7, %BF: 26.0) embarked on a 4-month journey through the Pacific Crest Trail, USA. The athlete's body composition and 3-day diet record were assessed before (PRE) and after the hike (POST). During the hike, she tracked her diet and performance daily and completed a wellness survey each time she reached a town-check point. Data were analyzed for descriptive (weekly averages, means ± SD) and frequency statistics.
+
+
+RESULTS
+She spent 10 wk (∼70 days) on the trail and hiked 1,506.35 km (26.1 ± 3.2 km/day) with an estimated energy expenditure of ∼2334 ± 351 kcal/day. During the hike, she under consumed calories (1285.3 ± 103 kcal) and dietary carbohydrate (169.5 ± 19.5g), fat (49.7 ± 5.8g), protein (41.9 ± 4.8g; 0.8 g/kg), fiber (11.8 ± 2.1g) and sodium (1642.4 ± 298.6 mg) when compared to ultra-endurance nutrition recommendations. She was unable to complete the trail due to fatigue and anthropometric changes. By POST, she had decreased total mass (PRE: 53.5 kg vs POST: 48.4 kg), BMI (PRE 21.6 vs POST: 19.5), fat-free mass (PRE: 39.6 vs POST: 38.8), and body fat (PRE: 26% vs POST: 19.6%) when compared to PRE.
+
+
+CONCLUSION
+Trail-related challenges combined with high energy expenditures led to low nutrient intake which contributed to trail-ending injuries and performance decrements. Research aimed at addressing the barriers associated with thru-hike fueling is needed to identify nutritional opportunities to support hikers' performance and reduce injury risks.

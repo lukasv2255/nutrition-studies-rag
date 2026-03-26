@@ -1,0 +1,52 @@
+Title: Anti-inflammatory effects of glucagon-like peptide-1 (GLP-1) in coronary artery disease: a comprehensive review.
+Authors: Skrobucha A
+Year: 2024
+Journal: Front Cardiovasc Med
+PMID: 39741663
+DOI: 10.3389/fcvm.2024.1446468
+
+ABSTRACT:
+1. Front Cardiovasc Med. 2024 Dec 16;11:1446468. doi: 10.3389/fcvm.2024.1446468. 
+eCollection 2024.
+
+Anti-inflammatory effects of glucagon-like peptide-1 (GLP-1) in coronary artery 
+disease: a comprehensive review.
+
+Skrobucha A(1), Pindlowski P(1), Krajewska N(1), Grabowski M(1), Jonik S(1).
+
+Author information:
+(1)1st Department of Cardiology, Medical University of Warsaw, Warsaw, Poland.
+
+Coronary artery disease (CAD)-cardiovascular condition occuring due to 
+atherosclerotic plaque accumulation in the epicardial arteries-is responsible 
+for disabilities of millions of people worldwide and remains the most common 
+single cause of death. Inflammation is the primary pathological mechanism 
+underlying CAD, since is involved in atherosclerotic plaque formation. 
+Glucagon-like peptide-1 (GLP-1) is a peptide hormone which role extends beyond 
+well-known carbohydrates metabolism. In in vitro studies GLP-1 receptor agonism 
+is associated with regulation of several inflammatory pathways, including 
+cytokine production, lypotoxicity and macrophages differentiation. In this 
+review, we aimed to provide a comprehensive summary of the potential 
+relationship between anti-inflammatory effects of GLP-1 and CAD. We have 
+described a well-established association of anti-inflammatory properties of 
+GLP-1 and atherosclerosis in animals. Pre-clinical studies showed that 
+anti-atherogenic effect of GLP-1 is independent of modulation of plasma lipid 
+levels and depends on anti-inflammatory response. Human studies in this area are 
+limited by small sample size and often nonrandomized character. However, 
+beneficial impact of GLP-1 on endothelial function and microcirculatory 
+integrity in patients with CAD have been described. Understanding 
+atherosclerosis as a chronic inflammatory disease offers new opportunities for 
+the prevention and treatment of CAD. Therefore, we emphasize the need for larger 
+randomized controlled trials focusing on cardiovascular morbidity and mortality 
+to verify the cardioprotective properties of GLP-1R agonists in patients with 
+CAD.
+
+© 2024 Skrobucha, Pindlowski, Krajewska, Grabowski and Jonik.
+
+DOI: 10.3389/fcvm.2024.1446468
+PMCID: PMC11685754
+PMID: 39741663
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

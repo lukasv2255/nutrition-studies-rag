@@ -1,0 +1,59 @@
+Title: Oral magnesium supplementation for insomnia in older adults: a Systematic Review & Meta-Analysis.
+Authors: Mah J
+Year: 2021
+Journal: BMC Complement Med Ther
+PMID: 33865376
+DOI: 10.1186/s12906-021-03297-z
+
+ABSTRACT:
+1. BMC Complement Med Ther. 2021 Apr 17;21(1):125. doi:
+10.1186/s12906-021-03297-z.
+
+Oral magnesium supplementation for insomnia in older adults: a Systematic Review 
+& Meta-Analysis.
+
+Mah J(1), Pitre T(2)(3).
+
+Author information:
+(1)Department of Medicine, Dalhousie University, Halifax, NS, Canada. 
+jmah@dal.ca.
+(2)Division of Internal Medicine, McMaster University, Hamilton, ON, Canada.
+(3)Michael G. DeGroote School of Medicine (Waterloo Regional Campus), McMaster 
+University, Hamilton, ON, Canada.
+
+Erratum in
+    BMC Complement Med Ther. 2024 Dec 19;24(1):418. doi: 
+10.1186/s12906-024-04721-w.
+
+BACKGROUND: Magnesium supplementation is often purported to improve sleep; 
+however, as both an over-the-counter sleep aid and a complementary and 
+alternative medicine, there is limited evidence to support this assertion. The 
+aim was to assess the effectiveness and safety of magnesium supplementation for 
+older adults with insomnia.
+METHODS: A search was conducted in MEDLINE, EMBASE, Allied and Complementary 
+Medicine, clinicaltrials.gov and two grey literature databases comparing 
+magnesium supplementation to placebo or no treatment. Outcomes were sleep 
+quality, quantity, and adverse events. Risk of bias and quality of evidence 
+assessments were carried out using the RoB 2.0 and Grading of Recommendations 
+Assessment, Development and Evaluation (GRADE) approaches. Data was pooled and 
+treatment effects were quantified using mean differences. For remaining 
+outcomes, a modified effects direction plot was used for data synthesis.
+RESULTS: Three randomized control trials (RCT) were identified comparing oral 
+magnesium to placebo in 151 older adults in three countries. Pooled analysis 
+showed that post-intervention sleep onset latency time was 17.36 min less after 
+magnesium supplementation compared to placebo (95% CI - 27.27 to - 7.44, 
+p = 0.0006). Total sleep time improved by 16.06 min in the magnesium 
+supplementation group but was statistically insignificant. All trials were at 
+moderate-to-high risk of bias and outcomes were supported by low to very low 
+quality of evidence.
+CONCLUSION: This review confirms that the quality of literature is substandard 
+for physicians to make well-informed recommendations on usage of oral magnesium 
+for older adults with insomnia. However, given that oral magnesium is very cheap 
+and widely available, RCT evidence may support oral magnesium supplements (less 
+than 1 g quantities given up to three times a day) for insomnia symptoms.
+
+DOI: 10.1186/s12906-021-03297-z
+PMCID: PMC8053283
+PMID: 33865376 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.

@@ -1,0 +1,57 @@
+Title: Benefits of a Paleolithic diet with and without supervised exercise on fat mass, insulin sensitivity, and glycemic control: a randomized controlled trial in individuals with type 2 diabetes
+Year: 2017
+DOI: 10.1002/dmrr.2828
+
+ABSTRACT:
+1. Diabetes Metab Res Rev. 2017 Jan;33(1):10.1002/dmrr.2828. doi: 
+10.1002/dmrr.2828. Epub 2016 Jun 30.
+
+Benefits of a Paleolithic diet with and without supervised exercise on fat mass, 
+insulin sensitivity, and glycemic control: a randomized controlled trial in 
+individuals with type 2 diabetes.
+
+Otten J(#)(1), Stomby A(#)(1), Waling M(2), Isaksson A(3), Tellström A(1), 
+Lundin-Olsson L(4), Brage S(5), Ryberg M(1), Svensson M(3), Olsson T(1).
+
+Author information:
+(1)Department of Public Health and Clinical Medicine, Medicine, Umeå University, 
+Umeå, Sweden.
+(2)Department of Food and Nutrition, Umeå University, Umeå, Sweden.
+(3)Department of Community Medicine and Rehabilitation, Sports Medicine Unit, 
+Umeå University, Umeå, Sweden.
+(4)Department of Community Medicine and Rehabilitation, Physiotherapy, Umeå 
+University, Umeå, Sweden.
+(5)MRC Epidemiology Unit, University of Cambridge, Cambridge, UK.
+(#)Contributed equally
+
+BACKGROUND: Means to reduce future risk for cardiovascular disease in subjects 
+with type 2 diabetes are urgently needed.
+METHODS: Thirty-two patients with type 2 diabetes (age 59 ± 8 years) followed a 
+Paleolithic diet for 12 weeks. Participants were randomized to either standard 
+care exercise recommendations (PD) or 1-h supervised exercise sessions (aerobic 
+exercise and resistance training) three times per week (PD-EX).
+RESULTS: For the within group analyses, fat mass decreased by 5.7 kg (IQR: -6.6, 
+-4.1; p < 0.001) in the PD group and by 6.7 kg (-8.2, -5.3; p < 0.001) in the 
+PD-EX group. Insulin sensitivity (HOMA-IR) improved by 45% in the PD (p < 0.001) 
+and PD-EX (p < 0.001) groups. HbA1c decreased by 0.9% (-1.2, -0.6; p < 0.001) in 
+the PD group and 1.1% (-1.7, -0.7; p < 0.01) in the PD-EX group. Leptin 
+decreased by 62% (p < 0.001) in the PD group and 42% (p < 0.001) in the PD-EX 
+group. Maximum oxygen uptake increased by 0.2 L/min (0.0, 0.3) in the PD-EX 
+group, and remained unchanged in the PD group (p < 0.01 for the difference 
+between intervention groups). Male participants decreased lean mass by 2.6 kg 
+(-3.6, -1.3) in the PD group and by 1.2 kg (-1.3, 1.0) in the PD-EX group 
+(p < 0.05 for the difference between intervention groups).
+CONCLUSIONS: A Paleolithic diet improves fat mass and metabolic balance 
+including insulin sensitivity, glycemic control, and leptin in subjects with 
+type 2 diabetes. Supervised exercise training may not enhance the effects on 
+these outcomes, but preserves lean mass in men and increases cardiovascular 
+fitness. Copyright © 2016 John Wiley & Sons, Ltd.
+
+Copyright © 2016 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/dmrr.2828
+PMCID: PMC5402870
+PMID: 27235022 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors declare that 
+there is no duality of interest associated with this manuscript.

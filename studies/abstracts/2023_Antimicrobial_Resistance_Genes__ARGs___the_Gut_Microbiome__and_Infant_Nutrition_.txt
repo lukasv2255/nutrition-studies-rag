@@ -1,0 +1,36 @@
+Title: Antimicrobial Resistance Genes (ARGs), the Gut Microbiome, and Infant Nutrition.
+Authors: Theophilus RJ
+Year: 2023
+Journal: Nutrients
+PMID: 37513595
+DOI: 10.3390/nu15143177
+
+ABSTRACT:
+1. Nutrients. 2023 Jul 18;15(14):3177. doi: 10.3390/nu15143177.
+
+Antimicrobial Resistance Genes (ARGs), the Gut Microbiome, and Infant Nutrition.
+
+Theophilus RJ(1), Taft DH(1).
+
+Author information:
+(1)Food Science and Human Nutrition Department, University of Florida, 
+Gainesville, FL 32611, USA.
+
+The spread of antimicrobial resistance genes (ARGs) is a major public health 
+crisis, with the ongoing spread of ARGs leading to reduced efficacy of 
+antibiotic treatments. The gut microbiome is a key reservoir for ARGs, and 
+because diet shapes the gut microbiome, diet also has the potential to shape the 
+resistome. This diet-gut microbiome-resistome relationship may also be important 
+in infants and young children. This narrative review examines what is known 
+about the interaction between the infant gut microbiome, the infant resistome, 
+and infant nutrition, including exploring the potential of diet to mitigate 
+infant ARG carriage. While more research is needed, diet has the potential to 
+reduce infant and toddler carriage of ARGs, an important goal as part of 
+maintaining the efficacy of available antibiotics and preserving infant and 
+toddler health.
+
+DOI: 10.3390/nu15143177
+PMCID: PMC10383493
+PMID: 37513595 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

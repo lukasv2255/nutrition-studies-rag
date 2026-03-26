@@ -1,0 +1,60 @@
+Title: Effects of magnesium supplementation on muscle soreness in different type of physical activities: a systematic review.
+Authors: Tarsitano MG
+Year: 2024
+Journal: J Transl Med
+PMID: 38970118
+DOI: 10.1186/s12967-024-05434-x
+
+ABSTRACT:
+1. J Transl Med. 2024 Jul 5;22(1):629. doi: 10.1186/s12967-024-05434-x.
+
+Effects of magnesium supplementation on muscle soreness in different type of 
+physical activities: a systematic review.
+
+Tarsitano MG(1), Quinzi F(2), Folino K(2), Greco F(3), Oranges FP(4), Cerulli 
+C(3), Emerenziani GP(2).
+
+Author information:
+(1)Department of Medical and Surgical Sciences, University Magna Graecia of 
+Catanzaro, 88100, Catanzaro, CZ, Italy. mariagrazia.tarsitano@unicz.it.
+(2)Department of Experimental and Clinical Medicine, University "Magna Græcia" 
+of Catanzaro, Catanzaro, CZ, Italy.
+(3)Department of Movement, Human and Health Sciences, University "Foro Italico" 
+of Rome, RM, Italy.
+(4)Department of Medical and Surgical Sciences, University Magna Graecia of 
+Catanzaro, 88100, Catanzaro, CZ, Italy.
+
+BACKGROUND: Magnesium is a micronutrient and an intracellular cation responsible 
+for different biochemical reactions involved in energy production and storage, 
+control of neuronal and vasomotor activity, cardiac excitability, and muscle 
+contraction. Magnesium deficiency may result in impaired physical performance. 
+Moreover, magnesium plays an important role on delayed onset muscle soreness 
+after training. Thus, physically active individuals and sport specialists have 
+to pay attention to magnesium supplementation (MgS). However, the type, timing 
+and dosage of magnesium intake are not well elucidated yet. Hence, we aimed to 
+systematically review the literature regarding the effects of MgS on muscle 
+soreness in physically active individuals. We focused exclusively on MgS, 
+excluding those studies in which magnesium was administered together with other 
+substances.
+METHODS: Three electronic databases and literature sources (PUBMED, SCOPUS and 
+Web of Sciences-Core Collection) were searched, in accordance with PRISMA 
+guidelines. After the database search, 1254 articles were identified, and after 
+excluding duplicates, 960 articles remained. Among these, 955 were excluded 
+following the title and abstract screening. The remaining 5 articles were 
+screened in full text and 4 study met the eligibility criteria.
+RESULTS: These studies showed that MgS reduced muscle soreness, improved 
+performance, recovery and induced a protective effect on muscle damage.
+CONCLUSION: To reach these positive effects, individuals engaged in intense 
+exercise should have a Mg requirement 10-20% higher than sedentary people, to be 
+taken in capsules and 2 h before training. Moreover, it is suggested to maintain 
+magnesium levels in the recommended range during the off-season.
+SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration number: CRD42024501822.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12967-024-05434-x
+PMCID: PMC11227245
+PMID: 38970118 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no potential competing 
+interest.

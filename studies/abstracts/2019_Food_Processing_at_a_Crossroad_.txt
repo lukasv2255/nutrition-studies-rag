@@ -1,0 +1,45 @@
+Title: Food Processing at a Crossroad.
+Authors: Knorr D
+Year: 2019
+Journal: Front Nutr
+PMID: 31294027
+DOI: 10.3389/fnut.2019.00085
+
+ABSTRACT:
+1. Front Nutr. 2019 Jun 25;6:85. doi: 10.3389/fnut.2019.00085. eCollection 2019.
+
+Food Processing at a Crossroad.
+
+Knorr D(1), Watzke H(2).
+
+Author information:
+(1)Food Biotechnology and Food Process Engineering, Technical University Berlin, 
+Berlin, Germany.
+(2)Dr. Phil. Watzke Heribert Consulting, Lausanne, Switzerland.
+
+Recently, processed foods received negative images among consumers and experts 
+regarding food-health imbalance. This stresses the importance of the food 
+processing-nutrition interface and its relevance within the diet-health debates. 
+In this review, we approach the related questions in a 3-fold way. Pointing out 
+the distinguished role food processing has played in the development of the 
+human condition and during its 1.7 million year old history, we show the 
+function of food processing for the general design principles of food products. 
+Secondly, a detailed analysis of consumer related design principles and 
+processing reveals questions remaining from the historical transformation from 
+basic cooking into advanced food technology. As a consequence, we analyze new 
+and emerging technologies in relation to their contributions to food-health 
+impacts. During the last 35 years, new and emerging food technologies have 
+initiated a paradigm shift away from conventional process methodologies to 
+gentler, non-thermal processing. Reducing the existing uncertainties in the 
+assessment of impact of technology like "minimal processing," we propose the use 
+of the newly established ISO standard for natural food ingredients as a 
+"reference point." Finally, we assess the usefulness of recently proposed 
+classification systems, e.g., NOVA classification, based on comprehensive 
+insights of recently published nutritional analysis of those classifications. 
+This paper calls for a radical change and worldwide adaptation of the key 
+research and developmental areas tackling the grand challenges in our food 
+systems.
+
+DOI: 10.3389/fnut.2019.00085
+PMCID: PMC6603079
+PMID: 31294027

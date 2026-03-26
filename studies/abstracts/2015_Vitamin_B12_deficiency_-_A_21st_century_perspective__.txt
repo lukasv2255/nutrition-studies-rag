@@ -1,0 +1,42 @@
+Title: Vitamin B12 deficiency - A 21st century perspective .
+Authors: Shipton MJ
+Year: 2015
+Journal: Clin Med (Lond)
+PMID: 25824066
+DOI: 10.7861/clinmedicine.15-2-145
+
+ABSTRACT:
+1. Clin Med (Lond). 2015 Apr;15(2):145-50. doi: 10.7861/clinmedicine.15-2-145.
+
+Vitamin B12 deficiency - A 21st century perspective .
+
+Shipton MJ(1), Thachil J(2).
+
+Author information:
+(1)School of Medicine, University of Manchester, Manchester, UK;
+(2)Department of Haematology, Manchester Royal Infirmary, Manchester, UK 
+jecko.thachil@cmft.nhs.uk.
+
+Comment in
+    Clin Med (Lond). 2015 Aug;15(4):402. doi: 10.7861/clinmedicine.15-4-402.
+    Clin Med (Lond). 2015 Aug;15(4):402-3. doi: 10.7861/clinmedicine.15-4-402a.
+
+Vitamin B12 deficiency is a common condition which can present with non-specific 
+clinical features, and in severe cases with neurological or haematological 
+abnormalities. Although classically caused by pernicious anaemia, this condition 
+now accounts for a minority of cases and vitamin B12 deficiency occurs most 
+often due to food-bound cobalamin malabsorption. Since missing the diagnosis can 
+result in potentially severe complications, including degeneration of the spinal 
+cord and pancytopaenia, vitamin B12 deficiency must be diagnosed early and 
+managed appropriately. Intramuscular injections have been the mainstay of 
+treatment, but oral replacement therapy can be effective in many cases. There is 
+accumulating evidence that high vitamin B12 levels (values varied from 350-1,200 
+pmol/l) are associated with haematological and hepatic disorders, in particular 
+with malignancy. This review focuses on the developments in the clinical 
+features and management of vitamin B12 deficiency over the last decade.
+
+© 2015 Royal College of Physicians.
+
+DOI: 10.7861/clinmedicine.15-2-145
+PMCID: PMC4953733
+PMID: 25824066 [Indexed for MEDLINE]

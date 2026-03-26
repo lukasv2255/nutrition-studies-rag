@@ -1,0 +1,63 @@
+Title: Impact of intermittent fasting on health and disease processes.
+Authors: Mattson MP
+Year: 2017
+Journal: Ageing Res Rev
+PMID: 27810402
+DOI: 10.1016/j.arr.2016.10.005
+
+ABSTRACT:
+1. Ageing Res Rev. 2017 Oct;39:46-58. doi: 10.1016/j.arr.2016.10.005. Epub 2016
+Oct  31.
+
+Impact of intermittent fasting on health and disease processes.
+
+Mattson MP(1), Longo VD(2), Harvie M(3).
+
+Author information:
+(1)Laboratory of Neurosciences, National Institute on Aging, Baltimore, MD 
+21224, United States; Department of Neuroscience, The Johns Hopkins University 
+School of Medicine, Baltimore, MD 21205, United States. Electronic address: 
+mark.mattson@nih.gov.
+(2)Longevity Institute, Davis School of Gerontology and Department of Biological 
+Sciences, University of Southern California, Los Angeles, CA 90089, United 
+States.
+(3)Genesis Breast Cancer Prevention Centre, University Hospital South 
+Manchester, Wythenshaw, M23 9LT Manchester, United Kingdom.
+
+Humans in modern societies typically consume food at least three times daily, 
+while laboratory animals are fed ad libitum. Overconsumption of food with such 
+eating patterns often leads to metabolic morbidities (insulin resistance, 
+excessive accumulation of visceral fat, etc.), particularly when associated with 
+a sedentary lifestyle. Because animals, including humans, evolved in 
+environments where food was relatively scarce, they developed numerous 
+adaptations that enabled them to function at a high level, both physically and 
+cognitively, when in a food-deprived/fasted state. Intermittent fasting (IF) 
+encompasses eating patterns in which individuals go extended time periods (e.g., 
+16-48h) with little or no energy intake, with intervening periods of normal food 
+intake, on a recurring basis. We use the term periodic fasting (PF) to refer to 
+IF with periods of fasting or fasting mimicking diets lasting from 2 to as many 
+as 21 or more days. In laboratory rats and mice IF and PF have profound 
+beneficial effects on many different indices of health and, importantly, can 
+counteract disease processes and improve functional outcome in experimental 
+models of a wide range of age-related disorders including diabetes, 
+cardiovascular disease, cancers and neurological disorders such as Alzheimer's 
+disease Parkinson's disease and stroke. Studies of IF (e.g., 60% energy 
+restriction on 2days per week or every other day), PF (e.g., a 5day diet 
+providing 750-1100kcal) and time-restricted feeding (TRF; limiting the daily 
+period of food intake to 8h or less) in normal and overweight human subjects 
+have demonstrated efficacy for weight loss and improvements in multiple health 
+indicators including insulin resistance and reductions in risk factors for 
+cardiovascular disease. The cellular and molecular mechanisms by which IF 
+improves health and counteracts disease processes involve activation of adaptive 
+cellular stress response signaling pathways that enhance mitochondrial health, 
+DNA repair and autophagy. PF also promotes stem cell-based regeneration as well 
+as long-lasting metabolic effects. Randomized controlled clinical trials of IF 
+versus PF and isoenergetic continuous energy restriction in human subjects will 
+be required to establish the efficacy of IF in improving general health, and 
+preventing and managing major diseases of aging.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.arr.2016.10.005
+PMCID: PMC5411330
+PMID: 27810402 [Indexed for MEDLINE]

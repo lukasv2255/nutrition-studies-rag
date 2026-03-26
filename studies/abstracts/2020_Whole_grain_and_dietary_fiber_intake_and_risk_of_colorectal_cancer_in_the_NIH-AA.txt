@@ -1,0 +1,23 @@
+Title: Whole grain and dietary fiber intake and risk of colorectal cancer in the NIH-AARP Diet and Health Study cohort.
+Year: 2020
+DOI: 10.1093/ajcn/nqaa161
+
+ABSTRACT:
+BACKGROUND
+Whole grains and other foods containing fiber are thought to be inversely related to colorectal cancer (CRC). However, whether these associations reflect fiber or fiber source remains unclear.
+
+
+OBJECTIVES
+We evaluated associations of whole grain and dietary fiber intake with CRC risk in the large NIH-AARP Diet and Health Study.
+
+
+METHODS
+We used Cox proportional hazard models to estimate HRs and 95% CIs for whole grain and dietary fiber intake and risk of CRC among 478,994 US adults, aged 50-71 y. Diet was assessed using a self-administered FFQ at baseline in 1995-1996, and 10,200 incident CRC cases occurred over 16 y and 6,464,527 person-years of follow-up. We used 24-h dietary recall data, collected on a subset of participants, to evaluate the impact of measurement error on risk estimates.
+
+
+RESULTS
+After multivariable adjustment for potential confounders, including folate, we observed an inverse association for intake of whole grains (HRQ5 vs.Q1 : 0.84; 95% CI: 0.79, 0.90; P-trend < 0.001), but not dietary fiber (HRQ5 vs. Q1: 0.96; 95% CI: 0.88, 1.04; P-trend = 0.40), with CRC incidence. Intake of whole grains was inversely associated with all CRC cancer subsites, particularly rectal cancer (HRQ5 vs. Q1: 0.76; 95% CI: 0.67, 0.87; P-trend < 0.001). Fiber from grains, but not other sources, was associated with lower incidence of CRC (HRQ5 vs. Q1: 0.89; 95% CI: 0.83, 0.96; P-trend < 0.001), particularly distal colon (HRQ5 vs. Q1: 0.84; 95% CI: 0.73, 0.96; P-trend = 0.005) and rectal cancer (HRQ5 vs. Q1: 0.77; 95% CI: 0.66, 0.88; P-trend < 0.001).
+
+
+CONCLUSIONS
+Dietary guidance for CRC prevention should focus on intake of whole grains as a source of fiber.

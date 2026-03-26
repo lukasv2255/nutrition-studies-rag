@@ -1,0 +1,6 @@
+Title: Peroxisome Proliferator-Activated Receptors and Caloric Restriction—Common Pathways Affecting Metabolism, Health, and Longevity
+Year: 2020
+DOI: 10.3390/cells9071708
+
+ABSTRACT:
+Caloric restriction (CR) is a traditional but scientifically verified approach to promoting health and increasing lifespan. CR exerts its effects through multiple molecular pathways that trigger major metabolic adaptations. It influences key nutrient and energy-sensing pathways including mammalian target of rapamycin, Sirtuin 1, AMP-activated protein kinase, and insulin signaling, ultimately resulting in reductions in basic metabolic rate, inflammation, and oxidative stress, as well as increased autophagy and mitochondrial efficiency. CR shares multiple overlapping pathways with peroxisome proliferator-activated receptors (PPARs), particularly in energy metabolism and inflammation. Consequently, several lines of evidence suggest that PPARs might be indispensable for beneficial outcomes related to CR. In this review, we present the available evidence for the interconnection between CR and PPARs, highlighting their shared pathways and analyzing their interaction. We also discuss the possible contributions of PPARs to the effects of CR on whole organism outcomes.

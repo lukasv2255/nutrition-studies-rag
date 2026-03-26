@@ -1,0 +1,59 @@
+Title: Sarcopenia versus cancer cachexia: the muscle wasting continuum in healthy and diseased aging
+Year: 2021
+DOI: 10.1007/s10522-021-09932-z
+
+ABSTRACT:
+1. Biogerontology. 2021 Oct;22(5):459-477. doi: 10.1007/s10522-021-09932-z. Epub 
+2021 Jul 29.
+
+Sarcopenia versus cancer cachexia: the muscle wasting continuum in healthy and 
+diseased aging.
+
+Moreira-Pais A(1)(2)(3)(4), Ferreira R(5), Oliveira PA(6), Duarte JA(7)(8)(9).
+
+Author information:
+(1)CIAFEL, Faculty of Sport, University of Porto, Dr. Plácido da Costa 91, 
+4200-450, Porto, Portugal. alexandrapais@ua.pt.
+(2)LAQV-REQUIMTE, Department of Chemistry, University of Aveiro, 3810-193, 
+Aveiro, Portugal. alexandrapais@ua.pt.
+(3)Centre for Research and Technology of Agro Environmental and Biological 
+Sciences (CITAB), Inov4Agro, University of Trás-os-Montes and Alto Douro (UTAD), 
+Quinta de Prados, 5000-801, Vila Real, Portugal. alexandrapais@ua.pt.
+(4)Departamento de Química, Universidade de Aveiro, Campus Universitário de 
+Santiago, 3810-193, Aveiro, Portugal. alexandrapais@ua.pt.
+(5)LAQV-REQUIMTE, Department of Chemistry, University of Aveiro, 3810-193, 
+Aveiro, Portugal.
+(6)Centre for Research and Technology of Agro Environmental and Biological 
+Sciences (CITAB), Inov4Agro, University of Trás-os-Montes and Alto Douro (UTAD), 
+Quinta de Prados, 5000-801, Vila Real, Portugal.
+(7)CIAFEL, Faculty of Sport, University of Porto, Dr. Plácido da Costa 91, 
+4200-450, Porto, Portugal. jarduarte@fade.up.pt.
+(8)Faculdade de Desporto, Universidade do Porto, Rua Dr. Plácido da Costa 91, 
+4200-450, Porto, Portugal. jarduarte@fade.up.pt.
+(9)TOXRUN - Toxicology Research Unit, University Institute of Health Sciences, 
+CESPU, CRL, Gandra, Portugal. jarduarte@fade.up.pt.
+
+Muscle wasting is one of the major health problems in older adults and is 
+traditionally associated to sarcopenia. Nonetheless, muscle loss may also occur 
+in older adults in the presence of cancer, and in this case, it is associated to 
+cancer cachexia. The clinical management of these conditions is a challenge due 
+to, at least in part, the difficulties in their differential diagnosis. Thus, 
+efforts have been made to better comprehend the pathogenesis of sarcopenia and 
+cancer cachexia, envisioning the improvement of their clinical discrimination 
+and treatment. To add insights on this topic, this review discusses the current 
+knowledge on key molecular players underlying sarcopenia and cancer cachexia in 
+a comparative perspective. Data retrieved from this analysis highlight that 
+while sarcopenia is characterized by the atrophy of fast-twitch muscle fibers, 
+in cancer cachexia an increase in the proportion of fast-twitch fibers appears 
+to happen. The molecular drivers for these specificmuscle remodeling patterns 
+are still unknown; however, among the predominant contributors to sarcopenia is 
+the age-induced neuromuscular denervation, and in cancer cachexia, the muscle 
+disuse experienced by cancer patients seems to play an important role. Moreover, 
+inflammation appears to be more severe in cancer cachexia. Impairment of 
+nutrition-related mediators may also contribute to sarcopenia and cancer 
+cachexia, being distinctly modulated in each condition.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature B.V.
+
+DOI: 10.1007/s10522-021-09932-z
+PMID: 34324116 [Indexed for MEDLINE]

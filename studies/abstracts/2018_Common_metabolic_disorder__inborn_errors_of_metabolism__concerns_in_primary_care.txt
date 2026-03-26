@@ -1,0 +1,52 @@
+Title: Common metabolic disorder (inborn errors of metabolism) concerns in primary care practice.
+Authors: Agana M
+Year: 2018
+Journal: Ann Transl Med
+PMID: 30740400
+DOI: 10.21037/atm.2018.12.34
+
+ABSTRACT:
+1. Ann Transl Med. 2018 Dec;6(24):469. doi: 10.21037/atm.2018.12.34.
+
+Common metabolic disorder (inborn errors of metabolism) concerns in primary care 
+practice.
+
+Agana M(1), Frueh J(1), Kamboj M(2), Patel DR(1), Kanungo S(1).
+
+Author information:
+(1)Department of Pediatric and Adolescent Medicine, Western Michigan University 
+Homer Stryker MD School of Medicine, Kalamazoo, MI, USA.
+(2)Department of Pediatrics, Nationwide Children's Hospital, Columbus, Ohio, 
+USA.
+
+Inborn errors of metabolism (IEMs) are rare genetic or inherited disorders 
+resulting from an enzyme defect in biochemical and metabolic pathways affecting 
+proteins, fats, carbohydrates metabolism or impaired organelle function 
+presenting as complicated medical conditions involving several human organ 
+systems. They involve great complexity of the underlying pathophysiology, 
+biochemical workup, and molecular analysis, and have complicated therapeutic 
+options for management. Age of presentation can vary from infancy to adolescence 
+with the more severe forms appearing in early childhood accompanied by 
+significant morbidity and mortality. The understanding of these complex 
+disorders requires special in-depth training, American Board of Medical Genetics 
+and Genomics (ABMGG) certification and experience. Most primary care physicians 
+(PCPs) are reluctant to deal with IEM due to unfamiliarity and rarity of such 
+conditions compounded by prompt progression to crisis situations along with 
+paucity of time involved in dealing with such complex disorders. While there are 
+biochemical geneticists aka metabolic specialists' expertise available, mostly 
+in larger academic medical centers, with expertise to deal with these rare 
+complex issues, their initial clinical presentation in most newborns, children, 
+adolescents or adults including asymptomatic positive newborn screen (NBS), 
+occur in the out-patient PCP settings. Therefore, it is important that PCPs' 
+comfort to recognize early signs and symptoms is important to initiate 
+appropriate diagnostic and therapeutic interventions, and be able to make 
+appropriate referrals. The following article reviews common IEM clinical 
+presentations for a robust diagnostic differential and discuss evaluation and 
+management approaches of patients with known or suspected IEM.
+
+DOI: 10.21037/atm.2018.12.34
+PMCID: PMC6331353
+PMID: 30740400
+
+Conflict of interest statement: Conflicts of Interest: The authors have no 
+conflicts of interest to declare.

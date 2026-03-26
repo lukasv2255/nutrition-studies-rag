@@ -1,0 +1,52 @@
+Title: The Importance of Vitamin K and the Combination of Vitamins K and D for Calcium Metabolism and Bone Health: A Review.
+Authors: Aaseth JO
+Year: 2024
+Journal: Nutrients
+PMID: 39125301
+DOI: 10.3390/nu16152420
+
+ABSTRACT:
+1. Nutrients. 2024 Jul 25;16(15):2420. doi: 10.3390/nu16152420.
+
+The Importance of Vitamin K and the Combination of Vitamins K and D for Calcium 
+Metabolism and Bone Health: A Review.
+
+Aaseth JO(1)(2), Finnes TE(3)(4), Askim M(5), Alexander J(6).
+
+Author information:
+(1)Department of Research, Innlandet Hospital Trust, P.O. Box 104, N-2381 
+Brumunddal, Norway.
+(2)Faculty of Health and Social Sciences, Inland Norway University of Applied 
+Sciences, N-2418 Elverum, Norway.
+(3)Department of Medicine, Innlandet Hospital Hamar, P.O. Box 4453, N-2326 
+Hamar, Norway.
+(4)Department of Endocrinology, Oslo University Hospital, P.O. Box 4950 Nydalen, 
+N-0424 Oslo, Norway.
+(5)Independent Researcher, Bromstadvegen 43, N-7045 Trondheim, Norway.
+(6)Norwegian Institute of Public Health, P.O. Box 222 Skøyen, N-0213 Oslo, 
+Norway.
+
+The aim of the present review is to discuss the roles of vitamin K 
+(phylloquinone or menaquinones) and vitamin K-dependent proteins, and the 
+combined action of the vitamins K and D, for the maintenance of bone health. The 
+most relevant vitamin K-dependent proteins in this respect are osteocalcin and 
+matrix Gla-protein (MGP). When carboxylated, these proteins appear to have the 
+ability to chelate and import calcium from the blood to the bone, thereby 
+reducing the risk of osteoporosis. Carboxylated osteocalcin appears to 
+contribute directly to bone quality and strength. An adequate vitamin K status 
+is required for the carboxylation of MGP and osteocalcin. In addition, vitamin K 
+acts on bone metabolism by other mechanisms, such as menaquinone 4 acting as a 
+ligand for the nuclear steroid and xenobiotic receptor (SXR). In this narrative 
+review, we examine the evidence for increased bone mineralization through the 
+dietary adequacy of vitamin K. Summarizing the evidence for a synergistic effect 
+of vitamin K and vitamin D3, we find that an adequate supply of vitamin K, on 
+top of an optimal vitamin D status, seems to add to the benefit of maintaining 
+bone health. More research related to synergism and the possible mechanisms of 
+vitamins D3 and K interaction in bone health is needed.
+
+DOI: 10.3390/nu16152420
+PMCID: PMC11313760
+PMID: 39125301 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

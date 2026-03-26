@@ -1,0 +1,51 @@
+Title: Demineralization-remineralization dynamics in teeth and bone.
+Authors: Abou Neel EA
+Year: 2016
+Journal: Int J Nanomedicine
+PMID: 27695330
+DOI: 10.2147/IJN.S107624
+
+ABSTRACT:
+1. Int J Nanomedicine. 2016 Sep 19;11:4743-4763. doi: 10.2147/IJN.S107624. 
+eCollection 2016.
+
+Demineralization-remineralization dynamics in teeth and bone.
+
+Abou Neel EA(1), Aljabo A(2), Strange A(2), Ibrahim S(2), Coathup M(3), Young 
+AM(2), Bozec L(2), Mudera V(3).
+
+Author information:
+(1)Division of Biomaterials, Operative Dentistry Department, Faculty of 
+Dentistry, King Abdulaziz University, Jeddah, Saudi Arabia; Biomaterials 
+Department, Faculty of Dentistry, Tanta University, Tanta, Egypt; Department of 
+Biomaterials and Tissue Engineering, UCL Eastman Dental Institute, London, UK.
+(2)Department of Biomaterials and Tissue Engineering, UCL Eastman Dental 
+Institute, London, UK.
+(3)UCL Institute of Orthopaedics and Musculoskeletal Sciences, Royal National 
+Orthopaedic Hospital, Stanmore, London, UK.
+
+Biomineralization is a dynamic, complex, lifelong process by which living 
+organisms control precipitations of inorganic nanocrystals within organic 
+matrices to form unique hybrid biological tissues, for example, enamel, dentin, 
+cementum, and bone. Understanding the process of mineral deposition is important 
+for the development of treatments for mineralization-related diseases and also 
+for the innovation and development of scaffolds. This review provides a thorough 
+overview of the up-to-date information on the theories describing the possible 
+mechanisms and the factors implicated as agonists and antagonists of 
+mineralization. Then, the role of calcium and phosphate ions in the maintenance 
+of teeth and bone health is described. Throughout the life, teeth and bone are 
+at risk of demineralization, with particular emphasis on teeth, due to their 
+anatomical arrangement and location. Teeth are exposed to food, drink, and the 
+microbiota of the mouth; therefore, they have developed a high resistance to 
+localized demineralization that is unmatched by bone. The mechanisms by which 
+demineralization-remineralization process occurs in both teeth and bone and the 
+new therapies/technologies that reverse demineralization or boost 
+remineralization are also scrupulously discussed. Technologies discussed include 
+composites with nano- and micron-sized inorganic minerals that can mimic 
+mechanical properties of the tooth and bone in addition to promoting more 
+natural repair of surrounding tissues. Turning these new technologies to 
+products and practices would improve health care worldwide.
+
+DOI: 10.2147/IJN.S107624
+PMCID: PMC5034904
+PMID: 27695330 [Indexed for MEDLINE]

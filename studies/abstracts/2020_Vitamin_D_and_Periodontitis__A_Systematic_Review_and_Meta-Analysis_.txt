@@ -1,0 +1,49 @@
+Title: Vitamin D and Periodontitis: A Systematic Review and Meta-Analysis.
+Authors: Machado V
+Year: 2020
+Journal: Nutrients
+PMID: 32708032
+DOI: 10.3390/nu12082177
+
+ABSTRACT:
+1. Nutrients. 2020 Jul 22;12(8):2177. doi: 10.3390/nu12082177.
+
+Vitamin D and Periodontitis: A Systematic Review and Meta-Analysis.
+
+Machado V(1)(2), Lobo S(1), Proença L(3), Mendes JJ(2), Botelho J(1)(2).
+
+Author information:
+(1)Clinical Research Unit (CRU), Centro de Investigação Interdisciplinar Egas 
+Moniz (CiiEM), Instituto Universitário Egas Moniz (IUEM), 2829-511 Almada, 
+Portugal.
+(2)Periodontology Department, CiiEM, IUEM, 2829-511 Almada, Portugal.
+(3)Quantitative Methods for Health Research (MQIS), CiiEM, IUEM, 2829-511 
+Almada, Portugal.
+
+To explore the vitamin D levels of periodontitis patients in comparison with 
+periodontally healthy ones, and to assess the influence of vitamin D 
+supplementation as an adjunctive during nonsurgical periodontal treatment 
+(NSPT). Five databases (Pubmed, Embase, Scholar, Web of Sciences, and Cochrane 
+Library) were searched until May 2020. Mean difference (MD) meta-analysis with 
+corresponding 95% confidence interval (95% CI) and sensitivity tests via 
+meta-regression were used. We followed Strength of Recommendation Taxonomy 
+(SORT) to appraise the strength and quality of the evidence. Sixteen articles 
+were included, fourteen case-control and two intervention studies, all reporting 
+25-hydroxyvitamin D (25(OH)D) levels. Compared with the healthy controls, the 
+circulating 25(OH)D levels were significantly lower in chronic periodontitis 
+patients (pooled MD = -6.80, 95% CI: -10.59 to -3.02). Subgroup analysis 
+revealed differences among 25(OH)D measurements, with liquid chromatography-mass 
+spectrometry being the most homogeneous method (pooled MD = -2.05, 95% CI: -3.40 
+to -0.71). Salivary levels of 25(OH)D showed no differences between groups. Due 
+to the low number of studies, conclusions on aggressive periodontitis and in the 
+effect of vitamin D supplementation after NSPT were not possible to ascribe. 
+Compared with healthy controls, 25(OH)D serum levels are significantly lower in 
+chronic periodontitis patients, with an overall SORT A recommendation. Future 
+studies are needed to clarify the effect of vitamin D supplementation and the 
+biological mechanisms linking vitamin D to the periodontium.
+
+DOI: 10.3390/nu12082177
+PMCID: PMC7468917
+PMID: 32708032 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

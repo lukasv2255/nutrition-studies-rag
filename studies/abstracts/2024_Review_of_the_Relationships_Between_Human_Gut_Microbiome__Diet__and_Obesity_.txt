@@ -1,0 +1,38 @@
+Title: Review of the Relationships Between Human Gut Microbiome, Diet, and Obesity.
+Authors: Patloka O
+Year: 2024
+Journal: Nutrients
+PMID: 39683390
+DOI: 10.3390/nu16233996
+
+ABSTRACT:
+1. Nutrients. 2024 Nov 22;16(23):3996. doi: 10.3390/nu16233996.
+
+Review of the Relationships Between Human Gut Microbiome, Diet, and Obesity.
+
+Patloka O(1), Komprda T(1), Franke G(1).
+
+Author information:
+(1)Department of Food Technology, Mendel University in Brno, 61300 Brno, Czech 
+Republic.
+
+Obesity is a complex disease that increases the risk of other pathologies. Its 
+prevention and long-term weight loss maintenance are problematic. Gut microbiome 
+is considered a potential obesity modulator. The objective of the present study 
+was to summarize recent findings regarding the relationships between obesity, 
+gut microbiota, and diet (vegetable/animal proteins, high-fat diets, restriction 
+of carbohydrates), with an emphasis on dietary fiber and resistant starch. The 
+composition of the human gut microbiome and the methods of its quantification 
+are described. Products of the gut microbiome metabolism, such as short-chain 
+fatty acids and secondary bile acids, and their effects on the gut microbiota, 
+intestinal barrier function and immune homeostasis are discussed in the context 
+of obesity. The importance of dietary fiber and resistant starch is emphasized 
+as far as effects of the host diet on the composition and function of the gut 
+microbiome are concerned. The complex relationships between human gut microbiome 
+and obesity are finally summarized.
+
+DOI: 10.3390/nu16233996
+PMCID: PMC11643520
+PMID: 39683390 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

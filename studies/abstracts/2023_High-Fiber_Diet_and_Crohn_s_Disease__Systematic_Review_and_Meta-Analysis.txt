@@ -1,0 +1,6 @@
+Title: High-Fiber Diet and Crohn’s Disease: Systematic Review and Meta-Analysis
+Year: 2023
+DOI: 10.3390/nu15143114
+
+ABSTRACT:
+Crohn’s disease (CD) is a subtype of inflammatory bowel disease (IBD). CD is a health problem in Western countries such as the US and European nations and is an idiopathic disease; however, certain cases of CD have been associated with intestinal dysbiosis. A systematic review with a meta-analysis was carried out to determine the efficacy of a diet rich in fiber with or without cointervention to improve remission rates for CD. The literature in the PubMed, Scopus, Web of Science, and ClinicalTrials databases was reviewed. The quality of the studies was evaluated using the Johanna Briggs Institute (JBI) scale. This review was conducted in accordance with the structure outlined in the PRISMA statement. In addition, a meta-analysis was performed with a 95% confidence interval (CI) and a random effects model. Eleven studies were included, totaling 2389 patients with CD. Applying a diet rich in fiber with or without the administration of routine therapies improved CD remission rates. Data regarding CD activity, remission time, and adverse effects derived from fiber consumption were analyzed. Consumption of fiber in the diet could improve remission rates for CD patients who receive or do not receive other treatment to maintain remission.

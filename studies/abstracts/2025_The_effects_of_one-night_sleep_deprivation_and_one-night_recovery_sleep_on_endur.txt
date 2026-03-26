@@ -1,0 +1,68 @@
+Title: The effects of one-night sleep deprivation and one-night recovery sleep on endurance cycling performance.
+Year: 2025
+DOI: 10.1007/s00421-025-05908-w
+
+ABSTRACT:
+1. Eur J Appl Physiol. 2025 Jul 25. doi: 10.1007/s00421-025-05908-w. Online ahead
+ of print.
+
+The effects of one-night sleep deprivation and one-night recovery sleep on 
+endurance cycling performance.
+
+Gattoni C(1), Girardi M(1), Javadi AH(2), O'Neill BV(3), Marcora SM(4)(5).
+
+Author information:
+(1)The Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical 
+Center, Torrance, CA, USA.
+(2)School of Psychology, University of Kent, Canterbury, UK.
+(3)Unilever Science & Technology, Unilever R&D Colworth Science Park, 
+Sharnbrook, Bedford, UK.
+(4)Department of Quality of Life Studies, University of Bologna, Rimini, Italy. 
+samuele.marcora@unibo.it.
+(5)School of Sport and Exercise Sciences, University of Kent, Canterbury, UK. 
+samuele.marcora@unibo.it.
+
+Erratum in
+    Eur J Appl Physiol. 2026 Feb 17. doi: 10.1007/s00421-025-06087-4.
+
+PURPOSE: Sleep deprivation (SD) seems to impair endurance performance. However, 
+little research is available on the effects of SD in the context of repeated 
+bouts of endurance exercise. The effect of recovery sleep on endurance 
+performance is also poorly understood.
+METHODS: Twenty-six male amateur cyclists/triathletes (mean ± SD: age 
+30.5 ± 8.8 yr, V˙O 2peak 55.3 ± 4.9 mL/kg/min) were randomly allocated to SD and 
+CONTROL groups and tested over 3 consecutive days. After baseline testing (day 
+1), the SD group did not sleep for 25 h (day 2) and slept normally the following 
+night (day 3). The CONTROL group slept normally throughout the experiment. 
+Endurance performance was assessed during 40-min moderate-intensity 
+constant-workload cycling and 20-min time trial. Electroencephalography, 
+questionnaires, and psychomotor vigilance task were used to assess sleepiness 
+and vigilance before cycling. Ratings of perceived exertion (RPE), Feeling 
+scale (FS), heart rate (HR), and blood lactate were assessed during cycling.
+RESULTS: Sleepiness and vigilance were impaired after SD (p < 0.05), but 
+returned to baseline after recovery sleep. RPE (p = 0.023) and FS (p = 0.013) 
+assessed during the 40-min cycling were negatively affected by SD, but returned 
+to baseline after recovery sleep. HR and blood lactate were not affected by SD. 
+No significant interaction effect was observed on time-trial work.
+CONCLUSION: In the context of 3 consecutive days of endurance cycling, 25-h SD 
+negatively affected moderate-intensity performance through higher RPE, but did 
+not affect the 20-min time trial. One-night recovery sleep was sufficient to 
+restore moderate-intensity endurance cycling performance.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s00421-025-05908-w
+PMID: 40711550
+
+Conflict of interest statement: Declarations. Conflict of interest: Chiara 
+Gattoni has no conflict of interest to declare. Michele Girardi is supported by 
+funds provided by The Regents of the University of California, Tobacco-Related 
+Diseases Research Program, Grant Number No. T34FT8161. The opinions, findings, 
+and conclusions herein are those of the authors and not necessarily represent 
+those of The Regents of the University of California, or any of its programs. 
+Amir-Homayoun Javadi has no conflict of interest to declare. Barry Vincent 
+O’Neill has no conflict of interest to declare. Samuele Maria Marcora is 
+supported by: #NEXTGENERATIONEU (NGEU) and funded by the Ministry of University 
+and Research (MUR), National Recovery and Resilience Plan (NRRP), project MNESYS 
+(PE0000006)—A Multiscale integrated approach to the study of the nervous system 
+in health and disease (DN. 1553 11.10.2022).

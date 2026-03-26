@@ -1,0 +1,19 @@
+Title: A novel, IBS-specific IgG ELISA-based elimination diet in irritable bowel syndrome: A randomized, sham-controlled trial.
+Year: 2025
+DOI: 10.1053/j.gastro.2025.01.223
+
+ABSTRACT:
+BACKGROUND & AIMS
+Personalized dietary therapies for irritable bowel syndrome (IBS) are needed and an IgG-antibody-based elimination diet presents a potential solution. However, existing studies have serious methodological limitations. This study aimed to assess the efficacy of an elimination diet utilizing a novel IBS-specific IgG assay.
+
+
+METHODS
+We conducted a randomized, double-blind, sham-controlled trial enrolling subjects with IBS from 8 centers. Subjects positive for ≥1 food on an 18-food IgG assay and an average daily abdominal pain intensity (API) score between 3-7.5 on an 11-point scale during a 2-week run-in period were randomized to either an experimental antibody-guided diet or sham diet for 8 weeks. The primary outcome was a ≥30% decrease in API for ≥2 of the last 4 weeks of the treatment period.
+
+
+RESULTS
+Among 238 randomized IBS subjects, 223 were included in the modified intention-to-treat analysis. A significantly greater proportion of subjects in the experimental diet group met the primary outcome than those in the sham diet group (59.6% vs. 42.1%, P=0.02). Subgroup analysis revealed that a higher proportion of IBS-C and IBS-M subjects in the experimental diet group met the primary endpoint vs. the sham group (67.1% vs. 35.8% and 66% vs. 29.5%, respectively).
+
+
+CONCLUSIONS
+Subjects on an IgG-guided elimination diet were more likely to achieve the primary endpoint than those on a sham elimination diet. Subgroup analysis suggests a more robust benefit for subjects with IBS-C and IBS-M. This highlights the potential effectiveness of a personalized elimination diet based on a novel IBS-specific IgG assay. A larger study is warranted to validate these observations.

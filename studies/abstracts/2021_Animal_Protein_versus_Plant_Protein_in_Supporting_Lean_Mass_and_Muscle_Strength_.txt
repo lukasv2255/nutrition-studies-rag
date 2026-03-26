@@ -1,0 +1,43 @@
+Title: Animal Protein versus Plant Protein in Supporting Lean Mass and Muscle Strength: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+Authors: Lim MT
+Year: 2021
+Journal: Nutrients
+PMID: 33670701
+DOI: 10.3390/nu13020661
+
+ABSTRACT:
+1. Nutrients. 2021 Feb 18;13(2):661. doi: 10.3390/nu13020661.
+
+Animal Protein versus Plant Protein in Supporting Lean Mass and Muscle Strength: 
+A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+
+Lim MT(1), Pan BJ(1), Toh DWK(1), Sutanto CN(1), Kim JE(1).
+
+Author information:
+(1)Department of Food Science & Technology, National University of Singapore, 3 
+Science Drive 3, Singapore 117543, Singapore.
+
+Although animal protein is usually considered to be a more potent stimulator of 
+muscle protein synthesis than plant protein, the effect of protein source on 
+lean mass and muscle strength needs to be systematically reviewed. This study 
+aimed to examine potential differences in the effect of animal vs. plant protein 
+on lean mass and muscle strength, and the possible influence of resistance 
+exercise training (RET) and age. The following databases were searched: PubMed, 
+Embase, Scopus and CINAHL Plus with Full Text, and 3081 articles were screened. 
+A total of 18 articles were selected for systematic review, of which, 16 were 
+used for meta-analysis. Total protein intakes were generally above the 
+recommended dietary allowance at the baseline and end of intervention. Results 
+from the meta-analyses demonstrated that protein source did not affect changes 
+in absolute lean mass or muscle strength. However, there was a favoring effect 
+of animal protein on percent lean mass. RET had no influence on the results, 
+while younger adults (<50 years) were found to gain absolute and percent lean 
+mass with animal protein intake (weighted mean difference (WMD), 0.41 kg; 95% 
+confidence interval (CI) 0.08 to 0.74; WMD 0.50%; 95% CI 0.00 to 1.01). 
+Collectively, animal protein tends to be more beneficial for lean mass than 
+plant protein, especially in younger adults.
+
+DOI: 10.3390/nu13020661
+PMCID: PMC7926405
+PMID: 33670701 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

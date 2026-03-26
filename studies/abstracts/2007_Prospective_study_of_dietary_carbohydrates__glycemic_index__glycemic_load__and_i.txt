@@ -1,0 +1,43 @@
+Title: Prospective study of dietary carbohydrates, glycemic index, glycemic load, and incidence of type 2 diabetes mellitus in middle-aged Chinese women.
+Year: 2007
+DOI: 10.1001/ARCHINTE.167.21.2310
+
+ABSTRACT:
+1. Arch Intern Med. 2007 Nov 26;167(21):2310-6. doi:
+10.1001/archinte.167.21.2310.
+
+Prospective study of dietary carbohydrates, glycemic index, glycemic load, and 
+incidence of type 2 diabetes mellitus in middle-aged Chinese women.
+
+Villegas R(1), Liu S, Gao YT, Yang G, Li H, Zheng W, Shu XO.
+
+Author information:
+(1)Department of Medicine, Vanderbilt Epidemiology Center, Vanderbilt University 
+Medical Center, 2525 West End Ave, Ste 600, Nashville, TN 37203-1738, USA.
+
+BACKGROUND: Much uncertainty exists about the role of dietary glycemic index and 
+glycemic load in the development of type 2 diabetes mellitus, especially in 
+populations that traditionally subsist on a diet high in carbohydrates.
+METHODS: We observed a cohort of 64,227 Chinese women with no history of 
+diabetes or other chronic disease at baseline for 4.6 years. In-person 
+interviews were conducted to collect data on dietary habits, physical activity, 
+and other relevant information using a validated questionnaire. Incident 
+diabetes cases were identified via in-person follow-up. Associations between 
+dietary carbohydrate intake, glycemic index, and glycemic load and diabetes 
+incidence were evaluated using multivariable Cox proportional hazards models.
+RESULTS: We identified 1,608 incident cases of type 2 diabetes mellitus in 
+297,755 person-years of follow-up. Dietary carbohydrate intake and consumption 
+of rice were positively associated with risk of developing type 2 diabetes 
+mellitus. The multivariable-adjusted estimates of relative risk comparing the 
+highest vs the lowest quintiles of intake were 1.28 (95% confidence interval, 
+1.09-1.50) for carbohydrates and 1.78 (95% confidence interval, 1.48-2.15) for 
+rice. The relative risk for increasing quintiles of intake was 1.00, 1.04, 1.02, 
+1.09, and 1.21 (95% confidence interval, 1.03-1.43) for dietary glycemic index 
+and 1.00, 1.06, 0.97, 1.23, and 1.34 (95% confidence interval, 1.13-1.58) for 
+dietary glycemic load.
+CONCLUSION: High intake of foods with a high glycemic index and glycemic load, 
+especially rice, the main carbohydrate-contributing food in this population, may 
+increase the risk of type 2 diabetes mellitus in Chinese women.
+
+DOI: 10.1001/archinte.167.21.2310
+PMID: 18039989 [Indexed for MEDLINE]

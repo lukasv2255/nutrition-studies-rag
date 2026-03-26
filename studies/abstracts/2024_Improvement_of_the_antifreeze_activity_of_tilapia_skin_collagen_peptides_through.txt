@@ -1,0 +1,6 @@
+Title: Improvement of the antifreeze activity of tilapia skin collagen peptides through enzymatic supramolecular assembly approach
+Year: 2024
+DOI: 10.1111/ijfs.17082
+
+ABSTRACT:
+Enzymatic supramolecular assembly was applied to increase the thermal hysteresis activity (THA) of tilapia skin collagen peptides and their applicability as cryoprotectants. The THA value of the glutamine‐assembled product increased by 61.5% and its ice crystal content dropped by 33.93% compared to the collagen peptides. Following initial separation and purification, the THA of Gln‐AFPs was further elevated by 28.6%. After five freeze–thaw cycles, tilapia surimi treated with 8% Gln‐AFPs had high levels of salt‐soluble protein, total sulfhydryl content, Ca2+‐ATPase activity, and water‐holding capacity. Additionally, the cryoprotective effect of Gln‐AFPs on the surimi was found to be superior to that of commercial antifreeze. The majority of the Gln‐AFPs turns folded, according to FTIR analysis, and ‐helices were produced. After supramolecular assembly, the Gln‐AFPs structure also smoothed out. As a result, the enzymatic supramolecular assembly drastically increased the antifreeze activity of the tilapia skin‐collagen peptides, which could eventually be developed into a novel antifreeze additive in the food industry.

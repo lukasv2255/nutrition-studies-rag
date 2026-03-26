@@ -1,0 +1,18 @@
+Title: Does Beta-Alanine Supplementation Potentiate Muscle Performance Following 6 Weeks of Blood Flow Restriction or Traditional Resistance Training?
+Year: 2023
+DOI: 10.70252/tcyg6960
+
+ABSTRACT:
+We aimed to compare the effects of beta-alanine on Traditional Resistance Training (TRAD) or Blood Flow Restriction Training (BFR).
+
+
+METHODS
+19 subjects were randomly allocated to a Placebo (n = 10) or beta-alanine (n = 9) group. Subjects from both groups were trained unilaterally (unilateral arm curl) for six weeks, and each arm was trained using a different paradigm (BFR or TRAD). One repetition maximum (1RM) test measurements were performed before and after the strength training program. Work output was accessed as the total weight lifted (repetitions × weight lifted × sets) for the entire strength training program.
+
+
+RESULTS
+1RM or total weight lifted was not increased by beta-alanine supplementation. However, the TRAD-trained arm showed a significantly increased 1RM and total weight lifted compared to the BFR arm (p < 0.05).
+
+
+CONCLUSION
+We conclude that in the short-term (6 weeks) and following the current experimental conditions, beta-alanine does not benefit BFR or TRAD in terms of total weight lifted (volume of training) or maximal strength (1RM).

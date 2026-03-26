@@ -1,0 +1,44 @@
+Title: Determination of the tolerable upper intake level of leucine in acute dietary studies in young men.
+Year: 2012
+DOI: 10.3945/AJCN.111.024471
+
+ABSTRACT:
+1. Am J Clin Nutr. 2012 Oct;96(4):759-67. doi: 10.3945/ajcn.111.024471. Epub 2012
+ Sep 5.
+
+Determination of the tolerable upper intake level of leucine in acute dietary 
+studies in young men.
+
+Elango R(1), Chapman K, Rafii M, Ball RO, Pencharz PB.
+
+Author information:
+(1)Research Institute, The Hospital for Sick Children, Toronto, Canada.
+
+BACKGROUND: Leucine has been suggested to improve athletic performance. 
+Therefore, the branched-chain amino acids (BCAAs), especially leucine, are 
+popular as dietary supplements in strength-training athletes; however, the 
+intake of leucine in excess of requirements raises concerns regarding adverse 
+effects. Currently, the tolerable upper intake level (UL) for leucine is 
+unknown.
+OBJECTIVE: The objective of the current study was to determine the UL for 
+leucine in adult men under acute dietary conditions.
+DESIGN: Five healthy adults (20-35 y) each received graded stepwise increases in 
+leucine intakes of 50, 150, 250, 500, 750, 1000, and 1250 mg · kg⁻¹ · d⁻¹, which 
+corresponded to the Estimated Average Requirement (EAR) and the EAR ×3, ×5, ×10, 
+×15, ×20, and ×25 in a total of 29 studies. The UL of leucine was identified by 
+the measurement of plasma and urinary biochemical variables and changes in 
+leucine oxidation by using l-[1-¹³C]-leucine.
+RESULTS: A significant increase in blood ammonia concentrations above normal 
+values, plasma leucine concentrations, and urinary leucine excretion were 
+observed with leucine intakes >500 mg · kg⁻¹ · d⁻¹. The oxidation of 
+l-[1-¹³C]-leucine expressed as label tracer oxidation in breath (F¹³CO₂), 
+leucine oxidation, and α-ketoisocaproic acid (KIC) oxidation led to different 
+results: a plateau in F¹³CO₂ observed after 500 mg · kg⁻¹ · d⁻¹, no clear 
+plateau observed in leucine oxidation, and KIC oxidation appearing to plateau 
+after 750 mg · kg⁻¹ · d⁻¹.
+CONCLUSION: On the basis of plasma and urinary variables, the UL for leucine in 
+healthy adult men can be suggested at 500 mg · kg⁻¹ · d⁻¹ or ~35 g/d as a 
+cautious estimate under acute dietary conditions.
+
+DOI: 10.3945/ajcn.111.024471
+PMID: 22952178 [Indexed for MEDLINE]

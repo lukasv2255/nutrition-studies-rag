@@ -1,0 +1,42 @@
+Title: Intermittent Fasting and Metabolic Health.
+Authors: Vasim I
+Year: 2022
+Journal: Nutrients
+PMID: 35276989
+DOI: 10.3390/nu14030631
+
+ABSTRACT:
+1. Nutrients. 2022 Jan 31;14(3):631. doi: 10.3390/nu14030631.
+
+Intermittent Fasting and Metabolic Health.
+
+Vasim I(1), Majeed CN(2), DeBoer MD(3).
+
+Author information:
+(1)Department of Internal Medicine, Section of Hospital Medicine, Wake Forest 
+University School of Medicine, Winston Salem, NC 27101, USA.
+(2)Department of Internal Medicine, Division of Gastroenterology, Wake Forest 
+University School of Medicine, Winston Salem, NC 27101, USA.
+(3)Department of Pediatrics, Division of Pediatric Endocrinology, University of 
+Virginia School of Medicine, Charlottesville, VA 22908, USA.
+
+Given the ongoing strain that the obesity epidemic has placed on public health 
+outcomes, new and effective approaches to weight control are needed. One 
+approach to improving weight and metabolic outcomes is intermittent fasting, 
+which consists of multiple different timing schedules for temporary food 
+avoidance, including alternate-day fasting, other similar full-day fasting 
+patterns, and time-restricted feeding (where the day's food is consumed over a 
+6-h period, allowing for 18 h of fasting). These feeding schedules have 
+favorable metabolic effects by intermittently inducing the metabolism of fatty 
+acids to ketones. The regimens overall lead to a decrease in weight and have 
+been linked to improvements in dyslipidemia and blood pressure. While more 
+research is needed on longer-term outcomes and this approach should be avoided 
+in particular health conditions, intermittent fasting should be considered as an 
+option for individuals who have a pattern of unhealthy weight gain using 
+standard eating patterns.
+
+DOI: 10.3390/nu14030631
+PMCID: PMC8839325
+PMID: 35276989 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

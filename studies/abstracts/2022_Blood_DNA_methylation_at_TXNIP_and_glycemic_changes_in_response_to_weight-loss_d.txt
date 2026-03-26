@@ -1,0 +1,74 @@
+Title: Blood DNA methylation at TXNIP and glycemic changes in response to weight-loss diet interventions: the POUNDS lost trial.
+Authors: Li X
+Year: 2022
+Journal: Int J Obes (Lond)
+PMID: 35165382
+DOI: 10.1038/s41366-022-01084-5
+
+ABSTRACT:
+1. Int J Obes (Lond). 2022 Jun;46(6):1122-1127. doi: 10.1038/s41366-022-01084-5. 
+Epub 2022 Feb 14.
+
+Blood DNA methylation at TXNIP and glycemic changes in response to weight-loss 
+diet interventions: the POUNDS lost trial.
+
+Li X(1), Shao X(2), Bazzano LA(1), Xue Q(1), Koseva BS(3), Grundberg E(3), Shai 
+I(4), Bray GA(5), Sacks FM(6), Qi L(7)(8).
+
+Author information:
+(1)Department of Epidemiology, School of Public Health and Tropical Medicine, 
+Tulane University, New Orleans, LA, USA.
+(2)Digital Technologies Research Centre, National Research Council Canada, 
+Ottawa, ON, Canada.
+(3)Department of Pediatrics, Genomic Medicine Center, Children's Mercy Kansas 
+City, Kansas City, MO, USA.
+(4)Faculty of Health Sciences, Ben-Gurion University of the Negev, Beer-Sheva, 
+Israel.
+(5)Pennington Biomedical Research Center, Louisiana State University, Baton 
+Rouge, LA, USA.
+(6)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA.
+(7)Department of Epidemiology, School of Public Health and Tropical Medicine, 
+Tulane University, New Orleans, LA, USA. lqi1@tulane.edu.
+(8)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA. lqi1@tulane.edu.
+
+BACKGROUND: Thioredoxin Interacting Protein (TXNIP) functions as a master 
+regulator for glucose homeostasis. Hypomethylation at the 
+5'-cytosine-phosphate-guanine-3' (CpG) site cg19693031 of TXNIP has been 
+consistently related to islet dysfunction, hyperglycemia, and type 2 diabetes. 
+DNA methylation (DNAm) may reveal the missing mechanistic link between obesity 
+and type 2 diabetes. We hypothesize that baseline DNAm level at TXNIP in blood 
+may be associated with glycemic traits and their changes in response to 
+weight-loss diet interventions.
+METHODS: We included 639 adult participants with overweight or obesity, who 
+participated in a 2-year randomized weight-loss diet intervention. Baseline 
+blood DNAm levels were profiled by high-resolution methylC-capture sequencing. 
+We defined the regional DNAm level of TXNIP as the average methylation level 
+over CpGs within 500 bp of cg19693031. Generalized linear regression models were 
+used for main analyses.
+RESULTS: We found that higher regional DNAm at TXNIP was significantly 
+correlated with lower fasting glucose, HbA1c, and Homeostatic Model Assessment 
+of Insulin Resistance (HOMA-IR) at baseline (P < 0.05 for all). Significant 
+interactions were observed between dietary protein intake and DNAm on changes in 
+insulin (P-interaction = 0.007) and HOMA-IR (P-interaction = 0.009) at 6 months. 
+In participants with the highest tertile of regional DNAm at TXNIP, average 
+protein (15%) intake was associated with a greater reduction in insulin (β: 
+-0.14; 95% CI: -0.24, -0.03; P = 0.011) and HOMA-IR (β: -0.15; 95% CI: -0.26, 
+-0.03; P = 0.014) than high protein (25%) intake, whereas no significant 
+associations were found in those with the lower tertiles (P > 0.05). The 
+interaction was attenuated to be non-significant at 2 years, presumably related 
+to decreasing adherence to the diet intervention.
+CONCLUSIONS: Our data indicate that higher regional DNAm level at TXNIP was 
+significantly associated with better fasting glucose, HbA1c, and HOMA-IR; and 
+people with higher regional DNAm levels benefited more in insulin and HOMA-IR 
+improvement by taking the average-protein weight-loss diet.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41366-022-01084-5
+PMCID: PMC9156542
+PMID: 35165382 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: All authors declare no 
+conflict of interest.

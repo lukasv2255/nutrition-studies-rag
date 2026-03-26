@@ -1,0 +1,34 @@
+Title: Clinician's Guide to Prevention and Treatment of Osteoporosis.
+Authors: Cosman F
+Year: 2014
+Journal: Osteoporos Int
+PMID: 25182228
+DOI: 10.1007/s00198-014-2794-2
+
+ABSTRACT:
+1. Osteoporos Int. 2014 Oct;25(10):2359-81. doi: 10.1007/s00198-014-2794-2. Epub 
+2014 Aug 15.
+
+Clinician's Guide to Prevention and Treatment of Osteoporosis.
+
+Cosman F(1), de Beur SJ, LeBoff MS, Lewiecki EM, Tanner B, Randall S, Lindsay R; 
+National Osteoporosis Foundation.
+
+Author information:
+(1)Helen Hayes Hospital, West Haverstraw, NY, USA, cosmanf@helenhayeshosp.org.
+
+Erratum in
+    Osteoporos Int. 2015 Jul;26(7):2045-7. doi: 10.1007/s00198-015-3037-x.
+
+Comment in
+    JAMA. 2015 Apr 14;313(14):1467-8. doi: 10.1001/jama.2015.1064.
+
+The Clinician's Guide to Prevention and Treatment of Osteoporosis was developed 
+by an expert committee of the National Osteoporosis Foundation (NOF) in 
+collaboration with a multispecialty council of medical experts in the field of 
+bone health convened by NOF. Readers are urged to consult current prescribing 
+information on any drug, device, or procedure discussed in this publication.
+
+DOI: 10.1007/s00198-014-2794-2
+PMCID: PMC4176573
+PMID: 25182228 [Indexed for MEDLINE]

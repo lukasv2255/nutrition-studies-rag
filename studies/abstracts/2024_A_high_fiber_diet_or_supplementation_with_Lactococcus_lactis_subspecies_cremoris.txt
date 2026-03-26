@@ -1,0 +1,6 @@
+Title: A high fiber diet or supplementation with Lactococcus lactis subspecies cremoris to pregnant mice confers protection against intestinal injury in adult offspring
+Year: 2024
+DOI: 10.1080/19490976.2024.2337317
+
+ABSTRACT:
+ABSTRACT The diet during pregnancy, or antenatal diet, influences the offspring’s intestinal health. We previously showed that antenatal butyrate supplementation reduces injury in adult murine offspring with dextran sulfate sodium (DSS)-induced colitis. Potential modulators of butyrate levels in the intestine include a high fiber diet or dietary supplementation with probiotics. To test this, we supplemented the diet of pregnant mice with high fiber, or with the probiotic bacteria Lactococcus lactis subspecies cremoris or Lactobacillus rhamnosus GG. We then induced chronic colitis with DSS in their adult offspring. We demonstrate that a high fiber antenatal diet, or supplementation with Lactococcus lactis subspecies cremoris during pregnancy diminished the injury from DSS-induced colitis in offspring. These data are evidence that antenatal dietary interventions impact offspring gut health and define the antenatal diet as a therapeutic modality to enhance offspring intestinal health.

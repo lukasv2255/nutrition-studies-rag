@@ -1,0 +1,6 @@
+Title: Hydration layer structure modulates superlubrication by trivalent La3+ electrolytes
+Year: 2023
+DOI: 10.1126/sciadv.adf3902
+
+ABSTRACT:
+Water-based lubricants provide lubrication of rubbing surfaces in many technical, biological, and physiological applications. The structure of hydrated ion layers adsorbed on solid surfaces that determine the lubricating properties of aqueous lubricants is thought to be invariable in hydration lubrication. However, we prove that the ion surface coverage dictates the roughness of the hydration layer and its lubricating properties, especially under subnanometer confinement. We characterize different hydration layer structures on surfaces lubricated by aqueous trivalent electrolytes. Two superlubrication regimes are observed with friction coefficients of 10−4 and 10−3, depending on the structure and thickness of the hydration layer. Each regime exhibits a distinct energy dissipation pathway and a different dependence to the hydration layer structure. Our analysis supports the idea of an intimate relationship between the dynamic structure of a boundary lubricant film and its tribological properties and offers a framework to study such relationship at the molecular level.

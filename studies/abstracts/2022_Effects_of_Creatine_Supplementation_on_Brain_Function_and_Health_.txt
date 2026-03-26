@@ -1,0 +1,90 @@
+Title: Effects of Creatine Supplementation on Brain Function and Health.
+Authors: Forbes SC
+Year: 2022
+Journal: Nutrients
+PMID: 35267907
+DOI: 10.3390/nu14050921
+
+ABSTRACT:
+1. Nutrients. 2022 Feb 22;14(5):921. doi: 10.3390/nu14050921.
+
+Effects of Creatine Supplementation on Brain Function and Health.
+
+Forbes SC(1)(2), Cordingley DM(3)(4), Cornish SM(2)(3)(5), Gualano B(6), Roschel 
+H(6), Ostojic SM(7)(8), Rawson ES(9), Roy BD(10), Prokopidis K(11), Giannos 
+P(12), Candow DG(13).
+
+Author information:
+(1)Department of Physical Education Studies, Faculty of Education, Brandon 
+University, Brandon, MB R7A 6A9, Canada.
+(2)Centre for Aging, University of Manitoba, Winnipeg, MB R3T 2N2, Canada.
+(3)Applied Health Sciences, University of Manitoba, Winnipeg, MB R3T 2N2, 
+Canada.
+(4)Pan Am Clinic Foundation, 75 Poseidon Bay, Winnipeg, MB R3M 3E4, Canada.
+(5)Faculty of Kinesiology and Recreation Management, University of Manitoba, 
+Winnipeg, MB R3T 2N2, Canada.
+(6)Applied Physiology & Nutrition Research Group, Rheumatology Division, School 
+of Physical Education and Sport, Faculdade de Medicina FMUSP, Universidade de 
+Sao Paulo, Sao Paulo 01246-903, Brazil.
+(7)Department of Nutrition and Public Health, University of Agder, 4604 
+Kristiansand, Norway.
+(8)Applied Bioenergetics Lab, Faculty of Sport and PE, University of Novi Sad, 
+21000 Novi Sad, Serbia.
+(9)Department of Health, Nutrition, and Exercise Science, Messiah University, 
+Mechanicsburg, PA 17055, USA.
+(10)Department of Kinesiology, Brock University, St. Catharines, ON L2S 3A1, 
+Canada.
+(11)Department of Musculoskeletal Biology, Institute of Life Course and Medical 
+Sciences, University of Liverpool, Liverpool L73 FAK, UK.
+(12)Department of Life Sciences, Faculty of Natural Sciences, Imperial College 
+London, London SW7 2AZ, UK.
+(13)Faculty of Kinesiology and Health Studies, University of Regina, Regina, SK 
+S4S 0A2, Canada.
+
+While the vast majority of research involving creatine supplementation has 
+focused on skeletal muscle, there is a small body of accumulating research that 
+has focused on creatine and the brain. Preliminary studies indicate that 
+creatine supplementation (and guanidinoacetic acid; GAA) has the ability to 
+increase brain creatine content in humans. Furthermore, creatine has shown some 
+promise for attenuating symptoms of concussion, mild traumatic brain injury and 
+depression but its effect on neurodegenerative diseases appears to be lacking. 
+The purpose of this narrative review is to summarize the current body of 
+research pertaining to creatine supplementation on total creatine and 
+phophorylcreatine (PCr) content, explore GAA as an alternative or adjunct to 
+creatine supplementation on brain creatine uptake, assess the impact of creatine 
+on cognition with a focus on sleep deprivation, discuss the effects of creatine 
+supplementation on a variety of neurological and mental health conditions, and 
+outline recent advances on creatine supplementation as a neuroprotective 
+supplement following traumatic brain injury or concussion.
+
+DOI: 10.3390/nu14050921
+PMCID: PMC8912287
+PMID: 35267907 [Indexed for MEDLINE]
+
+Conflict of interest statement: S.C.F. has previously served as a scientific 
+advisor for a company that sold creatine monohydrate and has received industry 
+sponsored research involving creatine supplementation and received creatine 
+donations for scientific studies. D.G.C. and E.S.R have conducted industry 
+sponsored research involving creatine supplementation and received creatine 
+donations for scientific studies and travel support for presentations involving 
+creatine supplementation at scientific conferences. In addition, D.G.C. and 
+E.S.R serve on the Scientific Advisory Board for Alzchem (a company that 
+manufactures creatine) and as an expert witness/consultant in legal cases 
+involving creatine supplementation. S.M.O. serves on the Scientific Advisory 
+Board for Alzchem (a company that manufactures creatine). S.M.O. owns patent 
+“Sports Supplements Based on Liquid Creatine” at European Patent Office 
+(WO2019150323 A1), and active patent application “Synergistic Creatine” at UK 
+Intellectual Property Office (GB2012773.4). S.M.O. has served as a speaker at 
+Abbott Nutrition, a consultant of Allied Beverages Adriatic and IMLEK, and has 
+received research funding related to creatine from the Serbian Ministry of 
+Education, Science, and Technological Development, Provincial Secretariat for 
+Higher Education and Scientific Research, AlzChem GmbH, KW Pfannenschmidt GmbH, 
+ThermoLife International LLC, and Hueston Hennigan LLP. S.M.O. does not own 
+stocks and shares in any organization. D.M.C. is affiliated with the Pan Am 
+Clinic Foundation which receives general education and research support from 
+ConMed Linvatec, Ossur, Zimmer Biomet, and Arthrex. B.G. has received research 
+grants, creatine donation for scientific studies, travel support for 
+participation in scientific conferences (includes the ISSN) and honorarium for 
+speaking at lectures from AlzChem (a company which manufactures creatine). In 
+addition, B.G. serves on the Scientific Advisory Board for Alzchem (a company 
+that manufactures creatine). All other authors report no conflicts of interest.

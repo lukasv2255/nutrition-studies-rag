@@ -1,0 +1,38 @@
+Title: International table of glycemic index and glycemic load values: 2002.
+Year: 2002
+DOI: 10.1093/AJCN/76.1.5
+
+ABSTRACT:
+1. Am J Clin Nutr. 2002 Jul;76(1):5-56. doi: 10.1093/ajcn/76.1.5.
+
+International table of glycemic index and glycemic load values: 2002.
+
+Foster-Powell K(1), Holt SH, Brand-Miller JC.
+
+Author information:
+(1)Human Nutrition Unit, School of Molecular and Microbial Biosciences, 
+University of Sydney, NSW, Australia.
+
+Comment in
+    Am J Clin Nutr. 2003 Apr;77(4):994; author reply 994-5. doi: 
+10.1093/ajcn/77.4.994.
+
+Reliable tables of glycemic index (GI) compiled from the scientific literature 
+are instrumental in improving the quality of research examining the relation 
+between GI, glycemic load, and health. The GI has proven to be a more useful 
+nutritional concept than is the chemical classification of carbohydrate (as 
+simple or complex, as sugars or starches, or as available or unavailable), 
+permitting new insights into the relation between the physiologic effects of 
+carbohydrate-rich foods and health. Several prospective observational studies 
+have shown that the chronic consumption of a diet with a high glycemic load (GI 
+x dietary carbohydrate content) is independently associated with an increased 
+risk of developing type 2 diabetes, cardiovascular disease, and certain cancers. 
+This revised table contains almost 3 times the number of foods listed in the 
+original table (first published in this Journal in 1995) and contains nearly 
+1300 data entries derived from published and unpublished verified sources, 
+representing > 750 different types of foods tested with the use of standard 
+methods. The revised table also lists the glycemic load associated with the 
+consumption of specified serving sizes of different foods.
+
+DOI: 10.1093/ajcn/76.1.5
+PMID: 12081815 [Indexed for MEDLINE]

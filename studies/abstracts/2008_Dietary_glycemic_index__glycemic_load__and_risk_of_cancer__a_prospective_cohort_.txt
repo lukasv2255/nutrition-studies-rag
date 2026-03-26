@@ -1,0 +1,40 @@
+Title: Dietary glycemic index, glycemic load, and risk of cancer: a prospective cohort study.
+Year: 2008
+DOI: 10.1093/aje/kwn347
+
+ABSTRACT:
+1. Am J Epidemiol. 2009 Feb 15;169(4):462-72. doi: 10.1093/aje/kwn347. Epub 2008 
+Dec 18.
+
+Dietary glycemic index, glycemic load, and risk of cancer: a prospective cohort 
+study.
+
+George SM(1), Mayne ST, Leitzmann MF, Park Y, Schatzkin A, Flood A, Hollenbeck 
+A, Subar AF.
+
+Author information:
+(1)Yale School of Public Health, New Haven, Connecticut, USA.
+
+Previous studies have provided limited evidence for a harmful effect of high 
+glycemic index and dietary glycemic load on cancer. The authors analyzed 
+associations among glycemic index, glycemic load, and risk of cancer in women 
+and men in the National Institutes of Health-AARP Diet and Health Study. 
+Published glycemic index values were assigned to 225 foods/food groups. Glycemic 
+load was calculated by multiplying the glycemic index, carbohydrate content, and 
+intake frequency of individual foods reported on a food frequency questionnaire. 
+From 1995 through 2003, the authors identified 15,215 and 33,203 cancer cases in 
+women and men, respectively. Cox proportional hazards models were used to 
+estimate multivariate relative risks and 95% confidence intervals. For women and 
+men, respectively, the relative risks for total cancer for high versus low 
+glycemic index were 1.03 (P(trend)=0.217) and 1.04 (P(trend)=0.012) and, for 
+glycemic load, were 0.90 (P(trend)=0.024) and 0.93 (P(trend)=0.01). Associations 
+with total cancer held only among the overweight for glycemic index and among 
+those of healthy weight for glycemic load. These findings suggest that glycemic 
+index and glycemic load are not strong predictors of cancer incidence. The 
+direction and small magnitude of associations might be explained by the manner 
+in which high glycemic index and glycemic load track with overall diet and 
+lifestyle patterns.
+
+DOI: 10.1093/aje/kwn347
+PMCID: PMC2726642
+PMID: 19095757 [Indexed for MEDLINE]

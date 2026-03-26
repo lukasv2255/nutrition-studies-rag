@@ -1,0 +1,50 @@
+Title: Effects of Creatine Supplementation on Renal Function: A Systematic Review and Meta-Analysis.
+Authors: de Souza E Silva A
+Year: 2019
+Journal: J Ren Nutr
+PMID: 31375416
+DOI: 10.1053/j.jrn.2019.05.004
+
+ABSTRACT:
+1. J Ren Nutr. 2019 Nov;29(6):480-489. doi: 10.1053/j.jrn.2019.05.004. Epub 2019 
+Jul 30.
+
+Effects of Creatine Supplementation on Renal Function: A Systematic Review and 
+Meta-Analysis.
+
+de Souza E Silva A(1), Pertille A(2), Reis Barbosa CG(2), Aparecida de Oliveira 
+Silva J(3), de Jesus DV(4), Ribeiro AGSV(2), Baganha RJ(4), de Oliveira JJ(5).
+
+Author information:
+(1)Centro Universitário de Itajubá - FEPI, Physical Education Department, 
+Itajubá, Brazil. Electronic address: alexprofms@yahoo.com.br.
+(2)Universidade Metodista de Piracicaba, Post-graduate Program in Human Movement 
+Sciences, São Paulo, Brazil.
+(3)Centro Universitário de Itajubá - FEPI, Physical Education Department, 
+Itajubá, Brazil; Universidade São Francisco, Psychological Evaluation 
+Department, Bragança Paulista, Brazil.
+(4)Centro Universitário de Itajubá - FEPI, Physical Education Department, 
+Itajubá, Brazil.
+(5)Centro Universitário de Itajubá - FEPI, Physical Education Department, 
+Itajubá, Brazil; Universidade Metodista de Piracicaba, Post-graduate Program in 
+Human Movement Sciences, São Paulo, Brazil.
+
+Creatine supplements are intended to improve performance, but there are 
+indications that it can overwhelm liver and kidney functions, reduce the quality 
+of life, and increase mortality. Therefore, this is the first systematic review 
+and meta-analysis study that aimed to investigate creatine supplements and their 
+possible renal function side effects. After evaluating 290 non-duplicated 
+studies, 15 were included in the qualitative analysis and 6 in the quantitative 
+analysis. The results of the meta-analysis suggest that creatine supplementation 
+did not significantly alter serum creatinine levels (standardized mean 
+difference = 0.48, 95% confidence interval 0.24-0.73, P = .001, I2 = 22%), and 
+did not alter plasma urea values (standardized mean difference = 1.10, 95% 
+confidence interval 0.34-1.85, P = .004, I2 = 28%). The findings indicate that 
+creatine supplementation does not induce renal damage in the studied amounts and 
+durations.
+
+Copyright © 2019 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.jrn.2019.05.004
+PMID: 31375416 [Indexed for MEDLINE]

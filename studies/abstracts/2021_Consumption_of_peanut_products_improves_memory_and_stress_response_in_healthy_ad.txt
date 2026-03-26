@@ -1,0 +1,23 @@
+Title: Consumption of peanut products improves memory and stress response in healthy adults from the ARISTOTLE study: A 6-month randomized controlled trial.
+Year: 2021
+DOI: 10.1016/j.clnu.2021.09.020
+
+ABSTRACT:
+BACKGROUND
+Peanuts are rich in bioactive compounds that may have a positive impact on memory and stress response.
+
+
+OBJECTIVE
+To evaluate the effect of regular consumption of peanut products on cognitive functions and stress response in healthy young adults.
+
+
+DESIGN
+A three-arm parallel-group randomized controlled trial was conducted in 63 healthy young adults that consumed 25 g/day of skin roasted peanuts (SRP, n = 21), 32 g/d of peanut butter (PB, n = 23) or 32 g/d of a control butter made from peanut oil (free of phenolic compounds and fiber) (CB, n = 19) for six months. Polyphenol intake, cognitive functions, and anxiety and depression scores were evaluated using validated tests. Fecal short-chain fatty acids (SCFAs) and plasma and fecal fatty acids were assessed by chromatographic methods. Urinary cortisol was quantified by an enzymatic method.
+
+
+RESULTS
+Comparing the two interventions with the control, a significant reduction in anxiety scores was observed in the SRP compared to the CB group. After the intervention, consumers of SRP and PB had an improved immediate memory (p = 0.046 and p = 0.011). Lower anxiety scores were associated with SRP and PB (p < 0.001 and p = 0.002, respectively) and lower depression scores with SRP, PB and CB (p = 0.007, p = 0.003 and p = 0.032, respectively). Memory functions and stress response were significantly correlated with polyphenol intake, fecal SCFAs, plasma and fecal very long chain saturated fatty acids (VLCSFAs).
+
+
+CONCLUSIONS
+Regular peanut and peanut butter consumption may enhance memory function and stress response in a healthy young population. These effects seem to be associated with the intake of peanut polyphenols, increased levels of fecal SCFAs, and unexpectedly, VLCSFAs, which were also present in the control product.

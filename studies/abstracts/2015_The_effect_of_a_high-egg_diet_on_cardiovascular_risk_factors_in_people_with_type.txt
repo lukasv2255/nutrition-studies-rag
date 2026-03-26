@@ -1,0 +1,60 @@
+Title: The effect of a high-egg diet on cardiovascular risk factors in people with type 2 diabetes: the Diabetes and Egg (DIABEGG) study-a 3-mo randomized controlled trial.
+Year: 2015
+DOI: 10.3945/ajcn.114.096925
+
+ABSTRACT:
+1. Am J Clin Nutr. 2015 Apr;101(4):705-13. doi: 10.3945/ajcn.114.096925. Epub
+2015  Feb 11.
+
+The effect of a high-egg diet on cardiovascular risk factors in people with type 
+2 diabetes: the Diabetes and Egg (DIABEGG) study-a 3-mo randomized controlled 
+trial.
+
+Fuller NR(1), Caterson ID(1), Sainsbury A(1), Denyer G(1), Fong M(1), Gerofi 
+J(1), Baqleh K(1), Williams KH(1), Lau NS(1), Markovic TP(1).
+
+Author information:
+(1)From The Boden Institute of Obesity, Nutrition, Exercise & Eating Disorders 
+(NRF, AS, IDC, GD, MF, JG, KB, KHW, NSL, and TPM) and School of Molecular 
+Bioscience (GD), The University of Sydney, Sydney, Australia, and Metabolism & 
+Obesity Services, Royal Prince Alfred Hospital, Camperdown, Australia (IDC and 
+TPM).
+
+Comment in
+    Am J Clin Nutr. 2015 Apr;101(4):691-2. doi: 10.3945/ajcn.115.108415.
+    MMW Fortschr Med. 2015 Sep 10;157(15):43. doi: 10.1007/s15006-015-3473-8.
+
+BACKGROUND: Previously published research that examined the effects of high egg 
+consumption in people with type 2 diabetes (T2D) produced conflicting results 
+leading to recommendations to limit egg intake. However, people with T2D may 
+benefit from egg consumption because eggs are a nutritious and convenient way of 
+improving protein and micronutrient contents of the diet, which have importance 
+for satiety and weight management.
+OBJECTIVE: In this randomized controlled study, we aimed to determine whether a 
+high-egg diet (2 eggs/d for 6 d/wk) compared with a low-egg diet (<2 eggs/wk) 
+affected circulating lipid profiles, in particular high-density lipoprotein 
+(HDL) cholesterol, in overweight or obese people with prediabetes or T2D.
+DESIGN: A total of 140 participants were randomly assigned to one of the 2 diets 
+as part of a 3-mo weight maintenance study. Participants attended the clinic 
+monthly and were instructed on the specific types of foods and quantities to be 
+consumed.
+RESULTS: There was no significant difference in the change in HDL cholesterol 
+from screening to 3 mo between groups; the mean difference (95% CI) between 
+high- and low-egg groups was +0.02 mmol/L (-0.03, 0.08 mmol/L; P = 0.38). No 
+between-group differences were shown for total cholesterol, low-density 
+lipoprotein cholesterol, triglycerides, or glycemic control. Both groups were 
+matched for protein intake, but the high-egg group reported less hunger and 
+greater satiety postbreakfast. Polyunsaturated fatty acid (PUFA) and 
+monounsaturated fatty acid (MUFA) intakes significantly increased from baseline 
+in both groups.
+CONCLUSIONS: High egg consumption did not have an adverse effect on the lipid 
+profile of people with T2D in the context of increased MUFA and PUFA 
+consumption. This study suggests that a high-egg diet can be included safely as 
+part of the dietary management of T2D, and it may provide greater satiety. This 
+trial was registered at the Australia New Zealand Clinical Trials Registry 
+(http://www.anzctr.org.au/) as ACTRN12612001266853.
+
+© 2015 American Society for Nutrition.
+
+DOI: 10.3945/ajcn.114.096925
+PMID: 25833969 [Indexed for MEDLINE]

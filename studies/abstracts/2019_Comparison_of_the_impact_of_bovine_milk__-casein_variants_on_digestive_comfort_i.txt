@@ -1,0 +1,23 @@
+Title: Comparison of the impact of bovine milk β-casein variants on digestive comfort in females self-reporting dairy intolerance: a randomized controlled trial.
+Year: 2019
+DOI: 10.1093/ajcn/nqz279
+
+ABSTRACT:
+BACKGROUND
+Lactose malabsorption (LM) is a major cause of digestive discomfort from dairy products. Recently, a role for bovine β-casein A1 has been proposed.
+
+
+OBJECTIVES
+We examined whether there are distinct symptoms of digestive discomfort due to either lactose or differing bovine β-casein types.
+
+
+METHODS
+Women (n = 40; age: 25.2 ± 0.5 y) with self-reported varying dairy tolerance underwent a 50-g lactose challenge. Based on postchallenge LM and digestive discomfort, participants were classified as either lactose intolerant (LI; n = 10, self-reported intolerant, diagnosed lactose intolerant), nonlactose dairy intolerant (NLDI; n = 20, self-reported intolerant, diagnosed lactose tolerant), or dairy tolerant (DT; n  = 10, self-reported tolerant, diagnosed lactose tolerant). In a double-blinded randomized sequence, participants consumed 750 mL conventional milk (CON; containing A1 and A2 β-casein and lactose), a2 Milk (A2M; exclusively containing A2 β-casein with lactose), or lactose-free conventional milk (LF-CON; containing A1 and A2 β-casein without lactose). Subjective digestive symptoms and breath hydrogen (measuring LM) were recorded regularly over 3 h, and further ad hoc digestive symptoms over 12 h.
+
+
+RESULTS
+LI subjects experienced prolonged digestive discomfort with CON milk. A2M reduced (P < 0.05) some symptoms (nausea: A2M 8 ± 3 mm compared with CON 15 ± 3mm; fecal urgency: A2M 4 ± 1 compared with CON 10 ± 3 mm), and attenuated the rise in breath hydrogen over 3 h, relative to CON milk (A2M 59 ± 23 compared with CON 98 ± 25 ppm at 150 min; P < 0.01). In contrast, NLDI subjects experienced rapid-onset, transient symptoms (abdominal distension, bloating, and flatulence) without increased breath hydrogen, irrespective of milk type.
+
+
+CONCLUSIONS
+In LI individuals, LM and digestive comfort with lactose-containing milks was improved with milk containing exclusively A2 β-casein. Furthermore, self-reported dairy intolerance without LM (NLDI) is characterized by early-onset digestive discomfort following milk ingestion, irrespective of lactose content or β-casein type. This trial was registered at www.anzctr.org.au as ACTRN12616001694404.

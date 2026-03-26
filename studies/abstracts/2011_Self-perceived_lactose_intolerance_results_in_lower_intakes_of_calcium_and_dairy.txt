@@ -1,0 +1,48 @@
+Title: Self-perceived lactose intolerance results in lower intakes of calcium and dairy foods and is associated with hypertension and diabetes in adults.
+Year: 2011
+DOI: 10.3945/ajcn.110.009860
+
+ABSTRACT:
+1. Am J Clin Nutr. 2011 Jul;94(1):191-8. doi: 10.3945/ajcn.110.009860. Epub 2011 
+Apr 27.
+
+Self-perceived lactose intolerance results in lower intakes of calcium and dairy 
+foods and is associated with hypertension and diabetes in adults.
+
+Nicklas TA(1), Qu H, Hughes SO, He M, Wagner SE, Foushee HR, Shewchuk RM.
+
+Author information:
+(1)US Department of Agriculture/Agricultural Research Service, Children's 
+Nutrition Research Center, Baylor College of Medicine, Houston, TX 77030, USA. 
+tnicklas@bcm.edu
+
+BACKGROUND: Self-perceived lactose intolerance may result in adverse dietary 
+modifications; thus, more studies are needed to understand the prevalence of 
+self-perceived lactose intolerance and how it relates to calcium intake and 
+selected health conditions.
+OBJECTIVE: The objective was to examine the effects of self-perceived lactose 
+intolerance as it relates to calcium intake and specific health problems that 
+have been attributed to reduced intakes of calcium and dairy foods in a 
+nationally representative multiethnic sample of adults.
+DESIGN: This was a cross-sectional study in a national sample of 3452 adults. 
+The relation between self-perceived lactose intolerance, calcium intakes, and 
+physician-diagnosed health conditions was analyzed by using linear regression 
+analyses.
+RESULTS: Of the total sample, 12.3% of respondents perceived themselves to be 
+lactose intolerant. The age-adjusted prevalence of self-perceived lactose 
+intolerance was 7.8% for non-Hispanic whites, 20.1% for non-Hispanic blacks, and 
+8.8% for Hispanics. Respondents with self-perceived lactose intolerance had 
+significantly lower (P < 0.05) average daily calcium intakes from dairy foods 
+than did those without self-perceived lactose intolerance. A significantly 
+higher (P < 0.05) percentage of respondents with self-perceived lactose 
+intolerance than of respondents without self-perceived lactose intolerance 
+reported having physician-diagnosed diabetes and hypertension. The odds of 
+self-reported physician-diagnosed diabetes or hypertension decreased by factors 
+of 0.70 and 0.60, respectively, for a 1000-mg increase in calcium intake from 
+dairy foods per day.
+CONCLUSIONS: Self-perceived lactose-intolerant respondents had a significantly 
+lower calcium intake from dairy foods and reported having a significantly higher 
+rate of physician-diagnosed diabetes and hypertension.
+
+DOI: 10.3945/ajcn.110.009860
+PMID: 21525197 [Indexed for MEDLINE]

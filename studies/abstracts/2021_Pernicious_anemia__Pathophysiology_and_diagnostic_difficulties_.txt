@@ -1,0 +1,48 @@
+Title: Pernicious anemia: Pathophysiology and diagnostic difficulties.
+Authors: Htut TW
+Year: 2021
+Journal: J Evid Based Med
+PMID: 34015185
+DOI: 10.1111/jebm.12435
+
+ABSTRACT:
+1. J Evid Based Med. 2021 May;14(2):161-169. doi: 10.1111/jebm.12435. Epub 2021
+May  20.
+
+Pernicious anemia: Pathophysiology and diagnostic difficulties.
+
+Htut TW(1), Thein KZ(2), Oo TH(3).
+
+Author information:
+(1)Department of Hematology, Aberdeen Royal Infirmary Hospital, The University 
+of Aberdeen, NHS Grampian, Scotland, UK.
+(2)Department of Investigational Cancer Therapeutics, The University of Texas MD 
+Anderson Cancer Center, Houston, USA.
+(3)Section of Benign Hematology, The University of Texas MD Anderson Cancer 
+Center, Houston, USA.
+
+Pernicious anemia (PA) is the most common cause of vitamin B12 (cobalamin) 
+deficiency anemia in the world. It is an autoimmune disease, comprising of 
+salient features of autoimmune chronic atrophic gastritis (CAG) and cobalamin 
+deficiency (CD). Although the anemia was first described as pernicious, it may 
+well be controlled with vitamin B12 replacement. The onset and progression of PA 
+is often insidious. Alternatively, patients may have no anemic symptoms since 
+they become acclimatized to the subtle nature of the disease. Oftentimes, there 
+is a possibility that the underlying disease may be missed unless a full blood 
+count (FBC) is investigated, leading to hindrance in the treatment journey. 
+Diagnostic challenges remain tangible for many practicing clinicians, since 
+there is lack of reliable cobalamin assays to diagnose CD as well as clinical 
+mimics, which simulate many other hematological conditions, such as 
+myelodysplastic syndrome, acute leukemia, sideroblastic anemias, bone marrow 
+failure states, thrombotic microangiopathy, and thromboembolism. Moreover, 
+prompt recognition of the symptoms of CD is also vital, because some neurologic 
+sequalae may become irreversible despite replenishing cobalamin. Herein, we 
+discuss a literature review on the pathophysiology, challenging clinical 
+presentations and diagnostic difficulties of PA. Since the cobalamin replacement 
+therapy for PA is straightforward, it will not be discussed in this review.
+
+© 2021 Chinese Cochrane Center, West China Hospital of Sichuan University and 
+John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/jebm.12435
+PMID: 34015185 [Indexed for MEDLINE]

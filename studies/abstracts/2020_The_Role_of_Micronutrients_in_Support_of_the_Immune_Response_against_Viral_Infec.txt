@@ -1,0 +1,46 @@
+Title: The Role of Micronutrients in Support of the Immune Response against Viral Infections.
+Authors: Pecora F
+Year: 2020
+Journal: Nutrients
+PMID: 33092041
+DOI: 10.3390/nu12103198
+
+ABSTRACT:
+1. Nutrients. 2020 Oct 20;12(10):3198. doi: 10.3390/nu12103198.
+
+The Role of Micronutrients in Support of the Immune Response against Viral 
+Infections.
+
+Pecora F(1), Persico F(1), Argentiero A(1), Neglia C(1), Esposito S(1).
+
+Author information:
+(1)Pediatric Clinic, Pietro Barilla Children's Hospital, Department of Medicine 
+and Surgery, University of Parma, via Gramsci 14, 43126 Parma, Italy.
+
+Viral infections are a leading cause of morbidity and mortality worldwide, and 
+the importance of public health practices including handwashing and vaccinations 
+in reducing their spread is well established. Furthermore, it is well known that 
+proper nutrition can help support optimal immune function, reducing the impact 
+of infections. Several vitamins and trace elements play an important role in 
+supporting the cells of the immune system, thus increasing the resistance to 
+infections. Other nutrients, such as omega-3 fatty acids, help sustain optimal 
+function of the immune system. The main aim of this manuscript is to discuss of 
+the potential role of micronutrients supplementation in supporting immunity, 
+particularly against respiratory virus infections. Literature analysis showed 
+that in vitro and observational studies, and clinical trials, highlight the 
+important role of vitamins A, C, and D, omega-3 fatty acids, and zinc in 
+modulating the immune response. Supplementation with vitamins, omega 3 fatty 
+acids and zinc appears to be a safe and low-cost way to support optimal function 
+of the immune system, with the potential to reduce the risk and consequences of 
+infection, including viral respiratory infections. Supplementation should be in 
+addition to a healthy diet and fall within recommended upper safety limits set 
+by scientific expert bodies. Therefore, implementing an optimal nutrition, with 
+micronutrients and omega-3 fatty acids supplementation, might be a 
+cost-effective, underestimated strategy to help reduce the burden of infectious 
+diseases worldwide, including coronavirus disease 2019 (COVID-19).
+
+DOI: 10.3390/nu12103198
+PMCID: PMC7589163
+PMID: 33092041 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,235 @@
+Title: Intermittent fasting strategies and their effects on body weight and other cardiometabolic risk factors: systematic review and network meta-analysis of randomised clinical trials.
+Authors: Semnani-Azad Z
+Year: 2025
+Journal: BMJ
+PMID: 40533200
+DOI: 10.1136/bmj-2024-082007
+
+ABSTRACT:
+1. BMJ. 2025 Jun 18;389:e082007. doi: 10.1136/bmj-2024-082007.
+
+Intermittent fasting strategies and their effects on body weight and other 
+cardiometabolic risk factors: systematic review and network meta-analysis of 
+randomised clinical trials.
+
+Semnani-Azad Z(1), Khan TA(2)(3), Chiavaroli L(2)(3), Chen V(2)(3), Bhatt HA(4), 
+Chen A(4), Chiang N(4), Oguntala J(4), Kabisch S(5)(6), Lau DC(7), Wharton S(8), 
+Sharma AM(9), Harris L(10), Leiter LA(2)(3)(4)(11)(12), Hill JO(13), Hu 
+FB(1)(14)(15), Lean ME(10), Kahleová H(16), Rahelic D(17), Salas-Salvadó J(18), 
+Kendall CW(2)(3)(19), Sievenpiper JL(20)(3)(4)(11)(12).
+
+Author information:
+(1)Department of Nutrition, Harvard TH Chan School of Public Health, Boston, MA, 
+USA.
+(2)Department of Nutritional Sciences, Temerty Faculty of Medicine, University 
+of Toronto, Toronto, ON, Canada.
+(3)Toronto 3D Knowledge Synthesis and Clinical Trials Unit, Clinical Nutrition 
+and Risk Factor Modification Centre, St Michael's Hospital, Toronto, ON, Canada.
+(4)Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada.
+(5)Charité Universitätsmedizin, Berlin, Germany.
+(6)German Center for Diabetes Research, Neuherberg, Germany.
+(7)Department of Medicine and Biochemistry, University of Calgary, Calgary, AB, 
+Canada.
+(8)Department of Medicine, McMaster University, Hamilton, ON, Canada.
+(9)Division of Endocrinology and Metabolism, University of Alberta, Edmonton, 
+AB, Canada.
+(10)Human Nutrition, School of Medicine, University of Glasgow, Glasgow, 
+Scotland, UK.
+(11)Division of Endocrinology and Metabolism, St Michael's Hospital, Toronto, 
+ON, Canada.
+(12)Li Ka Shing Knowledge Institute, St Michael's Hospital, Toronto, ON, Canada.
+(13)Department of Nutrition Sciences, University of Alabama at Birmingham, 
+Birmingham, Alabama, USA.
+(14)Department of Epidemiology, Harvard TH Chan School of Public Health, Boston, 
+MA, USA.
+(15)Department of Biostatistics, Harvard TH Chan School of Public Health, 
+Boston, MA, USA.
+(16)Physicians Committee for Responsible Medicine, Washington, DC, USA.
+(17)Department of Endocrinology, Metabolism and Diabetes, Merkur University 
+Hospital, Zagreb, Croatia.
+(18)Human Nutrition Unit, Department of Biochemistry and Biotechnology, Institut 
+d'Investigació Sanitaria Pere i Virgili, Universitat Rovira i Virgili, Reus, 
+Spain.
+(19)College of Pharmacy and Nutrition, University of Saskatchewan, Saskatoon, 
+SK, Canada.
+(20)Department of Nutritional Sciences, Temerty Faculty of Medicine, University 
+of Toronto, Toronto, ON, Canada john.sievenpiper@utoronto.ca.
+
+Erratum in
+    BMJ. 2025 Aug 18;390:r1737. doi: 10.1136/bmj.r1737.
+
+OBJECTIVE: To assess the effect of intermittent fasting diets, with continuous 
+energy restriction or unrestricted (ad-libitum) diets on intermediate 
+cardiometabolic outcomes from randomised clinical trials.
+DESIGN: Systematic review and network meta-analysis.
+DATA SOURCES: Medline, Embase, and central databases from inception to 14 
+November 2024.
+ELIGIBILITY CRITERIA FOR SELECTING STUDIES: Randomised clinical trials comparing 
+the association of intermittent fasting diets (alternate day fasting, time 
+restricted eating, and whole day fasting), continuous energy restriction, and 
+ad-libitum diets were included.
+MAIN OUTCOMES: Outcomes included body weight (primary) and measures of 
+anthropometry, glucose metabolism, lipid profiles, blood pressure, C-reactive 
+protein, and markers of liver disease.
+DATA SYNTHESIS: A network meta-analysis based on a frequentist framework was 
+performed with data expressed as mean difference with 95% confidence intervals 
+(CIs). The certainty of the evidence was assessed using grading of 
+recommendations assessment, development, and evaluation (GRADE).
+RESULTS: 99 randomised clinical trials involving 6582 adults of varying health 
+conditions (720 healthy, 5862 existing health conditions) were identified. All 
+intermittent fasting and continuous energy restriction diet strategies reduced 
+body weight when compared with ad-libitum diet. Compared with continuous energy 
+restriction, alternate day fasting was the only form of intermittent fasting 
+diet strategy to show benefit in body weight reduction (mean difference -1.29 kg 
+(95% CI -1.99 to -0.59), moderate certainty of evidence). Additionally, 
+alternate day fasting showed a trivial reduction in body weight compared with 
+both time restricted eating and whole day fasting (mean difference -1.69 kg 
+(-2.49 to -0.88) and -1.05 kg (-1.90 to -0.19), respectively, both with moderate 
+certainty of evidence). Estimates were similar among trials with less than 24 
+weeks follow-up (n=76); however, moderate-to-long-term trials (≥24 weeks, n=17) 
+only showed benefits in weight reduction in diet strategies compared with 
+ad-libitum. Furthermore, in comparisons between intermittent fasting strategies, 
+alternate day fasting lowered total cholesterol, triglycerides, and non-high 
+density lipoprotein compared with time restricted eating. Compared with whole 
+day fasting, however, time restricted eating resulted in a small increase in 
+total cholesterol, low density lipoprotein cholesterol, and non-high density 
+lipoprotein cholesterol. No differences were noted between intermittent fasting, 
+continuous energy restriction, and ad-libitum diets for HbA1c and high density 
+lipoprotein.
+CONCLUSIONS: Minor differences were noted between some intermittent fasting 
+diets and continuous energy restriction, with some benefit of weight loss with 
+alternate day fasting in shorter duration trials. The current evidence provides 
+some indication that intermittent fasting diets have similar benefits to 
+continuous energy restriction for weight loss and cardiometabolic risk factors. 
+Longer duration trials are needed to further substantiate these findings.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT05309057.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmj-2024-082007
+PMCID: PMC12175170
+PMID: 40533200 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at www.icmje.org/disclosure-of-interest/ and 
+declare: TAK has received research support from the CIHR, the International Life 
+Science Institute and National Honey Board. He has been an invited speaker at 
+the Calorie Control Council Annual meeting for which he has received an 
+honorarium. LC held a Mitacs-Elevate post-doctoral fellowship jointly funded by 
+the Government of Canada and the Canadian Sugar Institute (2019-2021). She was 
+employed as a casual clinical coordinator at INQUIS Clinical Research, Ltd. 
+(formerly Glycemic Index Laboratories, Inc), a contract research organization 
+(until 2019). She has received research funding from the Canadian Institutes of 
+Health Research (CIHR), Protein Industries Canada (a Government of Canada Global 
+Innovation Cluster), the United Soybean Board (The United States Department of 
+Agriculture Soybean “Check-off” Program), and the Alberta Pulse Growers. She has 
+received honoraria from the Arkansas Children’s Hospital and travel funding from 
+the World Sugars Research Organization for an internal presentation in 2022. SK 
+received grants by the German Center for Diabetes Research (DZD), the German 
+Diabetes Association, the Almond Board of California, the California Walnut 
+Commission, the Wilhelm-Doerenkamp-Foundation. DCWL reports clinical research 
+grant funding from Novo Nordisk. He serves on advisory boards for Amgen, Bayer, 
+Boehringer Ingelheim, HLS Therapeutics, Eli Lilly, Novartis, Novo Nordisk, 
+Pfizer, and Viatris. He serves on speaker bureaus for Amgen, Bayer, Boehringer 
+Ingelheim, CME at Sea, HLS Therapeutics, Eli Lilly, Novartis, Novo Nordisk, and 
+Obesity Canada. He is the founder of Obesity Canada and a member of the board of 
+directors of Canadian Association of Bariatric Physicians and Surgeons for no 
+remuneration. JOH reports speaker fees from Eli Lilly. He serves as a member of 
+the scientific advisory board for General Mills. ML reports membership of the 
+Arctic Clum and the Alpine Club, departmental research support from National 
+Institute for Health Research (NIHR), Novo Nordisk Diabetes UK, and All Saints 
+Educational Trust, outside the submitted work, lecturing fees from Novo Nordisk, 
+Eli Lilly, Nestle, and Oviva, and has provided clinical consultancy to the 
+Government of Bermuda, the Ombudsman of Northern Ireland, and Counterweight Ltd, 
+with fees paid to the University of Glasgow. SW has been involved in honoraria, 
+ad boards, or clinical trials for Novo Nordisk Inc, Bausch Health Canada, Eli 
+Lilly, and Boehringer Engelheim. DR is director of Vuk Vrhovac University Clinic 
+for Diabetes, Endocrinology and Metabolic Diseases at Merkur University 
+Hospital, Zagreb, Croatia. He is the president of Croatian Society for Diabetes 
+and Metabolic Disorders of Croatian Medical Association. He serves as an 
+executive committee member of Croatian Endocrine Society, Croatian Society for 
+Obesity and Croatian Society for Endocrine Oncology. He was a board member and 
+secretary of International Diabetes Federation (IDF) Europe and currently he is 
+the chair of the IDF Young Leaders in Diabetes Programme. He has served as an 
+executive committee member of the Diabetes and Nutrition Study Group of European 
+Association of the Study of Diabetes (EASD) and currently he serves as an 
+executive committee member of Diabetes and Cardiovascular Disease Study Group of 
+EASD. He has served as principal investigator or coinvestigator in clinical 
+trials of AstraZeneca, Eli Lilly, MSD, Novo Nordisk, Sanofi Aventis, Solvay, and 
+Trophos. He has received travel support, speaker fees, and honoraria from 
+advisory board engagements and consulting fees from Abbott, Amgen, AstraZeneca, 
+Bayer, Belupo, Boehringer Ingelheim, Eli Lilly, Lifescan – Johnson and Johnson, 
+International Sweeteners Association, Krka, Medtronic, Mediligo, Mylan, 
+Novartis, Novo Nordisk, MSD, Merck Sharp and Dohme, Pfizer, Pliva, Roche, 
+Salvus, Sandoz, Solvay, Sanofi Aventis, and Takeda. JS-S is on the Clinical 
+Practice Guidelines Expert Committee of EASD and served in the Scientific 
+Committee of the Spanish Food and Safety Agency and the Spanish Federation of 
+the Scientific Societies of Food, Nutrition and Dietetics. He is a member of the 
+International Carbohydrate Quality Consortium (ICQC) and Executive Board Member 
+of the Diabetes and Nutrition Study Group (DNSG) of the EASD, and has received 
+research support from the Instituto de Salud Carlos III, Spain, Ministerio de 
+Educación y Ciencia, Spain, Departament de Salut Pública de la Generalitat de 
+Catalunya, Catalonia, Spain, and the European Commission. Reported receiving 
+personal fees from Instituto Danone Spain. Received financial support to the 
+institution from the International Nut and Dried Fruit Council Foundation, 
+Fundación Eroski. He is a non-paid member of the International Danone Institute 
+and received travel expenses form this institution. CWCK has received grants or 
+research support from the Advanced Food Materials Network, Agriculture and 
+Agri-Foods Canada (AAFC), Almond Board of California, Barilla, Canadian 
+Institutes of Health Research (CIHR), Canola Council of Canada, International 
+Nut and Dried Fruit Council, International Tree Nut Council Research and 
+Education Foundation, Loblaw Brands Ltd, the Peanut Institute, Pulse Canada, and 
+Unilever. He has received in-kind research support from the Almond Board of 
+California, Barilla, California Walnut Commission, Kellogg Canada, Loblaw 
+Companies, Nutrartis, Quaker (PepsiCo), the Peanut Institute, Primo, Unico, 
+Unilever, and WhiteWave Foods/Danone. He has received travel support and/or 
+honoraria from the Barilla, California Walnut Commission, Canola Council of 
+Canada, General Mills, International Nut and Dried Fruit Council, International 
+Pasta Organization, Lantmannen, Loblaw Brands Ltd, Nutrition Foundation of 
+Italy, Oldways Preservation Trust, Paramount Farms, the Peanut Institute, Pulse 
+Canada, Sun-Maid, Tate & Lyle, Unilever, and White Wave Foods/Danone. He has 
+served on the scientific advisory board for the International Tree Nut Council, 
+International Pasta Organization, McCormick Science Institute, and Oldways 
+Preservation Trust. He is a founding member of the International Carbohydrate 
+Quality Consortium (ICQC), Executive Board Member of the DNSG of the EASD, is on 
+the Clinical Practice Guidelines Expert Committee for Nutrition Therapy of the 
+EASD and is a Director of the Toronto 3D Knowledge Synthesis and Clinical Trials 
+foundation. JLS has received research support from the Canadian Foundation for 
+Innovation, Ontario Research Fund, Province of Ontario Ministry of Research and 
+Innovation and Science, Canadian Institutes of health Research (CIHR), Diabetes 
+Canada, American Society for Nutrition (ASN), National Honey Board (U.S. 
+Department of Agriculture (USDA) honey “Checkoff” program), Institute for the 
+Advancement of Food and Nutrition Sciences (IAFNS), Pulse Canada, Quaker Oats 
+Center of Excellence, INC International Nut and Dried Fruit Council Foundation, 
+The United Soybean Board (USDA soy “Checkoff” program), Protein Industries 
+Canada (a Government of Canada Global Innovation Cluster), Almond Board of 
+California, European Fruit Juice Association, The Tate and Lyle Nutritional 
+Research Fund at the University of Toronto, The Glycemic Control and 
+Cardiovascular Disease in Type 2 Diabetes Fund at the University of Toronto (a 
+fund established by the Alberta Pulse Growers), The Plant Protein Fund at the 
+University of Toronto (a fund which has received contributions from IFF among 
+other donors), The Plant Milk Fund at the University of Toronto (a fund 
+established by the Karuna Foundation through Vegan Grants), and The Nutrition 
+Trialists Network Fund at the University of Toronto (a fund established by 
+donations from the Calorie Control Council, Physicians Committee for Responsible 
+Medicine, and Login5 Foundation). He has received food donations to support 
+randomised controlled trials from the Almond Board of California, California 
+Walnut Commission, Danone, Nutrartis, Soylent, and Dairy Farmers of Canada. He 
+has received travel support, speaker fees and/or honoraria from FoodMinds LLC, 
+Nestlé, Abbott, General Mills, Nutrition Communications, International Food 
+Information Council (IFIC), Arab Beverage Association, International Sweeteners 
+Association, Calorie Control Council, Phynova, and Collaborative CME and 
+Research Network (CCRN). He has or has had ad hoc consulting arrangements with 
+Almond Board of California, Perkins Coie LLP, Tate & Lyle, Ingredion, and 
+Brightseed. He is on the Clinical Practice Guidelines Expert Committees of 
+Diabetes Canada, EASD, Canadian Cardiovascular Society (CCS), and Obesity 
+Canada/Canadian Association of Bariatric Physicians and Surgeons. He serves as 
+an unpaid member of the Board of Trustees of IAFNS. He is a Director at Large of 
+the Canadian Nutrition Society (CNS), founding member of the International 
+Carbohydrate Quality Consortium (ICQC), Executive Board Member of the DNSG of 
+the EASD, and Director of the Toronto 3D Knowledge Synthesis and Clinical Trials 
+foundation. His spouse is a former employee of Nestle Health Science and AB 
+InBev; no other relationships or activities that could appear to have influenced 
+the submitted work. All other authors declare that they have no competing 
+interests.

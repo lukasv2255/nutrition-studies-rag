@@ -1,0 +1,53 @@
+Title: Fiber-Mediated Nourishment of Gut Microbiota Protects against Diet-Induced Obesity by Restoring IL-22-Mediated Colonic Health.
+Year: 2018
+DOI: 10.1016/j.chom.2017.11.003
+
+ABSTRACT:
+1. Cell Host Microbe. 2018 Jan 10;23(1):41-53.e4. doi:
+10.1016/j.chom.2017.11.003.  Epub 2017 Dec 21.
+
+Fiber-Mediated Nourishment of Gut Microbiota Protects against Diet-Induced 
+Obesity by Restoring IL-22-Mediated Colonic Health.
+
+Zou J(1), Chassaing B(1), Singh V(2), Pellizzon M(3), Ricci M(3), Fythe MD(4), 
+Kumar MV(2), Gewirtz AT(5).
+
+Author information:
+(1)Center for Inflammation, Immunity, and Infection, Institute for Biomedical 
+Sciences, Georgia State University, Atlanta, GA 30303, USA.
+(2)Department of Nutritional Sciences, Pennsylvania State University, University 
+Park, PA 16802, USA.
+(3)Research Diets, New Brunswick, NJ 08901, USA.
+(4)USDA-ARS Forage-Animal Production Research Unit, University of Kentucky, 
+Lexington, KY 40546, USA.
+(5)Center for Inflammation, Immunity, and Infection, Institute for Biomedical 
+Sciences, Georgia State University, Atlanta, GA 30303, USA. Electronic address: 
+agewirtz@gsu.edu.
+
+Comment in
+    Nat Rev Endocrinol. 2018 Feb;14(2):63. doi: 10.1038/nrendo.2017.182.
+    Nat Rev Gastroenterol Hepatol. 2018 Feb;15(2):67. doi: 
+10.1038/nrgastro.2018.2.
+
+Dietary supplementation with fermentable fiber suppresses adiposity and the 
+associated parameters of metabolic syndrome. Microbiota-generated fiber-derived 
+short-chain fatty acids (SCFAs) and free fatty acid receptors including GPR43 
+are thought to mediate these effects. We find that while fermentable (inulin), 
+but not insoluble (cellulose), fiber markedly protected mice against high-fat 
+diet (HFD)-induced metabolic syndrome, the effect was not significantly impaired 
+by either inhibiting SCFA production or genetic ablation of GPR43. Rather, HFD 
+decimates gut microbiota, resulting in loss of enterocyte proliferation, leading 
+to microbiota encroachment, low-grade inflammation (LGI), and metabolic 
+syndrome. Enriching HFD with inulin restored microbiota loads, interleukin-22 
+(IL-22) production, enterocyte proliferation, and antimicrobial gene expression 
+in a microbiota-dependent manner, as assessed by antibiotic and germ-free 
+approaches. Inulin-induced IL-22 expression, which required innate lymphoid 
+cells, prevented microbiota encroachment and protected against LGI and metabolic 
+syndrome. Thus, fermentable fiber protects against metabolic syndrome by 
+nourishing microbiota to restore IL-22-mediated enterocyte function.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2017.11.003
+PMCID: PMC6005180
+PMID: 29276170 [Indexed for MEDLINE]

@@ -1,0 +1,19 @@
+Title: Effects of time-restricted feeding (16/8) combined with a low-sugar diet on the management of non-alcoholic fatty liver disease: A randomized controlled trial.
+Year: 2022
+DOI: 10.1016/j.nut.2022.111847
+
+ABSTRACT:
+OBJECTIVES
+Emerging studies have employed time-restricted feeding (TRF) and a low-sugar diet alone in the management of non-alcoholic fatty liver disease (NAFLD), but their combination has not been tested. The aim of this study was to investigate the effects of TRF combined with a low-sugar diet on NAFLD parameters, cardiometabolic and inflammatory biomarkers, and body composition in patients with NAFLD.
+
+
+METHODS
+A 12-wk randomized controlled trial was performed to compare the effects of TRF (16 h fasting/8 h feeding daily [16/8]) plus a low-sugar diet versus a control diet based on traditional meal distribution in patients with NAFLD. Changes in body composition, anthropometric indices, and liver and cardiometabolic markers were investigated.
+
+
+RESULTS
+TRF 16/8 with a low-sugar diet reduced body fat (26.7 ± 5.4 to 24.2 ± 4.9 kg), body weight (83.8 ± 12.7 to 80.5 ± 12.1 kg), waist circumference (104.59 ± 10.47 to 101.91 ± 7.42 cm), and body mass index (29.1 ± 2.6 to 28 ± 2.7 kg/m2), as well as circulating levels of fasting blood glucose and liver (alanine aminotransferase, 34 ± 13.9 to 21.2 ± 5.4 U/L; aspartate aminotransferase, 26.3 ± 6.2 to 20.50 ± 4 U/L; γ-glutamyl transpeptidase, 33 ± 15 to 23.2 ± 11.1 U/L; fibrosis score, 6.3 ± 1 to 5.2 ± 1.2 kPa; and controlled attenuation parameter, 322.9 ± 34.9 to 270.9 ± 36.2 dB/m), lipids (triacylglycerols, 201.5 ± 35.3 to 133.3 ± 48.7 mg/dL; total cholesterol, 190 ± 36.6 to 157.8 ± 33.6 mg/dL; and low-density lipoprotein cholesterol, 104.6 ± 27.3 to 84 ± 26.3 mg/dL), and inflammatory markers (high-sensitivity C-reactive protein, 3.1 ± 1.1 to 2 ± 0.9 mg/L; and cytokeratin-18, 1.35 ± 0.03 to 1.16 ± 0.03 ng/mL). These results were statistically significant (P < 0.05) compared with the control group.
+
+
+CONCLUSIONS
+TRF plus a low-sugar diet can reduce adiposity and improve liver, lipid, and inflammatory markers in patients with NAFLD.

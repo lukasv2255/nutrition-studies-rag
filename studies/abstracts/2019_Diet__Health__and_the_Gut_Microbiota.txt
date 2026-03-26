@@ -1,0 +1,6 @@
+Title: Diet, Health, and the Gut Microbiota
+Year: 2019
+DOI: 10.1128/9781555819972.CH31
+
+ABSTRACT:
+This chapter details well-established ideas within the microbiome field relating to the interplay between our microbiota and diet and their associations with long-term health over the course of our lives. The chapter details what the microbiota and microbiome are, how the microbiota is established, and how nutrition plays a major role in the progression of the microbiota throughout our lives. Initially the chapter details the establishment of the microbiota and the influence of early-life diet. It characterizes the progression to a more adult-like microbiota due to dietary changes and places the adult microbiota in the context of the different dietary and lifestyle choices we make as adults, the influence these have on our body mass index, and how this may influence our health. Finally, we detail the effect of diet and the microbiota on our health as we reach an advanced age and how the microbiota may be maintained or modulated through diet.

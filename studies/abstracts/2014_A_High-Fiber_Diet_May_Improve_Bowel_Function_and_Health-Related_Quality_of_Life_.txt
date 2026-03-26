@@ -1,0 +1,48 @@
+Title: A High-Fiber Diet May Improve Bowel Function and Health-Related Quality of Life in Patients With Crohn Disease
+Year: 2014
+DOI: 10.1097/SGA.0000000000000047
+
+ABSTRACT:
+1. Gastroenterol Nurs. 2014 May-Jun;37(3):206-16. doi: 
+10.1097/SGA.0000000000000047.
+
+A high-fiber diet may improve bowel function and health-related quality of life 
+in patients with Crohn disease.
+
+Brotherton CS(1), Taylor AG, Bourguignon C, Anderson JG.
+
+Author information:
+(1)Carol S. Brotherton, PhD, MSN, RN, is Research Associate, Center for the 
+Study of Complementary and Alternative Therapies, University of Virginia, 
+Charlottesville, Virginia. Ann Gill Taylor, EdD, MS, RN, FAAN, is Center 
+Director, Center for the Study of Complementary and Alternative Therapies, 
+University of Virginia, Charlottesville, Virginia. Cheryl Bourguignon, PhD, RN, 
+is Associate Professor of Nursing and Statistician, Center for the Study of 
+Complementary and Alternative Therapies, University of Virginia, 
+Charlottesville, Virginia. Joel G. Anderson, PhD, HTP, is Assistant Professor, 
+Center for the Study of Complementary and Alternative Therapies, School of 
+Nursing, Nursing of University of Virginia, Charlottesville, Virginia.
+
+Crohn disease is a chronic disorder characterized by episodes of epithelial 
+inflammation in the gastrointestinal tract for which there is no cure. The 
+prevalence of Crohn disease increased in civilized nations during the time 
+period in which food sources were industrialized in those nations. A 
+characteristic of industrialized diets is the conspicuous absence of cereal 
+fiber. The purpose of this 2-group, randomized, controlled study was to 
+investigate the effects of fiber-related dietary instructions specifying wheat 
+bran consumption on health-related quality of life and gastrointestinal function 
+in individuals diagnosed with Crohn disease, as measured by the Inflammatory 
+Bowel Disease Questionnaire and the partial Harvey Bradshaw Index, respectively. 
+Results demonstrated that consuming a wheat bran-inclusive diet was feasible and 
+caused no adverse effects, and participants consuming whole wheat bran in the 
+diet reported improved health-related quality of life (p = .028) and 
+gastrointestinal function (p = .008) compared to the attention control group. 
+The results of a secondary aim, to investigate differences in measures of 
+systemic inflammation, found no group differences in C-reactive protein or 
+erythrocyte sedimentation rates. This study suggests that diet modification may 
+be a welcomed complementary therapy for individuals suffering gastrointestinal 
+disruption associated with Crohn disease.
+
+DOI: 10.1097/SGA.0000000000000047
+PMCID: PMC4260718
+PMID: 24871666 [Indexed for MEDLINE]

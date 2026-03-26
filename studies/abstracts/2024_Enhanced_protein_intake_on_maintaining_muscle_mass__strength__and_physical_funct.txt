@@ -1,0 +1,69 @@
+Title: Enhanced protein intake on maintaining muscle mass, strength, and physical function in adults with overweight/obesity: A systematic review and meta-analysis.
+Authors: Kokura Y
+Year: 2024
+Journal: Clin Nutr ESPEN
+PMID: 39002131
+DOI: 10.1016/j.clnesp.2024.06.030
+
+ABSTRACT:
+1. Clin Nutr ESPEN. 2024 Oct;63:417-426. doi: 10.1016/j.clnesp.2024.06.030. Epub 
+2024 Jun 24.
+
+Enhanced protein intake on maintaining muscle mass, strength, and physical 
+function in adults with overweight/obesity: A systematic review and 
+meta-analysis.
+
+Kokura Y(1), Ueshima J(2), Saino Y(3), Maeda K(4).
+
+Author information:
+(1)Department of Nutritional Management, Keiju Hatogaoka Integrated Facility for 
+Medical and Long-Term Care, Ishikawa, Japan. Electronic address: 
+yojikokura@hotmail.com.
+(2)Department of Nutritional Service, NTT Medical Center Tokyo, Japan, 
+Department of Geriatric Medicine, Hospital, National Center for Geriatrics and 
+Gerontology, Aichi, Japan. Electronic address: j.ueshima@gmail.com.
+(3)Department of Clinical Nutrition, Cancer Institute Hospital, Japanese 
+Foundation for Cancer Research, Tokyo, Japan, Department of Nutrition and 
+Metabolism, Tokushima University Graduate School of Biomedical Sciences, 
+Tokushima, Japan. Electronic address: yk.butterfly@gmail.com.
+(4)Nutrition Therapy Support Center, Aichi Medical University Hospital, Aichi, 
+Japan, Department of Geriatric Medicine, Hospital, National Center for 
+Geriatrics and Gerontology, Aichi, Japan. Electronic address: 
+kskmaeda1701@gmail.com.
+
+BACKGROUND & AIMS: Weight loss in individuals with obesity and overweight leads 
+to metabolic and health benefits but also poses the risk of muscle mass 
+reduction. This systematic review and meta-analysis of randomized controlled 
+trials aims to determine the initial protein amount necessary for achieving 
+weight loss while maintaining muscle mass, strength, and physical function in 
+adults with overweight and obesity.
+METHODS: Relevant literature databases, including Medical Literature Analysis 
+and Retrieval System Online (Medline), Excerpta Medica (Embase), the Cumulative 
+Index to Nursing and Allied Health Literature (CINHAL), and Web of Science, were 
+electronically searched up to 15 March 2023. We examined the effect of 
+additional protein intake on muscle mass, strength, and physical function in 
+adults with overweight or obesity targeting weight loss. The risk of bias was 
+assessed using the Cochrane RoB 2.0 tool. Results were synthesized using 
+standardized mean differences (SMD) and 95% confidence intervals (CI) via a 
+random-effects model.
+RESULTS: Forty-seven studies (n = 3218) were included. In the muscle mass 
+analysis, twenty-eight trials with 1989 participants were encompassed. Results 
+indicated that increased protein intake significantly prevents muscle mass 
+decline in adults with overweight or obesity aiming for weight loss (SMD 0.75; 
+95% CI 0.41 to 1.10; p < 0.001). Enhanced protein intake did not significantly 
+prevent decreases in muscle strength and physical function. An intake exceeding 
+1.3 g/kg/day is anticipated to increase muscle mass, while an intake below 
+1.0 g/kg/day is associated with a higher risk of muscle mass decline. The risk 
+of bias in studies regarding muscle mass ranged from low to high.
+CONCLUSIONS: Adults with overweight or obesity and aim for weight loss can more 
+effectively retain muscle mass through higher protein intake, as opposed to no 
+protein intake enhancement.
+
+Copyright © 2024 European Society for Clinical Nutrition and Metabolism. 
+Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.clnesp.2024.06.030
+PMID: 39002131 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest All authors 
+declare that they have no conflict of interest.

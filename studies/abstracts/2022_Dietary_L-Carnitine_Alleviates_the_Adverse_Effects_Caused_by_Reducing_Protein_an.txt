@@ -1,0 +1,13 @@
+Title: Dietary L-Carnitine Alleviates the Adverse Effects Caused by Reducing Protein and Increasing Fat Contents in Diet Juvenile Largemouth Bass (Micropterus salmoides)
+Year: 2022
+DOI: 10.1155/2022/6288972
+
+ABSTRACT:
+Protein ingredients for formulation of fish feeds are expensive and have limited availability. Therefore, reducing dietary protein while increasing dietary fat content is a common practice in rearing carnivorous fish species. However, the ability of dietary L-carnitine to alleviate adverse effects in such diets is currently unknown. This study investigated the role of L-carnitine supplementation in alleviating adverse effects on growth performance, energy metabolism, antioxidant capacity, and inflammation response in juvenile largemouth bass (Micropterus salmoides) fed on a low protein and high fat diet. Three diets were formulated to contain low protein and high fat (LPHF: 420 g kg-1 protein and 150 g kg-1 lipid), LPHF supplemented with L-carnitine (LPHFC: 420 g kg-1 protein and 150 g kg-1 lipid), and a control diet (CON: 480 g kg-1 protein and 130 g kg-1 lipid). The diets were fed to 30 largemouth bass (
+ 
+ 10.75
+ ±
+ 0.01
+  
+ 
+ g) juveniles in triplicates for eight weeks. The results showed that the fish feed on LPHF diet increased hepatosomatic index, visceral somatic index, mesenteric fat index, whole-body crude fat content, serum and liver triglyceride concentrations, and serum non-esterified fatty acid level than those fed on CON diet. Moreover, the fish fed on LPHF diet increased serum alanine aminotransferase activity and liver malondialdehyde content and reduced superoxide dismutase (SOD) activities in the serum and liver. Furthermore, the fish fed on LPHF diet reduced the whole-body crude protein content. Interestingly, feeding the fish on the LPHFC diet decreased fat deposition and liver damage by downregulating the expression of genes related to lipogenesis, inflammation, and increased SOD activity. This study indicates that L-carnitine supplementation in largemouth bass alleviates the adverse effects caused by LPHF diet by decreasing lipogenesis and increasing lipid catabolism. Our study provides novel knowledge on strategies to improve utilization of LPHF diet in cultured aquatic animals.

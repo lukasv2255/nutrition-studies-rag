@@ -1,0 +1,56 @@
+Title: Influence of the Gut Microbiome, Diet, and Environment on Risk of Colorectal Cancer.
+Authors: Song M
+Year: 2020
+Journal: Gastroenterology
+PMID: 31586566
+DOI: 10.1053/j.gastro.2019.06.048
+
+ABSTRACT:
+1. Gastroenterology. 2020 Jan;158(2):322-340. doi: 10.1053/j.gastro.2019.06.048. 
+Epub 2019 Oct 3.
+
+Influence of the Gut Microbiome, Diet, and Environment on Risk of Colorectal 
+Cancer.
+
+Song M(1), Chan AT(2), Sun J(3).
+
+Author information:
+(1)Departments of Epidemiology and Nutrition, Harvard T.H. Chan School of Public 
+Health, Boston, Massachusetts; Clinical and Translational Epidemiology Unit, 
+Massachusetts General Hospital and Harvard Medical School, Boston, 
+Massachusetts; Division of Gastroenterology, Massachusetts General Hospital, 
+Boston, Massachusetts.
+(2)Clinical and Translational Epidemiology Unit, Massachusetts General Hospital 
+and Harvard Medical School, Boston, Massachusetts; Division of Gastroenterology, 
+Massachusetts General Hospital, Boston, Massachusetts; Broad Institute of 
+Massachusetts Institute of Technology and Harvard, Cambridge, Massachusetts; 
+Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital, and Harvard Medical School, Boston, Massachusetts; Department 
+of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public 
+Health, Boston, Massachusetts. Electronic address: achan@mgh.harvard.edu.
+(3)Division of Gastroenterology and Hepatology, Medicine, 
+Microbiology/Immunology, UIC Cancer Center, University of Illinois at Chicago, 
+Illinois. Electronic address: junsun7@uic.edu.
+
+Researchers have discovered associations between elements of the intestinal 
+microbiome (including specific microbes, signaling pathways, and 
+microbiota-related metabolites) and risk of colorectal cancer (CRC). However, it 
+is unclear whether changes in the intestinal microbiome contribute to the 
+development of sporadic CRC or result from it. Changes in the intestinal 
+microbiome can mediate or modify the effects of environmental factors on risk of 
+CRC. Factors that affect risk of CRC also affect the intestinal microbiome, 
+including overweight and obesity; physical activity; and dietary intake of 
+fiber, whole grains, and red and processed meat. These factors alter microbiome 
+structure and function, along with the metabolic and immune pathways that 
+mediate CRC development. We review epidemiologic and laboratory evidence for the 
+influence of the microbiome, diet, and environmental factors on CRC incidence 
+and outcomes. Based on these data, features of the intestinal microbiome might 
+be used for CRC screening and modified for chemoprevention and treatment. 
+Integrated prospective studies are urgently needed to investigate these 
+strategies.
+
+Copyright © 2020 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2019.06.048
+PMCID: PMC6957737
+PMID: 31586566 [Indexed for MEDLINE]

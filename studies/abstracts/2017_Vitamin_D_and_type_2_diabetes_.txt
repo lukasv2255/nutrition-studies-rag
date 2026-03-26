@@ -1,0 +1,65 @@
+Title: Vitamin D and type 2 diabetes.
+Authors: Lips P
+Year: 2017
+Journal: J Steroid Biochem Mol Biol
+PMID: 27932304
+DOI: 10.1016/j.jsbmb.2016.11.021
+
+ABSTRACT:
+1. J Steroid Biochem Mol Biol. 2017 Oct;173:280-285. doi: 
+10.1016/j.jsbmb.2016.11.021. Epub 2016 Dec 5.
+
+Vitamin D and type 2 diabetes.
+
+Lips P(1), Eekhoff M(2), van Schoor N(3), Oosterwerff M(4), de Jongh R(2), 
+Krul-Poel Y(5), Simsek S(6).
+
+Author information:
+(1)Department of Internal Medicine, Endocrine Section, VU University Medical 
+Center, 1007 MB Amsterdam, The Netherlands. Electronic address: p.lips@vumc.nl.
+(2)Department of Internal Medicine, Endocrine Section, VU University Medical 
+Center, 1007 MB Amsterdam, The Netherlands.
+(3)Department of Epidemiology and Biostatistics, VU University Medical Center, 
+1007 MB Amsterdam, The Netherlands.
+(4)Department of Internal Medicine, Endocrine Section, VU University Medical 
+Center, 1007 MB Amsterdam, The Netherlands; Department of Internal Medicine, 
+Catharina Hospital, 5623 EJ Eindhoven, The Netherlands.
+(5)Department of Internal Medicine, Medical Center Alkmaar, 1800 AM Alkmaar, The 
+Netherlands.
+(6)Department of Internal Medicine, Endocrine Section, VU University Medical 
+Center, 1007 MB Amsterdam, The Netherlands; Department of Internal Medicine, 
+Medical Center Alkmaar, 1800 AM Alkmaar, The Netherlands.
+
+Vitamin D deficiency is associated with a decreased insulin release, insulin 
+resistance and type 2 diabetes in experimental and epidemiological studies. 
+Animal studies show that 1α,25-dihydroxyvitamin D3 (1,25(OH)2D3) stimulates the 
+pancreatic β-cell to secrete insulin. The relationship between vitamin D 
+deficiency and insulin resistance could develop through inflammation, as vitamin 
+D deficiency is associated with increased inflammatory markers. In addition, 
+genetic polymorphisms of vitamin D -related genes may predispose to impaired 
+glycemic control and type 2 diabetes. Epidemiologic studies showed an 
+association between low serum 25-hydroxyvitamin D3 (25(OH)D3) concentration and 
+an increased risk for the metabolic syndrome and type 2 diabetes. This may be 
+partly explained by an increased fat mass. A possible causal relationship 
+between vitamin D deficiency and type 2 diabetes should be proven by randomized 
+clinical trials showing that either type 2 diabetes can be prevented or insulin 
+release and insulin sensitivity can be improved by vitamin D supplements. The 
+results of randomized clinical trials on the effect of vitamin D versus placebo, 
+sometimes combined with calcium, in patients with impaired glucose tolerance 
+("prediabetes") or type 2 diabetes are inconsistent. Some studies showed a 
+slight decrease of fasting plasma glucose or improvement of insulin resistance, 
+but often only in posthoc analyses. These effects are mainly visible in patients 
+with vitamin D deficiency and impaired glucose tolerance at baseline. 
+Meta-analyses of randomized clinical trials in general did not show significant 
+effects of vitamin D supplementation on glycemic control. Currently, several 
+large scale randomized clinical trials with vitamin D supplementation in doses 
+of 1600-4000IU/d are ongoing with glycemic control or incidence of diabetes 
+mellitus as outcome. Vitamin D deficiency needs to be prevented or cured, but 
+until the results of these trials are published, high-dose vitamin D 
+supplementation cannot be recommended for prevention or amelioration of type 2 
+diabetes.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jsbmb.2016.11.021
+PMID: 27932304 [Indexed for MEDLINE]

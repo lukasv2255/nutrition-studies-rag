@@ -1,0 +1,46 @@
+Title: Intermittent fasting influences immunity and metabolism.
+Authors: Marko DM
+Year: 2024
+Journal: Trends Endocrinol Metab
+PMID: 38719726
+DOI: 10.1016/j.tem.2024.04.014
+
+ABSTRACT:
+1. Trends Endocrinol Metab. 2024 Sep;35(9):821-833. doi:
+10.1016/j.tem.2024.04.014.  Epub 2024 May 8.
+
+Intermittent fasting influences immunity and metabolism.
+
+Marko DM(1), Conn MO(1), Schertzer JD(2).
+
+Author information:
+(1)Department of Biochemistry and Biomedical Sciences, McMaster University, 
+Hamilton, ON, Canada; Farncombe Family Digestive Health Research Institute, 
+McMaster University, Hamilton, ON, Canada; Centre for Metabolism, Obesity, and 
+Diabetes Research, McMaster University, Hamilton, ON, Canada.
+(2)Department of Biochemistry and Biomedical Sciences, McMaster University, 
+Hamilton, ON, Canada; Farncombe Family Digestive Health Research Institute, 
+McMaster University, Hamilton, ON, Canada; Centre for Metabolism, Obesity, and 
+Diabetes Research, McMaster University, Hamilton, ON, Canada. Electronic 
+address: schertze@mcmaster.ca.
+
+Intermittent fasting (IF) modifies cell- and tissue-specific immunometabolic 
+responses that dictate metabolic flexibility and inflammation during obesity and 
+type 2 diabetes (T2D). Fasting forces periods of metabolic flexibility and 
+necessitates increased use of different substrates. IF can lower metabolic 
+inflammation and improve glucose metabolism without lowering obesity and can 
+influence time-dependent, compartmentalized changes in immunity. Liver, adipose 
+tissue, skeletal muscle, and immune cells communicate to relay metabolic and 
+immune signals during fasting. Here we review the connections between metabolic 
+and immune cells to explain the divergent effects of IF compared with classic 
+caloric restriction (CR) strategies. We also explore how the immunometabolism of 
+metabolic diseases dictates certain IF outcomes, where the gut microbiota 
+triggers changes in immunity and metabolism during fasting.
+
+Copyright © 2024 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tem.2024.04.014
+PMID: 38719726 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

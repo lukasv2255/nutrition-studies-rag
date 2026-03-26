@@ -1,0 +1,6 @@
+Title: Peptides and Peptidomimetics as Inhibitors of Enzymes Involved in Fibrillar Collagen Degradation
+Year: 2021
+DOI: 10.3390/ma14123217
+
+ABSTRACT:
+Collagen fibres degradation is a complex process involving a variety of enzymes. Fibrillar collagens, namely type I, II, and III, are the most widely spread collagens in human body, e.g., they are responsible for tissue fibrillar structure and skin elasticity. Nevertheless, the hyperactivity of fibrotic process and collagen accumulation results with joints, bone, heart, lungs, kidneys or liver fibroses. Per contra, dysfunctional collagen turnover and its increased degradation leads to wound healing disruption, skin photoaging, and loss of firmness and elasticity. In this review we described the main enzymes participating in collagen degradation pathway, paying particular attention to enzymes degrading fibrillar collagen. Therefore, collagenases (MMP-1, -8, and -13), elastases, and cathepsins, together with their peptide and peptidomimetic inhibitors, are reviewed. This information, related to the design and synthesis of new inhibitors based on peptide structure, can be relevant for future research in the fields of chemistry, biology, medicine, and cosmeceuticals.

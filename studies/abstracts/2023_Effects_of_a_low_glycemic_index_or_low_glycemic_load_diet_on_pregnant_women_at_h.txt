@@ -1,0 +1,19 @@
+Title: Effects of a low glycemic index or low glycemic load diet on pregnant women at high risk of gestational diabetes: A meta-analysis of randomized controlled trials.
+Year: 2023
+DOI: 10.1016/j.numecd.2023.06.020
+
+ABSTRACT:
+AIMS
+To evaluate the effect of low glycemic index or low glycemic load diets on maternal and neonatal outcomes at high risk of gestational diabetes mellitus (GDM).
+
+
+DATA SYNTHESIS
+Several databases (PubMed, Cochrane Library, Web of Science, Embase, OVID, Clinical Trials. gov, China National Knowledge Infrastructure, China Biomedical Database, and Wanfang Database) were searched from January 1990 to January 2022 (updated to November 2022). Randomized controlled trials of low glycemic index diets interventions for women at high risk of GDM were included. From 2131 articles initially were screened, after eliminating duplicates, 1749 titles and abstracts were analyzed. 71 documents that met the inclusion criteria were selected and 3 documents were obtained through searching the reference lists. After reading the full text, 10 studies were retained. Two authors evaluated the studies, extracted data and conducted quality assessment independently. A total of 10 studies with 2304 patients met the inclusion criteria. Compared with the control group, a low glycemic index diet could control the range of weight gain (WMD -1.01, 95% CI -1.41 to -0.61), decrease the incidence of excessive weight gain (OR 0.69, 95% CI 0.54-0.87), lessen the incidence of large-for-gestational-age infants (OR 0.32, 95% CI 0.16-0.62) and reduce the incidence of preterm infants (OR 0.45, 95% CI 0.29-0.71).
+
+
+CONCLUSION
+A low glycemic index or low glycemic load diet could control maternal weight gain, reduce the incidence of excessive weight gain, and decrease the incidence of large-for-gestational-age infants and preterm infants in group with high risk of GDM.
+
+
+PROSPERO
+CRD42022322697.

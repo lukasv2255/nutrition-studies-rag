@@ -1,0 +1,54 @@
+Title: Nutritional intake and bone health.
+Authors: Rizzoli R
+Year: 2021
+Journal: Lancet Diabetes Endocrinol
+PMID: 34242583
+DOI: 10.1016/S2213-8587(21)00119-4
+
+ABSTRACT:
+1. Lancet Diabetes Endocrinol. 2021 Sep;9(9):606-621. doi: 
+10.1016/S2213-8587(21)00119-4. Epub 2021 Jul 6.
+
+Nutritional intake and bone health.
+
+Rizzoli R(1), Biver E(2), Brennan-Speranza TC(3).
+
+Author information:
+(1)Service of Bone Diseases, Geneva University Hospitals and Faculty of 
+Medicine, Geneva, Switzerland. Electronic address: rene.rizzoli@unige.ch.
+(2)Service of Bone Diseases, Geneva University Hospitals and Faculty of 
+Medicine, Geneva, Switzerland.
+(3)School of Medical Sciences and School of Public Health, Faculty of Medicine 
+and Health, The University of Sydney, Sydney, NSW, Australia.
+
+Osteoporotic or fragility fractures affect one in two women and one in five men 
+who are older than 50. These events are associated with substantial morbidity, 
+increased mortality, and an impaired quality of life. Recommended general 
+measures for fragility fracture prevention include a balanced diet with an 
+optimal protein and calcium intake and vitamin D sufficiency, together with 
+regular weight-bearing physical exercise. In this narrative Review, we discuss 
+the role of nutrients, foods, and dietary patterns in maintaining bone health. 
+Much of this information comes from observational studies. Bone mineral density, 
+microstructure-estimated bone strength, and trabecular and cortical 
+microstructure are positively associated with total protein intake. Several 
+studies indicate that fracture risk might be lower with a higher dietary protein 
+intake, provided that the calcium supply is sufficient. Dairy products are a 
+valuable source of these two nutrients. Hip fracture risk appears to be lower in 
+consumers of dairy products, particularly fermented dairy products. Consuming 
+less than five servings per day of fruit and vegetables is associated with a 
+higher hip fracture risk. Adherence to a Mediterranean diet or to a prudent diet 
+is associated with a lower fracture risk. These various nutrients and dietary 
+patterns influence gut microbiota composition or function, or both. The 
+conclusions of this Review emphasise the importance of a balanced diet including 
+minerals, protein, and fruit and vegetables for bone health and in the 
+prevention of fragility fractures.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2213-8587(21)00119-4
+PMID: 34242583 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests RR has received fees 
+for consultancy or lectures from Abiogen, Danone, European Milk Forum, Mithra, 
+ObsEva, Pfizer, Radius Health, Sandoz, and Theramex. EB has received fees for 
+consultancy from Nestlé. TCB-S declares no competing interests.

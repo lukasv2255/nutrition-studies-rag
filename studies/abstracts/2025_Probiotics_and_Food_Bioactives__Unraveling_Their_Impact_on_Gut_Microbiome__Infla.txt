@@ -1,0 +1,72 @@
+Title: Probiotics and Food Bioactives: Unraveling Their Impact on Gut Microbiome, Inflammation, and Metabolic Health.
+Year: 2025
+DOI: 10.1007/s12602-025-10452-2
+
+ABSTRACT:
+1. Probiotics Antimicrob Proteins. 2025 Aug;17(4):1851-1892. doi: 
+10.1007/s12602-025-10452-2. Epub 2025 Jan 14.
+
+Probiotics and Food Bioactives: Unraveling Their Impact on Gut Microbiome, 
+Inflammation, and Metabolic Health.
+
+Mafe AN(1), Iruoghene Edo G(2)(3), Akpoghelie PO(4), Gaaz TS(5), Yousif E(6), 
+Zainulabdeen K(6), Isoje EF(7), Igbuku UA(8), Opiti RA(9), Garba Y(10), Essaghah 
+AEA(11), Ahmed DS(12), Umar H(13).
+
+Author information:
+(1)Department of Biological Sciences, Faculty of Science, Taraba State 
+University Jalingo, Jalingo, Taraba State, Nigeria.
+(2)Department of Chemistry, Faculty of Science, Delta State University of 
+Science and Technology, Ozoro, Nigeria. greatiruo@gmail.com.
+(3)Department of Chemistry, College of Sciences, Al-Nahrain University, Baghdad, 
+Iraq. greatiruo@gmail.com.
+(4)Department of Food Science and Technology, Faculty of Science, Delta State 
+University of Science and Technology, Ozoro, Delta State, Nigeria.
+(5)Department of Prosthetics and Orthotics Engineering, College of Engineering 
+and Technologies, Al-Mustaqbal University, Babylon, Iraq.
+(6)Department of Chemistry, College of Sciences, Al-Nahrain University, Baghdad, 
+Iraq.
+(7)Department of Science Laboratory Technology (Biochemistry Option), Faculty of 
+Science, Delta State University of Science and Technology, Ozoro, Nigeria.
+(8)Department of Chemistry, Faculty of Science, Delta State University of 
+Science and Technology, Ozoro, Nigeria.
+(9)Department of Petroleum Chemistry, Faculty of Science, Delta State University 
+of Science and Technology, Ozoro, Nigeria.
+(10)Department of Information Engineering, College of Information Engineering, 
+Al-Nahrain University, Baghdad, Iraq.
+(11)Department of Urban and Regional Planning, Faculty of Environmental 
+Sciences, Delta State University of Science and Technology, Ozoro, Nigeria.
+(12)Department of Chemical Industries, Institute of Technology-Baghdad, Middle 
+Technical University, Baghdad, Iraq.
+(13)Operational Research Centre in Healthcare, Near East University, Nicosia, 
+Cyprus.
+
+This review paper delves into the role of probiotics and food bioactives in 
+influencing gut health and overall well-being, within the context of probiotics 
+and food bioactives, emphasizing their roles in modulating inflammation, gut 
+microbiota, and metabolic health. Probiotics are defined as live microorganisms 
+that confer health benefits to the host, primarily through their impact on the 
+gut microbiome; a complex community of microorganisms crucial for maintaining 
+health. The review aims to elucidate how probiotics, incorporated into both 
+traditional and modern food systems, can enhance gut health and address 
+metabolic disorders. It examines the types of probiotics present in various 
+foods and their mechanisms of action, including their effects on immune function 
+and metabolic health. By exploring the links between probiotics and health 
+outcomes such as digestive health, immune support, and mental health, the review 
+identifies specific conditions where probiotics show significant promise. 
+Hurldes such as inconsistencies in research findings, variability in probiotic 
+strains, and dosages are addressed. The paper also suggests future research 
+directions, including the potential for personalized probiotic interventions. 
+The review concludes by summarizing key findings and emphasizing the critical 
+role of probiotics in food systems for promoting overall health and mitigating 
+metabolic diseases.
+
+© 2025. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12602-025-10452-2
+PMID: 39808399 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics Approval and Consent to 
+Participate: Not applicable. Consent for Publication: Not applicable. Conflict 
+of Interest: The authors declare no competing interests.

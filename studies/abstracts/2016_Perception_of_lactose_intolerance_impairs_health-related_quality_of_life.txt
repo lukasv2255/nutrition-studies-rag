@@ -1,0 +1,46 @@
+Title: Perception of lactose intolerance impairs health-related quality of life
+Year: 2016
+DOI: 10.1038/ejcn.2016.80
+
+ABSTRACT:
+1. Eur J Clin Nutr. 2016 Sep;70(9):1068-72. doi: 10.1038/ejcn.2016.80. Epub 2016 
+May 18.
+
+Perception of lactose intolerance impairs health-related quality of life.
+
+Casellas F(1), Aparici A(1), Pérez MJ(1), Rodríguez P(1).
+
+Author information:
+(1)Digestive System Research Unit, Hospital Universitari Vall d'Hebron, 
+Barcelona, Spain.
+
+BACKGROUND/OBJECTIVES: Chronic conditions impair perception of well-being. 
+Malabsorption of lactose is the most frequent form of malabsorption and 
+manifests as lactose intolerance. There is a lack of information regarding their 
+impact on self-perception of health. The objective of this study is to determine 
+the subjective impact of self-reported lactose intolerance or objective lactose 
+malabsorption on patient health by using a patient-reported outcome to measure 
+health-related quality of life (HRQOL) and modification of lactose-containing 
+food diet.
+SUBJECTS/METHODS: A 3-year prospective, cross-sectional study was performed in 
+patients referred for a lactose hydrogen breath test. Patients were asked about 
+their subjective opinion relative to their lactose tolerance and completed a 
+validated, specific questionnaire to determine symptoms of intolerance during 
+habitual consumption of dairy. A 50-g lactose breath test was then performed. 
+Patients were grouped as absorbers vs malabsorbers and tolerant vs intolerants.
+RESULTS: A total of 580 patients were included (median age 30 years, 419 
+female). Overall, 324 patients (56%) considered themselves lactose intolerant 
+and that perception was associated with avoidance of dairy consumption (55% vs 
+only 9% of self-defined tolerants). Self-perception of intolerance was 
+associated with lower HRQOL scores (median, 60 vs 70, P<0.01). In contrast, 
+lactose objective malabsorption was not clearly associated with dairy avoidance 
+(41% of malabsorbers avoided dairy vs 31% of absorbers). However, HRQOL scores 
+were also significantly lower in malabsorbers than in absorbers (60 vs 70 
+respectively, P<0.001).
+CONCLUSIONS: Subjective perception of lactose intolerance affects the decision 
+to avoid dairy even more than objective malabsorption. However, both 
+self-perception of lactose intolerance and objective lactose malabsorption are 
+associated with poorer perceived quality of life.
+
+DOI: 10.1038/ejcn.2016.80
+PMID: 27188918 [Indexed for MEDLINE]

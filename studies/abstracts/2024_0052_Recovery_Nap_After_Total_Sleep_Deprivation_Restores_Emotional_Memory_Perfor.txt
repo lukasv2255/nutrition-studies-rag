@@ -1,0 +1,26 @@
+Title: 0052 Recovery Nap After Total Sleep Deprivation Restores Emotional Memory Performance to Typically-Rested Levels
+Year: 2024
+DOI: 10.1093/sleep/zsae067.0052
+
+ABSTRACT:
+
+ 
+ 
+ While a brief period of recovery sleep can ameliorate the negative impacts of total sleep deprivation (TSD) on cognitive functioning, the effects of post-TSD recovery sleep on different forms of emotional functioning remain equivocal. Here, we investigated the effects of TSD and post-TSD recovery sleep on emotional memory processing and compared it to typical functioning in a rested condition.
+ 
+ 
+ 
+ During encoding of the emotional memory trade-off (ETO) task, participants viewed scenes with negative or neutral central objects overlaid on neutral backgrounds. During recognition, the central objects and backgrounds were presented separately and participants were asked to identify each of them as ‘Old’ or ‘New’. Forty-six participants in the TSD condition and 22 participants in the Sleep condition completed encoding the morning after the sleep manipulation (~10:00) and a recognition test was conducted on half of the scene components after a short delay (Recog_1, ~10:45). Twenty of the TSD participants were then given a 90-min nap opportunity (TSD_Nap). Participants then completed a second recognition test on the remaining images (Recog_2, ~14:00).
+ 
+ 
+ 
+ At Recog_1, a group effect revealed significantly worse memory after TSD compared to Sleep (p=.02). Specifically, memory was significantly worse for every scene component except neutral objects, and there were no baseline differences between TSD_nap and TSD_NoNap participants. At Recog_2, memory continued to deteriorate for all scene components in the TSD_NoNap group compared to their Recog_1 performance (all p’s< 0.025). The TSD_nap group, however, had no change in memory for any of the neutral scene components and had improved negative object memory (p=.049) driven by a reduced false alarm rate (p<.001). As such, performance in the TSD_nap group matched the Sleep group at Recog_2 (all p’s>0.1).
+ 
+ 
+ 
+ These results demonstrate that post-TSD recovery sleep preserves and restores memory functioning such that performance matches typically-rested individuals – while extended TSD leads to continued deterioration – highlighting the importance of sleep in healthy emotional memory functioning. Additionally, the ETO effect (i.e., greater disparity between negative objects and their paired backgrounds compared to neutral objects and their backgrounds) was preserved for both recognition tasks in all groups, demonstrating the strength of this memory phenomenon.
+ 
+ 
+ 
+  
+

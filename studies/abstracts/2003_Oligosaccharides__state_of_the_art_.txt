@@ -1,0 +1,49 @@
+Title: Oligosaccharides: state of the art.
+Authors: Delzenne NM
+Year: 2003
+Journal: Proc Nutr Soc
+PMID: 12749343
+DOI: 10.1079/pns2002225
+
+ABSTRACT:
+1. Proc Nutr Soc. 2003 Feb;62(1):177-82. doi: 10.1079/pns2002225.
+
+Oligosaccharides: state of the art.
+
+Delzenne NM(1).
+
+Author information:
+(1)Unit of Pharmacokinetics, Metabolism, Nutrition and Toxicology, School of 
+Pharmacy, Université Catholique de Louvain, Brussels, Belgium. 
+Delzenne@pmnt.ucl.ac.be
+
+Oligosaccharides, consisting of a mixture of hexose oligomers with a variable 
+extent of polymerisation, are food products with interesting nutritional 
+properties. They may be naturally present in food, mostly in fruits, vegetables 
+or grains, or produced by biosynthesis from natural sugars or polysaccharides 
+and added to food products because of their nutritional properties or 
+organoleptic characteristics. The dietary intake of oligosaccharides is 
+difficult to estimate, but it may reach 3-13 g/d per person (for 
+fructo-oligosaccharides), depending on the population. The extent of resistance 
+to enzymic reactions occurring in the upper part of the gastrointestinal tract 
+allows oligosaccharides to become 'colonic nutrients', as some intestinal 
+bacterial species express specific hydrolases and are able to convert 
+oligosaccharides into short-chain fatty acids (acetate, lactate, propionate, 
+butyrate) and/or gases by fermentation. Oligosaccharides that selectively 
+promote some interesting bacterial species (e.g. lactobacilli, bifidobacteria), 
+and thus equilibrate intestinal microflora, are now termed prebiotics. The 
+pattern of short-chain fatty acid production in the caeco-colon, as well as the 
+prebiotic effect, if demonstrated, are dynamic processes that vary with the type 
+of oligosaccharide (e.g. extent of polymerisation, nature of hexose moieties), 
+the duration of the treatment, the initial composition of flora or the diet in 
+which they are incorporated. Experimental data obtained in vitro and in vivo in 
+animals, and also recent data obtained in human subjects, support the 
+involvement of dietary oligosaccharides in physiological processes in the 
+different intestinal cell types (e.g. mucins production, cell division, immune 
+cells function, ionic transport) and also outside the gastrointestinal tract 
+(e.g. hormone production, lipid and carbohydrates metabolism). The present paper 
+gives an overview of the future development of oligosaccharides, newly 
+recognised as dietary fibre.
+
+DOI: 10.1079/pns2002225
+PMID: 12749343 [Indexed for MEDLINE]

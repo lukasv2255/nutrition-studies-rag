@@ -1,0 +1,67 @@
+Title: Efficacy of different routes of vitamin B12 supplementation for the treatment of patients with vitamin B12 deficiency: A systematic review and network meta-analysis.
+Authors: Abdelwahab OA
+Year: 2024
+Journal: Ir J Med Sci
+PMID: 38231320
+DOI: 10.1007/s11845-023-03602-4
+
+ABSTRACT:
+1. Ir J Med Sci. 2024 Jun;193(3):1621-1639. doi: 10.1007/s11845-023-03602-4. Epub
+ 2024 Jan 17.
+
+Efficacy of different routes of vitamin B12 supplementation for the treatment of 
+patients with vitamin B12 deficiency: A systematic review and network 
+meta-analysis.
+
+Abdelwahab OA(1)(2), Abdelaziz A(3)(4), Diab S(3)(5), Khazragy A(3)(6), Elboraay 
+T(3)(7), Fayad T(3)(8), Diab RA(3)(9), Negida A(3)(7)(10)(11).
+
+Author information:
+(1)Medical Research Group of Egypt, Cairo, Egypt. 
+omarabdelwahab.216@azhar.edu.eg.
+(2)Faculty of Medicine, Al-Azhar University, Cairo, Egypt. 
+omarabdelwahab.216@azhar.edu.eg.
+(3)Medical Research Group of Egypt, Cairo, Egypt.
+(4)Faculty of Medicine, Al-Azhar University, Cairo, Egypt.
+(5)Faculty of Medicine, Ain Shams University, Cairo, Egypt.
+(6)Faculty of Medicine, Alexandria University, Alexandria, Egypt.
+(7)Faculty of Medicine, Zagazig University, Zagazig, Egypt.
+(8)Faculty of Oral and Dental Medicine, Sinai University, Sinai, Egypt.
+(9)Faculty of Medicine, Al-Azhar University for Girls, Cairo, Egypt.
+(10)School of Pharmacy and Biomedical Sciences, University of Portsmouth, 
+Portsmount, UK.
+(11)Department of Global Health and Social Medicine, Harvard Medical School, 
+Boston, MA, USA.
+
+BACKGROUND: This systematic review and network meta-analysis aimed to evaluate 
+the three different administration routes of vitamin B12: oral, intramuscular 
+(IM), and sublingual (SL) routes.
+METHODS: We searched four electronic databases (PubMed, Scopus, Web of Science, 
+and Cochrane CENTRAL Register of Controlled Trials). We included only 
+comparative studies. We performed a frequentist network meta-analysis to measure 
+network estimates for the relative outcomes. Moreover, we conducted a pairwise 
+meta-analysis using a random effect model to obtain direct estimates for 
+outcomes. All outcomes were continuous, and the relative treatment effects were 
+pooled as mean difference (MD) with 95% confidence intervals.
+RESULTS: Thirteen studies were included in the meta-analysis, with a total of 
+4275 patients. Regarding increasing vitamin B12 levels, the IM route ranked 
+first, followed by the SL route (MD = 94.09 and 43.31 pg/mL, respectively) 
+compared to the oral route. However, these differences did not reach statistical 
+significance owing to the limited number of studies. Regarding the hemoglobin 
+level, the pooled effect sizes showed no difference between all routes of 
+administration that could reach statistical significance. However, the top two 
+ranked administration routes were the oral route (78.3) and the IM route (49.6).
+CONCLUSION: All IM, oral, and SL routes of administration of vitamin B12 can 
+effectively increase the level of vitamin B12 without significant differences 
+between them, as thought previously. However, the IM route was the top-ranked 
+statistically but without clinical significance. We found no significant 
+difference among studied administrated routes in all other CBC parameters and 
+homocysteine levels.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s11845-023-03602-4
+PMCID: PMC11128391
+PMID: 38231320 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

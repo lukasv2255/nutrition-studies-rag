@@ -1,0 +1,19 @@
+Title: Influence of protein intake on the changes in skeletal muscle mass after kidney transplantation.
+Year: 2022
+DOI: 10.1016/j.clnu.2022.07.028
+
+ABSTRACT:
+BACKGROUND & AIMS
+Skeletal muscle mass decreases in patients with chronic kidney disease, especially those on dialysis with end-stage kidney disease. On the other hand, the recovery of renal function due to successful kidney transplantation (KT) improves skeletal muscle mass loss. However, low protein intake may influence the changes in skeletal muscle mass after KT. The aim of the present study is to examine the association of the changes in skeletal muscle mass with protein intake in kidney transplant recipients (KTRs).
+
+
+METHODS
+A cohort study was conducted in KTRs and living-kidney donors (LKDs). Skeletal muscle mass index (SMI) was measured using bioelectrical impedance analysis before KT and at 1 month and 12 months after KT. Protein intake was calculated with 24-h urine urea nitrogen from the Maroni formula at 12 months after KT. To evaluate the association between protein intake and the changes in SMI during the first year after KT, we performed a multivariable regression analysis adjusted for covariates including age, sex, cumulative glucocorticoids, cumulative hospitalization, diabetes mellitus, and SMI before KT.
+
+
+RESULTS
+In KTRs (n = 64), the median SMI was 7.26 kg/m2 before KT, which decreased to 7.01 kg/m2 at 1 month after KT and increased to 7.55 kg/m2 at 12 months after KT. In LKDs (n = 17), the median SMI was 6.24 kg/m2 before KT which increased to 6.40 kg/m2 at 1 month after KT and further increased to 6.95 kg/m2 at 12 months after KT. The changes in SMI during the 1-year period after KT exhibited a positive correlation with protein intake (p = 0.015) after adjustment. The predicted value of protein intake in KTRs, whose values of SMI before KT and at 12 months after KT were the same, was 0.72 g/kg ideal body weight (IBW)/day using the multivariable non-linear regression model.
+
+
+CONCLUSIONS
+In KTRs, insufficient protein intake adversely affected the recovery from skeletal muscle mass loss after KT. Therefore, a protein intake of at least more than 0.72 g/kg IBW/day, the predicted value obtained in the present study, might be recommended for KTRs suffering from skeletal muscle mass loss.

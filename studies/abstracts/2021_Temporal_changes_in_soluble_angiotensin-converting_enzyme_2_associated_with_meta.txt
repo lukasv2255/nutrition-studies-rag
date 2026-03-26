@@ -1,0 +1,77 @@
+Title: Temporal changes in soluble angiotensin-converting enzyme 2 associated with metabolic health, body composition, and proteome dynamics during a weight loss diet intervention: a randomized trial with implications for the COVID-19 pandemic.
+Authors: Cauwenberghs N
+Year: 2021
+Journal: Am J Clin Nutr
+PMID: 34375388
+DOI: 10.1093/ajcn/nqab243
+
+ABSTRACT:
+1. Am J Clin Nutr. 2021 Nov 8;114(5):1655-1665. doi: 10.1093/ajcn/nqab243.
+
+Temporal changes in soluble angiotensin-converting enzyme 2 associated with 
+metabolic health, body composition, and proteome dynamics during a weight loss 
+diet intervention: a randomized trial with implications for the COVID-19 
+pandemic.
+
+Cauwenberghs N(1)(2), Prunicki M(3)(4), Sabovčik F(2), Perelman D(5), Contrepois 
+K(1)(5), Li X(6)(7), Snyder MP(1)(5)(8), Nadeau KC(3)(4), Kuznetsova T(2), 
+Haddad F(1), Gardner CD(8)(9).
+
+Author information:
+(1)Stanford Cardiovascular Institute, Department of Medicine, Stanford 
+University, Stanford, CA, USA.
+(2)Research Unit Hypertension and Cardiovascular Epidemiology, KU Leuven 
+Department of Cardiovascular Sciences, University of Leuven, Leuven, Belgium.
+(3)Sean N Parker Center for Allergy and Asthma Research, Stanford University, 
+Stanford, CA, USA.
+(4)Department of Medicine, Stanford University, Stanford, CA, USA.
+(5)Department of Genetics, Stanford University School of Medicine, Stanford, CA, 
+USA.
+(6)Department of Biochemistry, The Center for RNA Science and Therapeutics, 
+School of Medicine, Case Western Reserve University, Cleveland, OH, USA.
+(7)Department of Computer and Data Sciences, Case Western Reserve University, 
+Cleveland, OH, USA.
+(8)Stanford Diabetes Research Center, Stanford University, Stanford, CA, USA.
+(9)Stanford Prevention Research Center, Department of Medicine, Stanford 
+University, Stanford, CA, USA.
+
+BACKGROUND: Angiotensin-converting enzyme 2 (ACE2) serves protective functions 
+in metabolic, cardiovascular, renal, and pulmonary diseases and is linked to 
+COVID-19 pathology. The correlates of temporal changes in soluble ACE2 (sACE2) 
+remain understudied.
+OBJECTIVES: We explored the associations of sACE2 with metabolic health and 
+proteome dynamics during a weight loss diet intervention.
+METHODS: We analyzed 457 healthy individuals (mean ± SD age: 39.8 ± 6.6 y) with 
+BMI 28-40 kg/m2 in the DIETFITS (Diet Intervention Examining the Factors 
+Interacting with Treatment Success) study. Biochemical markers of metabolic 
+health and 236 proteins were measured by Olink CVDII, CVDIII, and Inflammation I 
+arrays at baseline and at 6 mo during the dietary intervention. We determined 
+clinical and routine biochemical correlates of the diet-induced change in sACE2 
+(ΔsACE2) using stepwise linear regression. We combined feature selection models 
+and multivariable-adjusted linear regression to identify protein dynamics 
+associated with ΔsACE2.
+RESULTS: sACE2 decreased on average at 6 mo during the diet intervention. 
+Stronger decline in sACE2 during the diet intervention was independently 
+associated with female sex, lower HOMA-IR and LDL cholesterol at baseline, and a 
+stronger decline in HOMA-IR, triglycerides, HDL cholesterol, and fat mass. 
+Participants with decreasing HOMA-IR (OR: 1.97; 95% CI: 1.28, 3.03) and 
+triglycerides (OR: 2.71; 95% CI: 1.72, 4.26) had significantly higher odds for a 
+decrease in sACE2 during the diet intervention than those without (P ≤ 0.0073). 
+Feature selection models linked ΔsACE2 to changes in α-1-microglobulin/bikunin 
+precursor, E-selectin, hydroxyacid oxidase 1, kidney injury molecule 1, 
+tyrosine-protein kinase Mer, placental growth factor, thrombomodulin, and TNF 
+receptor superfamily member 10B. ΔsACE2 remained associated with these protein 
+changes in multivariable-adjusted linear regression.
+CONCLUSIONS: Decrease in sACE2 during a weight loss diet intervention was 
+associated with improvements in metabolic health, fat mass, and markers of 
+angiotensin peptide metabolism, hepatic and vascular injury, renal function, 
+chronic inflammation, and oxidative stress. Our findings may improve the risk 
+stratification, prevention, and management of cardiometabolic complications.This 
+trial was registered at clinicaltrials.gov as NCT01826591.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+American Society for Nutrition.
+
+DOI: 10.1093/ajcn/nqab243
+PMCID: PMC8574695
+PMID: 34375388 [Indexed for MEDLINE]

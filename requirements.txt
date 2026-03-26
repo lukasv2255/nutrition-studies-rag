@@ -1,0 +1,8 @@
+anthropic
+chromadb
+pymupdf
+fastapi
+uvicorn
+python-dotenv
+pydantic
+sentence-transformers

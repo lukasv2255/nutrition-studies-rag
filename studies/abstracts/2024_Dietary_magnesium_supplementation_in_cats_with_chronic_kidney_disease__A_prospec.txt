@@ -1,0 +1,6 @@
+Title: Dietary magnesium supplementation in cats with chronic kidney disease: A prospective double‐blind randomized controlled trial
+Year: 2024
+DOI: 10.1111/jvim.17134
+
+ABSTRACT:
+Plasma total magnesium concentration (tMg) is a prognostic indicator in cats with chronic kidney disease (CKD), shorter survival time being associated with hypomagnesemia. Whether this risk factor is modifiable with dietary magnesium supplementation remains unexplored.

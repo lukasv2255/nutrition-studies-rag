@@ -1,0 +1,46 @@
+Title: Obesity, Bioactive Lipids, and Adipose Tissue Inflammation in Insulin Resistance.
+Authors: Kojta I
+Year: 2020
+Journal: Nutrients
+PMID: 32375231
+DOI: 10.3390/nu12051305
+
+ABSTRACT:
+1. Nutrients. 2020 May 3;12(5):1305. doi: 10.3390/nu12051305.
+
+Obesity, Bioactive Lipids, and Adipose Tissue Inflammation in Insulin 
+Resistance.
+
+Kojta I(1), Chacińska M(1), Błachnio-Zabielska A(1).
+
+Author information:
+(1)Department of Hygiene, Epidemiology and Metabolic Disorders, Medical 
+University of Bialystok, Jana Kilińskiego 1, 15-089 Bialystok, Poland.
+
+Obesity is a major risk factor for the development of insulin resistance and 
+type 2 diabetes. The exact mechanism by which adipose tissue induces insulin 
+resistance is still unclear. It has been demonstrated that obesity is associated 
+with the adipocyte dysfunction, macrophage infiltration, and low-grade 
+inflammation, which probably contributes to the induction of insulin resistance. 
+Adipose tissue synthesizes and secretes numerous bioactive molecules, namely 
+adipokines and cytokines, which affect the metabolism of both lipids and 
+glucose. Disorders in the synthesis of adipokines and cytokines that occur in 
+obesity lead to changes in lipid and carbohydrates metabolism and, as a 
+consequence, may lead to insulin resistance and type 2 diabetes. Obesity is also 
+associated with the accumulation of lipids. A special group of lipids that are 
+able to regulate the activity of intracellular enzymes are biologically active 
+lipids: long-chain acyl-CoAs, ceramides, and diacylglycerols. According to the 
+latest data, the accumulation of these lipids in adipocytes is probably related 
+to the development of insulin resistance. Recent studies indicate that the 
+accumulation of biologically active lipids in adipose tissue may regulate the 
+synthesis/secretion of adipokines and proinflammatory cytokines. Although 
+studies have revealed that inflammation caused by excessive fat accumulation and 
+abnormalities in lipid metabolism can contribute to the development of 
+obesity-related insulin resistance, further research is needed to determine the 
+exact mechanism by which obesity-related insulin resistance is induced.
+
+DOI: 10.3390/nu12051305
+PMCID: PMC7284998
+PMID: 32375231 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

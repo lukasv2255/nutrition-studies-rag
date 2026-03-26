@@ -1,0 +1,6 @@
+Title: Caloric restriction promotes beta cell longevity and delays aging and senescence by enhancing cell identity and homeostasis mechanisms
+Year: 2023
+DOI: 10.1101/2023.08.23.554369
+
+ABSTRACT:
+Caloric restriction (CR) extends organismal lifespan and health span by improving glucose homeostasis mechanisms. How CR affects organellar structure and function of pancreatic beta cells over the lifetime of the animal remains unknown. Here, we used single nucleus transcriptomics to show that CR increases the expression of genes for beta cell identity, protein processing, and organelle homeostasis. Gene regulatory network analysis link this transcriptional phenotype to transcription factors involved in beta cell identity (Mafa) and homeostasis (Atf6). Imaging metabolomics further demonstrates that CR beta cells are more energetically competent. In fact, high-resolution light and electron microscopy indicates that CR reduces beta cell mitophagy and increases mitochondria mass, increasing mitochondrial ATP generation. Finally, we show that long-term CR delays the onset of beta cell aging and senescence to promote longevity by reducing beta cell turnover. Therefore, CR could be a feasible approach to preserve compromised beta cells during aging and diabetes.

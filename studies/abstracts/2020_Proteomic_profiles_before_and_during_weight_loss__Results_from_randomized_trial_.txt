@@ -1,0 +1,69 @@
+Title: Proteomic profiles before and during weight loss: Results from randomized trial of dietary intervention.
+Authors: Figarska SM
+Year: 2020
+Journal: Sci Rep
+PMID: 32404980
+DOI: 10.1038/s41598-020-64636-7
+
+ABSTRACT:
+1. Sci Rep. 2020 May 13;10(1):7913. doi: 10.1038/s41598-020-64636-7.
+
+Proteomic profiles before and during weight loss: Results from randomized trial 
+of dietary intervention.
+
+Figarska SM(1)(2)(3), Rigdon J(4), Ganna A(5)(6)(7), Elmståhl S(8), Lind L(9), 
+Gardner CD(10)(11), Ingelsson E(1)(2)(3)(12).
+
+Author information:
+(1)Department of Medicine, Division of Cardiovascular Medicine, Stanford 
+University School of Medicine, Stanford, CA, 94305, USA.
+(2)Stanford Cardiovascular Institute, Stanford, CA, 94305, USA.
+(3)Stanford Diabetes Research Center, Stanford, CA, 94305, USA.
+(4)Quantitative Sciences Unit, Stanford University School of Medicine, Palo 
+Alto, CA, 94304, USA.
+(5)Program in Medical and Population Genetics, Broad Institute of MIT and 
+Harvard, Cambridge, MA, USA.
+(6)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, 
+Cambridge, MA, USA.
+(7)Analytic and Translational Genetics Unit, Department of Medicine, 
+Massachusetts General Hospital, Boston, MA, USA.
+(8)Department of Clinical Sciences, Division of Geriatric Medicine, Lund 
+University, Malmö University Hospital, Malmö, Sweden.
+(9)Department of Medical Sciences, Cardiovascular Epidemiology, Uppsala 
+University, Uppsala, Sweden.
+(10)Stanford Diabetes Research Center, Stanford, CA, 94305, USA. 
+cgardner@stanford.edu.
+(11)Stanford Prevention Research Center, Department of Medicine, Stanford 
+University Medical School, Stanford, CA, USA. cgardner@stanford.edu.
+(12)Department of Medical Sciences, Molecular Epidemiology and Science for Life 
+Laboratory, Uppsala University, Uppsala, Sweden.
+
+Inflammatory and cardiovascular biomarkers have been associated with obesity, 
+but little is known about how they change upon dietary intervention and 
+concomitant weight loss. Further, protein biomarkers might be useful for 
+predicting weight loss in overweight and obese individuals. We performed 
+secondary analyses in the Diet Intervention Examining The Factors Interacting 
+with Treatment Success (DIETFITS) randomized intervention trial that included 
+healthy 609 adults (18-50 years old) with BMI 28-40 kg/m2, to evaluate 
+associations between circulating protein biomarkers and BMI at baseline, during 
+a weight loss diet intervention, and to assess predictive potential of baseline 
+blood proteins on weight loss. We analyzed 263 plasma proteins at baseline and 6 
+months into the intervention using the Olink Proteomics CVD II, CVD III and 
+Inflammation arrays. BMI was assessed at baseline, after 3 and 6 months of 
+dietary intervention. At baseline, 102 of the examined inflammatory and 
+cardiovascular biomarkers were associated with BMI (>90% with successful 
+replication in 1,584 overweight/obese individuals from a community-based cohort 
+study) and 130 tracked with weight loss shedding light into the pathophysiology 
+of obesity. However, out of 263 proteins analyzed at baseline, only fibroblast 
+growth factor 21 (FGF-21) predicted weight loss, and none helped individualize 
+dietary assignment.
+
+DOI: 10.1038/s41598-020-64636-7
+PMCID: PMC7220904
+PMID: 32404980 [Indexed for MEDLINE]
+
+Conflict of interest statement: Erik Ingelsson received consulting fees from 
+Olink Proteomics (in 2017–2018) for work unrelated to the present project. The 
+company had no influence over design, analysis or interpretation of data in the 
+present study, and did not provide any funding for the study. The remaining 
+authors do not have any conflict of interest.

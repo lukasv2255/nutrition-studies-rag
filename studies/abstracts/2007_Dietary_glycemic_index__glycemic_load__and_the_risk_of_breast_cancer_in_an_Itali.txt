@@ -1,0 +1,44 @@
+Title: Dietary glycemic index, glycemic load, and the risk of breast cancer in an Italian prospective cohort study.
+Year: 2007
+DOI: 10.1093/AJCN/86.4.1160
+
+ABSTRACT:
+1. Am J Clin Nutr. 2007 Oct;86(4):1160-6. doi: 10.1093/ajcn/86.4.1160.
+
+Dietary glycemic index, glycemic load, and the risk of breast cancer in an 
+Italian prospective cohort study.
+
+Sieri S(1), Pala V, Brighenti F, Pellegrini N, Muti P, Micheli A, Evangelista A, 
+Grioni S, Contiero P, Berrino F, Krogh V.
+
+Author information:
+(1)Nutritional Epidemiology Unit, National Cancer Institute, Milan, Italy. 
+sabina.sieri@istitutotumori.mi.it
+
+BACKGROUND: Interest in the roles of glycemic index (GI) and glycemic load (GL) 
+in breast cancer etiology has been stimulated by indications that disease risk 
+is linked to insulinemia, sex hormone bioavailability, and insulin-like growth 
+factor 1.
+OBJECTIVE: We aimed to determine whether GI and GL were associated with the risk 
+of breast cancer in a cohort of Italian women volunteers from Northern Italy, 
+who enrolled between 1987-1992 in the Hormones and Diet in the Etiology of 
+Breast Tumors Study (ORDET Study).
+DESIGN: Volunteers completed a semiquantitative food-frequency questionnaire, 
+and anthropometric and lifestyle data were collected. Dietary GI and GL in 
+relation to breast cancer risk were examined in 8926 cohort women, including 289 
+with breast cancer identified after a mean follow-up of 11.5 y.
+RESULTS: The relative risk (RR) of breast cancer in the highest (versus lowest) 
+quintiles of GI and GL was 1.57 (95% CI: 1.04, 2.36; P for trend = 0.040) and 
+2.53 (95% CI: 1.54, 4.16; P for trend = 0.001), respectively. Total carbohydrate 
+intake was not associated with greater breast cancer risk, but high carbohydrate 
+from high-GI foods was. When women were categorized by baseline menopausal 
+status and body mass index (BMI; in kg/m(2)), the increased risk of dietary GL 
+was confined to those who were premenopausal (RR = 3.89; 95% CI: 1.81, 8.34) and 
+who had normal BMI (ie, <25) (RR = 5.79; 95% CI: 2.60, 12.90) (P for trend = 
+0.001 for both).
+CONCLUSIONS: A high-GL diet may increase the risk of breast cancer in Italian 
+women. The effect is particularly evident in premenopausal women and those with 
+BMI < 25.
+
+DOI: 10.1093/ajcn/86.4.1160
+PMID: 17921397 [Indexed for MEDLINE]

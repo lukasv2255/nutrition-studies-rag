@@ -1,0 +1,6 @@
+Title: Insights into Gut Dysbiosis: Inflammatory Diseases, Obesity, and Restoration Approaches
+Year: 2024
+DOI: 10.3390/ijms25179715
+
+ABSTRACT:
+The gut microbiota is one of the most critical factors in human health. It involves numerous physiological processes impacting host health, mainly via immune system modulation. A balanced microbiome contributes to the gut’s barrier function, preventing the invasion of pathogens and maintaining the integrity of the gut lining. Dysbiosis, or an imbalance in the gut microbiome’s composition and function, disrupts essential processes and contributes to various diseases. This narrative review summarizes key findings related to the gut microbiota in modern multifactorial inflammatory conditions such as ulcerative colitis or Crohn’s disease. It addresses the challenges posed by antibiotic-driven dysbiosis, particularly in the context of C. difficile infections, and the development of novel therapies like fecal microbiota transplantation and biotherapeutic drugs to combat these infections. An emphasis is given to restoration of the healthy gut microbiome through dietary interventions, probiotics, prebiotics, and novel approaches for managing gut-related diseases.

@@ -1,0 +1,46 @@
+Title: Patients with medium-chain acyl-coenzyme a dehydrogenase deficiency have impaired oxidation of fat during exercise but no effect of L-carnitine supplementation.
+Year: 2013
+DOI: 10.1210/jc.2012-3791
+
+ABSTRACT:
+1. J Clin Endocrinol Metab. 2013 Apr;98(4):1667-75. doi: 10.1210/jc.2012-3791.
+Epub  2013 Feb 20.
+
+Patients with medium-chain acyl-coenzyme a dehydrogenase deficiency have 
+impaired oxidation of fat during exercise but no effect of L-carnitine 
+supplementation.
+
+Madsen KL(1), Preisler N, Orngreen MC, Andersen SP, Olesen JH, Lund AM, Vissing 
+J.
+
+Author information:
+(1)Neuromuscular Research Unit, Rigshospitalet, Copenhagen University Hospital, 
+Copenhagen, Denmark. karen_lindhardt@hotmail.com
+
+BACKGROUND: It is not clear to what extent skeletal muscle is affected in 
+patients with medium-chain acyl-coenzyme A dehydrogenase deficiency (MCADD). 
+l-Carnitine is commonly used as a supplement in patients with MCADD, although 
+its beneficial effect has not been verified.
+DESIGN: We investigated (1) fuel utilization during prolonged low-intensity 
+exercise in patients with MCADD and (2) the influence of 4 weeks of oral 
+l-carnitine supplementation on fuel utilization during exercise.
+METHODS: Four asymptomatic patients with MCADD and 11 untrained, healthy, age- 
+and sex-matched control subjects were included. The subjects performed a 1-hour 
+cycling test at a constant workload corresponding to 55% of Vo2max, while fat 
+and carbohydrate metabolism was assessed, using the stable isotope technique and 
+indirect calorimetry. The patients ingested 100 mg/kg/d of l-carnitine for 4 
+weeks, after which the cycling tests were repeated.
+RESULTS: At rest, palmitate oxidation and total fatty acid oxidation (FAO) rates 
+were similar in patients and healthy control subjects. During constant workload 
+cycling, palmitate oxidation and FAO rates increased in both groups, but 
+increased 2 times as much in healthy control subjects as in patients (P = .007). 
+Palmitate oxidation and FAO rates were unchanged by the l-carnitine 
+supplementation.
+CONCLUSION: Our results indicate that patients with MCADD have an impaired 
+ability to increase FAO during exercise but less so than that observed in 
+patients with a number of other disorders of fat oxidation, which explains the 
+milder skeletal muscle phenotype in MCADD. The use of carnitine supplementation 
+in MCADD cannot be supported by the present findings.
+
+DOI: 10.1210/jc.2012-3791
+PMID: 23426616 [Indexed for MEDLINE]

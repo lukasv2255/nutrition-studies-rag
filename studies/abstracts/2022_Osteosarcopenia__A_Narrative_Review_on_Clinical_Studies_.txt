@@ -1,0 +1,42 @@
+Title: Osteosarcopenia: A Narrative Review on Clinical Studies.
+Authors: Polito A
+Year: 2022
+Journal: Int J Mol Sci
+PMID: 35628399
+DOI: 10.3390/ijms23105591
+
+ABSTRACT:
+1. Int J Mol Sci. 2022 May 17;23(10):5591. doi: 10.3390/ijms23105591.
+
+Osteosarcopenia: A Narrative Review on Clinical Studies.
+
+Polito A(1), Barnaba L(1), Ciarapica D(1), Azzini E(1).
+
+Author information:
+(1)CREA-Research Centre for Food and Nutrition, Via Ardeatina 546, 00178 Rome, 
+Italy.
+
+Osteosarcopenia (OS) is defined by the concurrent presence of 
+osteopenia/osteoporosis and sarcopenia. The pathogenesis and etiology of OS 
+involve genetic, biochemical, mechanical, and lifestyle factors. Moreover, an 
+inadequate nutritional status, such as low intake of protein, vitamin D, and 
+calcium, and a reduction in physical activity are key risk factors for OS. This 
+review aims to increase knowledge about diagnosis, incidence, etiology, and 
+treatment of OS through clinical studies that treat OS as a single disease. 
+Clinical studies show the relationship between OS and the risk of frailty, 
+falls, and fractures and some association with Non-communicable diseases (NCDs) 
+pathologies such as diabetes, obesity, and cardiovascular disease. In some 
+cases, the importance of deepening the related mechanisms is emphasized. 
+Physical exercise with adequate nutrition and nutritional supplementations such 
+as proteins, Vitamin D, or calcium, represent a significant strategy for 
+breaking OS. In addition, pharmacological interventions may confer benefits on 
+muscle and bone health. Both non-pharmacological and pharmacological 
+interventions require additional randomized controlled trials (RCT) in humans to 
+deepen the synergistic effect of exercise, nutritional interventions, and drug 
+compounds in osteosarcopenia.
+
+DOI: 10.3390/ijms23105591
+PMCID: PMC9147376
+PMID: 35628399 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,19 @@
+Title: The effectiveness of the TRACE online nutrition intervention in improving dietary intake, sleep quality and physical activity levels for Australian adults with food addiction: a randomised controlled trial.
+Year: 2024
+DOI: 10.1111/jhn.13312
+
+ABSTRACT:
+BACKGROUND
+Few interventions for food addiction (FA) report on dietary intake variables. The present study comprised a three-arm randomised controlled trial in adults with symptoms of FA. The aim was to evaluate dietary intake, sleep and physical activity resulting from a dietitian-led telehealth intervention at 3 months.
+
+
+METHODS
+Adults with ≥3 symptoms of FA and a body mass index > 18.5 kg/m2 were recruited. Dietary intake including energy, nutrients and diet quality were assessed by a validated food frequency questionnaire in addition to sleep quality and physical activity (total min) and compared between groups and over time. Personalised dietary goals set by participants were examined to determine whether improvements in percent energy from core and non-core foods were reported.
+
+
+RESULTS
+The active intervention group was superior compared to the passive intervention and control groups for improvements in percent energy from core (6.4%/day [95% confidence interval (CI) -0.0 to 12.9], p = 0.049), non-core foods (-6.4%/day [95% CI -12.9 to 0.0], p = 0.049), sweetened drinks (-1.7%/day [95% CI -2.9 to -0.4], p = 0.013), takeaway foods (-2.3%/day [95% CI -4.5 to -0.1], p = 0.045) and sodium (-478 mg/day [95% CI -765 to -191 mg], p = 0.001).
+
+
+CONCLUSIONS
+A dietitian-led telehealth intervention for Australian adults with FA found significant improvements in dietary intake variables. Setting personalised goals around nutrition and eating behaviours was beneficial for lifestyle change.

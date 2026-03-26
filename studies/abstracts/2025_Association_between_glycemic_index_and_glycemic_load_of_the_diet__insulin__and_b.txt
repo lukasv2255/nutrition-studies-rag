@@ -1,0 +1,18 @@
+Title: Association between glycemic index and glycemic load of the diet, insulin, and breast cancer: A case-control study.
+Year: 2025
+DOI: 10.1200/jco.2025.43.16_suppl.e12515
+
+ABSTRACT:
+
+ e12515
+ 
+ 
+ Background:
+ Despite advances in studies regarding the association between diet and the diagnosis of breast cancer, there is still controversy regarding the association between dietary patterns with high glycemic index (GI) and glycemic load (GL). Therefore, the objective of the study was to investigate the association between GI and GL of the diet and blood insulin levels with the diagnosis of BC, according to menopausal status, in women from the Central-West region of Brazil.
+ Methods:
+ Case-control study with 114 cases and 220 controls. The groups were matched by age, body mass index and menopausal status. Body composition was measured by dual-energy X-ray absorptiometry (DXA), food consumption was assessed through three 24-hour dietary recalls, fasting blood glucose and insulin after 12 hours of fasting. Multivariate logistic regression analysis was performed, considering significant associations when p <0.05.
+ Results:
+ Energy and fat intake increased the chances of developing BC. Premenopausal women were more likely to develop the disease with increased intake of insoluble fiber (ORadj=1.08, p=0.044) and GL (ORadj=1.05, p=0.030). In the postmenopausal group, higher intake of total CHO, GI, GL, fats and proteins increased the chance of BC diagnosis.
+ Conclusions:
+ Dietary GL was positively associated with increased BC risk in the total sample. In premenopausal women, higher intake of insoluble fibers and dietary GL were associated with the disease. In postmenopausal women, total CHO, proteins and fats showed similar trends. Serum insulin showed no association with the diagnosis.
+

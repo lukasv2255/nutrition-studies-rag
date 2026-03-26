@@ -1,0 +1,19 @@
+Title: Creatine supplementation for optimization of physical function in the patient at risk of functional disability: A systematic review and meta-analysis.
+Year: 2024
+DOI: 10.1002/jpen.2607
+
+ABSTRACT:
+BACKGROUND
+The efficacy of creatine replacement through supplementation for the optimization of physical function in the population at risk of functional disability is unclear.
+
+
+METHODS
+We conducted a systematic literature search of MEDLINE, EMBASE, the Cochrane Library, and CINAHL from inception to November 2022. Studies included were randomized controlled trials (RCTs) comparing creatine supplementation with placebos in older adults and adults with chronic disease. The primary outcome was physical function measured by the sit-to-stand test after pooling data using random-effects modeling. We also performed a Bayesian meta-analysis to describe the treatment effect in probability terms. Secondary outcomes included other measures of physical function, muscle function, and body composition. The risk of bias was assessed using the Cochrane risk-of-bias tool.
+
+
+RESULTS
+We identified 33 RCTs, comprising 1076 participants. From six trials reporting the primary outcome, the pooled standardized mean difference (SMD) was 0.51 (95% confidence interval [CI]: 0.01-1.00; I2  = 62%; P = 0.04); using weakly informative priors, the posterior probability that creatine supplementation improves physical function was 66.7%. Upper-body muscle strength (SMD: 0.25; 95% CI: 0.06-0.44; I2  = 0%; P = 0.01), handgrip strength (SMD 0.23; 95% CI: 0.01-0.45; I2  = 0%; P = 0.04), and lean tissue mass (MD 1.08 kg; 95% CI: 0.77-1.38; I2  = 26%; P < 0.01) improved with creatine supplementation. The quality of evidence for all outcomes was low or very low because of a high risk of bias.
+
+
+CONCLUSION
+Creatine supplementation improves sit-to-stand performance, muscle function, and lean tissue mass. It is crucial to conduct high-quality prospective RCTs to confirm these hypotheses (PROSPERO number, CRD42023354929).

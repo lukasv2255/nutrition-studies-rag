@@ -1,0 +1,38 @@
+Title: Chitin and omega-3 fatty acids in edible insects have underexplored benefits for the gut microbiome and human health
+Year: 2023
+DOI: 10.1038/s43016-023-00728-7
+
+ABSTRACT:
+1. Nat Food. 2023 Apr;4(4):283-287. doi: 10.1038/s43016-023-00728-7. Epub 2023
+Apr  20.
+
+Chitin and omega-3 fatty acids in edible insects have underexplored benefits for 
+the gut microbiome and human health.
+
+Stull VJ(1), Weir TL(2).
+
+Author information:
+(1)Center for Sustainability and the Global Environment, University of 
+Wisconsin-Madison, Madison, WI, USA. vstull@wisc.edu.
+(2)Department of Food Science and Human Nutrition, Colorado State University, 
+Fort Collins, CO, USA.
+
+A healthy gut microbiome is critical for nutrient metabolism, pathogen 
+inhibition and immune regulation, and is highly influenced by diet. Edible 
+insects are good sources of protein and micronutrients, but unlike other 
+animal-derived foods, they also contain both dietary fibre and omega-3 fatty 
+acids that can modulate gut microbiota. Here we explore the potential impacts of 
+insect consumption on the microbiome. Laboratory, animal and human studies 
+indicate that insect fibre in the form of chitin and its derivatives can modify 
+gut microbiota with beneficial outcomes. Some insects also contain favourable 
+omega-3/omega-6 ratios. We identify gaps in the literature-especially a dearth 
+of human studies-that must be addressed to better understand health impacts of 
+entomophagy. Insects, already eaten across the globe, can be farmed using fewer 
+resources than conventional livestock. Widening the research scope offers an 
+opportunity to advance use of edible insects to address interconnected 
+environmental and health challenges.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s43016-023-00728-7
+PMID: 37117549 [Indexed for MEDLINE]

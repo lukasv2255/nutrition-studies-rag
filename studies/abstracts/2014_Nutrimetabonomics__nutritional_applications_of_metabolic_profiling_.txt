@@ -1,0 +1,32 @@
+Title: Nutrimetabonomics: nutritional applications of metabolic profiling.
+Authors: Swann JR
+Year: 2014
+Journal: Sci Prog
+PMID: 24800468
+DOI: 10.3184/003685014X13898807933527
+
+ABSTRACT:
+1. Sci Prog. 2014;97(Pt 1):41-7. doi: 10.3184/003685014X13898807933527.
+
+Nutrimetabonomics: nutritional applications of metabolic profiling.
+
+Swann JR, Claus SP.
+
+An individual's metabolic phenotype, and ultimately health, is significantly 
+influenced by complex interactions between their genes and the diet. Studying 
+these associations and their downstream biochemical consequences has proven 
+extremely challenging using traditional hypothesis-led strategies. Metabonomics, 
+a systems biology approach, allows the global metabolic response of biological 
+systems to stimuli to be characterised. Through the application of this approach 
+to nutritional-based research, nutrimetabonomics, the biochemical response to 
+dietary inputs is being investigated at greater levels of resolution. This has 
+allowed novel insights to be gained regarding intricate diet-gene interactions 
+and their consequences for health and disease. In this review, we present some 
+of the latest research exploring how nutrimetabonomics can assist in the 
+elucidation of novel biomarkers of dietary behaviour and provide new 
+perspectives on diet-health relationships. The use of this approach to study the 
+metabolic interplay between the gut microbiota and the host is also explored.
+
+DOI: 10.3184/003685014X13898807933527
+PMCID: PMC10365364
+PMID: 24800468 [Indexed for MEDLINE]

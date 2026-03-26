@@ -1,0 +1,26 @@
+Tento projekt je RAG systém pro nutričního terapeuta.
+
+Stack:
+- Vektorová DB: ChromaDB (čistě Python, bez Dockeru, data v ./chroma_storage)
+- Embeddingy: sentence-transformers, model paraphrase-multilingual-mpnet-base-v2 (lokální, offline, zdarma)
+- LLM: Anthropic Claude claude-sonnet-4-5
+- Backend: FastAPI + uvicorn
+- Frontend: vanilla HTML/JS v frontend/index.html
+
+Spuštění (poprvé):
+1. pip install -r requirements.txt
+2. Hodit PDF do složky studies/
+3. python ingest.py   (první spuštění stáhne embedding model ~400MB)
+4. uvicorn api:app --reload --port 8000
+5. Otevřít http://localhost:8000
+
+Každé další spuštění:
+1. uvicorn api:app --port 8000
+2. Otevřít http://localhost:8000
+
+Nové studie:
+1. Hodit PDF do studies/
+2. python ingest.py  (přidá jen nové, existující přeskočí)
+
+Pouze ANTHROPIC_API_KEY v .env — žádný OpenAI klíč.
+Vždy používej python-dotenv pro načtení .env.

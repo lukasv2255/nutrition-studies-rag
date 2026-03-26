@@ -1,0 +1,25 @@
+Title: Clinical practice. Vitamin B12 deficiency.
+Authors: Stabler SP
+Year: 2013
+Journal: N Engl J Med
+PMID: 23301732
+DOI: 10.1056/NEJMcp1113996
+
+ABSTRACT:
+1. N Engl J Med. 2013 Jan 10;368(2):149-60. doi: 10.1056/NEJMcp1113996.
+
+Clinical practice. Vitamin B12 deficiency.
+
+Stabler SP(1).
+
+Author information:
+(1)Division of Hematology, University of Colorado School of Medicine, Aurora, CO 
+80045, USA. sally.stabler@ucdenver.edu
+
+Comment in
+    N Engl J Med. 2013 May 23;368(21):2041-2. doi: 10.1056/NEJMc1304350.
+    N Engl J Med. 2013 May 23;368(21):2040-1. doi: 10.1056/NEJMc1304350.
+    N Engl J Med. 2013 May 23;368(21):2041. doi: 10.1056/NEJMc1304350.
+
+DOI: 10.1056/NEJMcp1113996
+PMID: 23301732 [Indexed for MEDLINE]

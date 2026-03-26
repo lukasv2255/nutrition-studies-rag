@@ -1,0 +1,47 @@
+Title: [Intermittent fasting and human metabolic health].
+Authors: Carvajal V
+Year: 2023
+Journal: Rev Med Chil
+PMID: 37906749
+DOI: 10.4067/s0034-98872023000100081
+
+ABSTRACT:
+1. Rev Med Chil. 2023 Feb;151(1):81-100. doi: 10.4067/s0034-98872023000100081.
+
+[Intermittent fasting and human metabolic health].
+
+[Article in Spanish]
+
+Carvajal V(1), Marín A(1), Gihardo D(2), Maluenda F(2), Carrasco F(2), Chamorro 
+R(3).
+
+Author information:
+(1)Escuela de Nutrición y Dietética, Facultad de Medicina, Universidad de Chile, 
+Santiago, Chile.
+(2)Centro de Nutrición y Cirugía Bariátrica, Clínica Las Condes, Santiago, 
+Chile.
+(3)Departamento de Nutrición, Facultad de Medicina, Universidad de Chile, 
+Santiago, Chile.
+
+Intermittent fasting (IF) has gained increasing scientific and general 
+attention. Most studied forms of IF include alternate-day fasting, modified 
+alternate-day fasting, and time-restricted eating (TRE). Several cardiometabolic 
+effects of IF have been described in animal models and, to a lesser extent, in 
+humans. This review analyzes the impact of IF on weight loss, glucose 
+metabolism, blood pressure, and lipid profile in humans. A literature search was 
+conducted in the Pubmed/Medline, Scopus, and Google Scholar databases. 
+Controlled observational or interventional studies in humans, published between 
+January 2000 and June 2021, were included. Studies comparing IF versus religious 
+fasting were not included. Most studies indicate that the different types of IF 
+have significant benefits on body composition, inducing weight loss and reducing 
+fat mass. Changes in cardiometabolic parameters show more divergent results. In 
+general, a decrease in fasting glucose and insulin levels is observed, together 
+with an improved lipid profile associated with cardiovascular risk. High 
+heterogeneity in study designs was observed, particularly in studies with TRE, 
+small sample sizes, and short-term interventions. Current evidence shows that IF 
+confers a range of cardiometabolic benefits in humans. Weight loss, improvement 
+of glucose homeostasis and lipid profile, are observed in the three types of IF 
+protocols evaluated.
+
+DOI: 10.4067/s0034-98872023000100081
+PMID: 37906749 [Indexed for MEDLINE]

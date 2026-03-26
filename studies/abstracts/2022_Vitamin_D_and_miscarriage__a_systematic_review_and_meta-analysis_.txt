@@ -1,0 +1,83 @@
+Title: Vitamin D and miscarriage: a systematic review and meta-analysis.
+Authors: Tamblyn JA
+Year: 2022
+Journal: Fertil Steril
+PMID: 35637024
+DOI: 10.1016/j.fertnstert.2022.04.017
+
+ABSTRACT:
+1. Fertil Steril. 2022 Jul;118(1):111-122. doi: 10.1016/j.fertnstert.2022.04.017.
+ Epub 2022 May 28.
+
+Vitamin D and miscarriage: a systematic review and meta-analysis.
+
+Tamblyn JA(1), Pilarski NSP(2), Markland AD(3), Marson EJ(3), Devall A(4), 
+Hewison M(5), Morris RK(6), Coomarasamy A(7).
+
+Author information:
+(1)Tommy's National Centre for Miscarriage Research, Institute of Metabolism and 
+Systems Research, College of Medical and Dental Sciences, University of 
+Birmingham, Birmingham, United Kingdom; CARE Fertility Leeds, Leeds Teaching 
+Hospital Trust, Seacroft Hospital, Leeds, England; Birmingham Women's and 
+Children's Foundation Hospital Trust, Edgbaston, Birmingham, United Kingdom. 
+Electronic address: j.tamblyn@bham.ac.uk.
+(2)Birmingham Women's and Children's Foundation Hospital Trust, Edgbaston, 
+Birmingham, United Kingdom; Institute of Applied Health Research, University of 
+Birmingham, Birmingham, United Kingdom.
+(3)College of Medical and Dental Sciences, University of Birmingham, Birmingham, 
+United Kingdom.
+(4)Institute of Applied Health Research, University of Birmingham, Birmingham, 
+United Kingdom; Birmingham Clinical Trials Unit, University of Birmingham, 
+Birmingham, United Kingdom.
+(5)Tommy's National Centre for Miscarriage Research, Institute of Metabolism and 
+Systems Research, College of Medical and Dental Sciences, University of 
+Birmingham, Birmingham, United Kingdom.
+(6)Birmingham Women's and Children's Foundation Hospital Trust, Edgbaston, 
+Birmingham, United Kingdom; Institute of Applied Health Research, University of 
+Birmingham, Birmingham, United Kingdom; Birmingham Clinical Trials Unit, 
+University of Birmingham, Birmingham, United Kingdom.
+(7)Tommy's National Centre for Miscarriage Research, Institute of Metabolism and 
+Systems Research, College of Medical and Dental Sciences, University of 
+Birmingham, Birmingham, United Kingdom; Birmingham Women's and Children's 
+Foundation Hospital Trust, Edgbaston, Birmingham, United Kingdom.
+
+Comment in
+    Fertil Steril. 2022 Jul;118(1):123-124. doi: 
+10.1016/j.fertnstert.2022.04.031.
+
+OBJECTIVE: To investigate whether a significant association between vitamin D 
+status and the risk of miscarriage or recurrent miscarriage (RM) exists.
+DESIGN: Systematic review and meta-analysis.
+SETTING: Not applicable.
+PATIENT(S): Women with miscarriage and RM.
+INTERVENTION(S): We searched the Ovid MEDLINE, Embase, the Cumulative Index to 
+Nursing and Allied Health Literature, and Cochrane Central Register of 
+Controlled Trials from database inception to May 2021. Randomized and 
+observational studies investigating the association between maternal vitamin D 
+status and miscarriage and/or vitamin D treatment and miscarriage were included.
+MAIN OUTCOME MEASURE(S): The primary outcome was miscarriage or RM, with vitamin 
+D status used as the predictor of risk. Whether vitamin D treatment reduces the 
+risk of miscarriage and RM was also assessed.
+RESULT(S): Of 902 studies identified, 10 (n = 7,663 women) were included: 4 
+randomized controlled trials (n = 666 women) and 6 observational studies (n = 
+6,997 women). Women diagnosed with vitamin D deficiency (<50 nmol/L) had an 
+increased risk of miscarriage compared with women who were vitamin D replete 
+(>75 nmol/L) (odds ratio, 1.94; 95% confidence interval, 1.25-3.02; 4 studies; n 
+= 3,674; I2 = 18%). Combined analysis, including women who were vitamin D 
+insufficient (50-75 nmol/L) and deficient (<50 nmol/L) compared with women who 
+were replete (>75 nmol/L), found an association with miscarriage (odds ratio, 
+1.60; 95% confidence interval, 1.11-2.30; 6 studies; n = 6,338; I2 = 35%). 
+Although 4 randomized controlled trials assessed the effect of vitamin D 
+treatment on miscarriage, study heterogeneity, data quality, and reporting bias 
+precluded direct comparison and meta-analysis. The overall study quality was 
+"low" or "very low" using the Grading of Recommendations, Assessment, 
+Development and Evaluations approach.
+CONCLUSION(S): Vitamin D deficiency and insufficiency are associated with 
+miscarriage. Whether preconception treatment of vitamin D deficiency protects 
+against pregnancy loss in women at risk of miscarriage remains unknown.
+REGISTRATION NUMBER: CRD42021259899.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.fertnstert.2022.04.017
+PMID: 35637024 [Indexed for MEDLINE]

@@ -1,0 +1,12 @@
+Title: Role of modified Ketogenic diet on weight loss and metabolic parameters
+Year: 2025
+DOI: 10.63474/renc.v31i1.4
+
+ABSTRACT:
+Background: Obesity is a prevalent health concern that increases the risk of diverse disorders. Four months of prospective intervention study was conducted aimed to evaluate the effectiveness of a modified ketogenic diet in weight loss, metabolic disorders, and insulin resistance among obese persons.
+
+Methods: A total sample of 54 obese persons between the ages of (20 - 65) years with body mass index > 30 kg/m2 were recruited. The modified ketogenic diet consisted of (70% fat, 20% protein, and 10% carbohydrate) of total daily energy expenditure. Anthropometric, body composition, and metabolic parameters were measured at baseline and the end of the intervention. A paired sample t-test and a multiple linear regression model were used.
+
+Results: After 4 months of follow-up, the results found significant differences between initial and final measurements of all parameters (P < 0.001). Furthermore, the findings indicate that following a modified ketogenic diet will result in weight loss and a drop in fat mass of 0.32, TG 0.21, and HOMA-IR 2.94 units. Also, a modest rise in TC (0.06) and muscle mass (0.03) units.
+
+Conclusions: The modified ketogenic diet can help with weight loss, maintain muscle mass, and improve metabolic parameters and be used to support long-term nutrition intervention.

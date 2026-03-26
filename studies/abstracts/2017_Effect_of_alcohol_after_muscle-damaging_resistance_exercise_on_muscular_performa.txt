@@ -1,0 +1,57 @@
+Title: Effect of alcohol after muscle-damaging resistance exercise on muscular performance recovery and inflammatory capacity in women
+Year: 2017
+DOI: 10.1007/s00421-017-3606-0
+
+ABSTRACT:
+1. Eur J Appl Physiol. 2017 Jun;117(6):1195-1206. doi: 10.1007/s00421-017-3606-0.
+ Epub 2017 Apr 6.
+
+Effect of alcohol after muscle-damaging resistance exercise on muscular 
+performance recovery and inflammatory capacity in women.
+
+Levitt DE(1)(2), Luk HY(1)(2), Duplanty AA(3), McFarlin BK(1)(2), Hill DW(1), 
+Vingren JL(4)(5).
+
+Author information:
+(1)Applied Physiology Laboratory, Department of Kinesiology, Health Promotion, 
+and Recreation, University of North Texas, 1155 Union Circle #310769, Denton, 
+TX, 76203, USA.
+(2)Department of Biological Sciences, University of North Texas, 1155 Union 
+Circle #305220, Denton, TX, 76203, USA.
+(3)Department of Physiology, Louisiana State University Health Sciences Center 
+School of Medicine, 1901 Perdido St., New Orleans, LA, 70112, USA.
+(4)Applied Physiology Laboratory, Department of Kinesiology, Health Promotion, 
+and Recreation, University of North Texas, 1155 Union Circle #310769, Denton, 
+TX, 76203, USA. Jakob.Vingren@unt.edu.
+(5)Department of Biological Sciences, University of North Texas, 1155 Union 
+Circle #305220, Denton, TX, 76203, USA. Jakob.Vingren@unt.edu.
+
+PURPOSE: To investigate the effect of acute alcohol consumption on muscular 
+performance recovery, assessed by maximal torque production, and on inflammatory 
+capacity, assessed by lipopolysaccharide (LPS)-stimulated cytokine production, 
+following muscle-damaging resistance exercise in women.
+METHODS: Thirteen recreationally resistance-trained women completed two 
+identical exercise bouts (300 maximal single-leg eccentric leg extensions) 
+followed by alcohol (1.09 g ethanol kg-1 fat-free body mass) or placebo 
+ingestion. Blood was collected before (PRE), and 5 (5 h-POST), 24 (24 h-POST), 
+and 48 (48 h-POST) hours after exercise and analyzed for LPS-stimulated cytokine 
+production (TNF-α, IL-1β, IL-6, and IL-8 and IL-10). Maximal torque production 
+(concentric, eccentric, isometric) was measured for each leg at PRE, 24 h-POST, 
+and 48 h-POST.
+RESULTS: Although the exercise bout increased LPS-stimulated production of TNF-α 
+(%change from PRE: 5 h-POST 109%; 24 h-POST 49%; 48 h-POST 40%) and decreased 
+LPS-stimulated production of IL-8 (5 h-POST -40%; 24 h-POST -50%; 48 h-POST: 
+-43%) and IL-10 (5 h-POST: -37%; 24 h-POST -32%; 48 h-POST -31%), consuming 
+alcohol after exercise did not affect this response. Regardless of drink 
+condition, concentric, eccentric, and isometric torque produced by the exercised 
+leg were lower at 24 h-POST (concentric 106 ± 6 Nm, eccentric 144 ± 9 Nm, 
+isometric 128 ± 8 Nm; M ± SE) compared to PRE (concentric 127 ± 7 Nm, eccentric 
+175 ± 11 Nm, isometric 148 ± 8 Nm). Eccentric torque production was partially 
+recovered and isometric torque production was fully recovered by 48 h-POST.
+CONCLUSIONS: Alcohol consumed after muscle-damaging resistance exercise does not 
+appear to affect inflammatory capacity or muscular performance recovery in 
+resistance-trained women. Combined with previous findings in men, these results 
+suggest a gender difference regarding effects of alcohol on exercise recovery.
+
+DOI: 10.1007/s00421-017-3606-0
+PMID: 28386694 [Indexed for MEDLINE]

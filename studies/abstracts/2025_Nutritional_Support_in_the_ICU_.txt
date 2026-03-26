@@ -1,0 +1,60 @@
+Title: Nutritional Support in the ICU.
+Authors: Reignier J
+Year: 2025
+Journal: BMJ
+PMID: 39746713
+DOI: 10.1136/bmj-2023-077979
+
+ABSTRACT:
+1. BMJ. 2025 Jan 2;388:e077979. doi: 10.1136/bmj-2023-077979.
+
+Nutritional Support in the ICU.
+
+Reignier J(1), Rice TW(2), Arabi YM(3), Casaer M(4).
+
+Author information:
+(1)Nantes University, CHU Nantes, Movement - Interactions - Performance (MIP), 
+UR 4334; and Nantes University Hospital, Medical Intensive Care Unit; Nantes, 
+France jean.reignier@chu-nantes.fr.
+(2)Division of Allergy, Pulmonary, and Critical Care Medicine, Vanderbilt 
+University Medical Center, Nashville, TN, USA.
+(3)Intensive Care Department, College of Medicine, King Saud bin Abdulaziz 
+University for Health Sciences, King Abdullah International Medical Research 
+Centre, Ministry of National Guard Health Affairs, Riyadh, Saudi Arabia.
+(4)Laboratory and Clinical Department of Intensive Care Medicine, KU Leuven, 
+Leuven, Belgium.
+
+Critical illness is a complex condition that can have a devastating impact on 
+health and quality of life. Nutritional support is a crucial component of 
+critical care that aims to maintain or restore nutritional status and muscle 
+function. A one-size-fits-all approach to the components of nutritional support 
+has not proven beneficial. Recent randomized controlled trials challenge the 
+conventional strategy and support the safety and potential benefits of 
+below-usual calorie and protein intakes at the early, acute phase of critical 
+illness. Further research is needed to define optimal nutritional support 
+throughout the intensive care unit stay. Individualized nutritional strategies 
+relying on risk assessment tools or biomarkers deserve further investigation in 
+rigorously designed, large, multicenter, randomized, controlled trials. 
+Importantly, although nutritional support is crucial, it might not be sufficient 
+to enhance the recovery of critically ill patients. Thus, achieving the greatest 
+efficacy may require individualized nutritional support combined with early, 
+prolonged physical rehabilitation within a multimodal, holistic care program 
+throughout the patient's recovery journey.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj-2023-077979
+PMID: 39746713 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: We have read and understood 
+the BMJ policy on declaration of interests and declare the following interests: 
+YMA is the principal investigator for the REPLENISH (Replacing Protein via 
+Enteral Nutrition in a Stepwise Approach in Critically Ill Patients) trial, 
+NCT04475666, which is funded by King Abdullah International Medical Research 
+Center, Riyadh, Saudi Arabia and was the principal investigator for the PERMIT 
+trial;37 TWR received consulting fees from Nestle, Baxter, Cumberland 
+Pharmaceuticals, and Sanofi and was the principal investigator for the EDEN 
+trial;1416 JR was the principal investigator for the NUTRIREA-1, -2, -3, and -4 
+trials;13102132 MC was the principal investigator of the EPaNIC trial.12

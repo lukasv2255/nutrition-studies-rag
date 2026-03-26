@@ -1,0 +1,60 @@
+Title: Stress, nutrition and parental care in a teleost fish: exploring mechanisms with supplemental feeding and cortisol manipulation
+Year: 2016
+DOI: 10.1242/jeb.135798
+
+ABSTRACT:
+1. J Exp Biol. 2016 Apr 15;219(Pt 8):1237-48. doi: 10.1242/jeb.135798. Epub 2016 
+Feb 19.
+
+Stress, nutrition and parental care in a teleost fish: exploring mechanisms with 
+supplemental feeding and cortisol manipulation.
+
+Zolderdo AJ(1), Algera DA(2), Lawrence MJ(2), Gilmour KM(3), Fast MD(4), 
+Thuswaldner J(5), Willmore WG(5), Cooke SJ(6).
+
+Author information:
+(1)Fish Ecology and Conservation Physiology Lab, Department of Biology, Carleton 
+University, 1125 Colonel By Drive, Ottawa, Ontario, Canada K1S 5B6 
+azolderdo@gmail.com.
+(2)Fish Ecology and Conservation Physiology Lab, Department of Biology, Carleton 
+University, 1125 Colonel By Drive, Ottawa, Ontario, Canada K1S 5B6.
+(3)Department of Biology, University of Ottawa, 30 Marie Curie, Ottawa, Ontario, 
+Canada K1N 6N5.
+(4)Pathology and Microbiology Department, Atlantic Veterinary College, 
+University of Prince Edward Island, 550 University Avenue, Charlottetown, Prince 
+Edward Island, Canada C1A 4P3.
+(5)Department of Biology and Institute of Biochemistry, Carleton University, 
+1125 Colonel By Drive, Ottawa, Ontario, Canada K1S 5B6.
+(6)Fish Ecology and Conservation Physiology Lab, Department of Biology, Carleton 
+University, 1125 Colonel By Drive, Ottawa, Ontario, Canada K1S 5B6 Institute of 
+Environmental Science, Carleton University, 1125 Colonel By Drive, Ottawa, 
+Ontario, Canada K1S 5B6.
+
+Parental care is an essential life-history component of reproduction for many 
+animal species, and it entails a suite of behavioural and physiological 
+investments to enhance offspring survival. These investments can incur costs to 
+the parent, reducing their energetic and physiological condition, future 
+reproductive capabilities and survival. In fishes, relatively few studies have 
+focused on how these physiological costs are mediated. Male smallmouth bass 
+provide parental care for developing offspring until the brood reaches 
+independence. During this energetically demanding life stage, males cease active 
+foraging as they vigorously defend their offspring. Experimental manipulation of 
+cortisol levels (via implantation) and food (via supplemental feeding) in 
+parental males was used to investigate the fitness consequences of parental 
+care. Improving the nutritional condition of nest-guarding males increased their 
+reproductive success by reducing premature nest abandonment. However, 
+supplemental feeding and cortisol treatment had no effect on parental care 
+behaviours. Cortisol treatment reduced plasma lymphocyte numbers, but increased 
+neutrophil and monocyte concentrations, indicating a shift in immune function. 
+Supplemental feeding improved the physiological condition of parental fish by 
+reducing the accumulation of oxidative injury. Specifically, supplemental 
+feeding reduced the formation of 8-hydroxy-2'-deoxyguanosine (8-OHdG) on DNA 
+nucleotides. Increasing the nutritional condition of parental fish can reduce 
+the physiological cost associated with intensive parental activity and improve 
+overall reproductive success, illustrating the importance of nutritional 
+condition as a key modulator of parental fitness.
+
+© 2016. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/jeb.135798
+PMID: 26896551 [Indexed for MEDLINE]

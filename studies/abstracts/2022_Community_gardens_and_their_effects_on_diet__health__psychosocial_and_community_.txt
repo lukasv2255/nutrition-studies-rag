@@ -1,0 +1,54 @@
+Title: Community gardens and their effects on diet, health, psychosocial and community outcomes: a systematic review.
+Authors: Hume C
+Year: 2022
+Journal: BMC Public Health
+PMID: 35739494
+DOI: 10.1186/s12889-022-13591-1
+
+ABSTRACT:
+1. BMC Public Health. 2022 Jun 23;22(1):1247. doi: 10.1186/s12889-022-13591-1.
+
+Community gardens and their effects on diet, health, psychosocial and community 
+outcomes: a systematic review.
+
+Hume C(1), Grieger JA(2)(3), Kalamkarian A(4), D'Onise K(4)(5), Smithers 
+LG(4)(3)(6).
+
+Author information:
+(1)School of Public Health, University of Adelaide, Adelaide, 5000, Australia. 
+clare.hume@adelaide.edu.au.
+(2)Adelaide Medical School, North Terrace, University of Adelaide, Adelaide, SA, 
+5000, Australia.
+(3)Robinson Research Institute, University of Adelaide, North Adelaide, SA, 
+5006, Australia.
+(4)School of Public Health, University of Adelaide, Adelaide, 5000, Australia.
+(5)Wellbeing SA, Citicentre, Hindmarsh Square, Adelaide, SA, 5000, Australia.
+(6)School of Health and Society, University of Wollongong, Wollongong, NSW, 
+2522, Australia.
+
+BACKGROUND: We systematically reviewed the effects of community gardens on 
+physical and psychosocial health, health behaviors and community outcomes.
+METHODS: Quantitative studies that examined associations of health, psychosocial 
+or community outcomes with community gardens were included in the review. 
+Studies up to December 2020 were captured from searches of Medline, Web of 
+Science, PsycInfo, EBSCOHost and CAB Abstracts. Data were extracted and study 
+quality including risk of bias was examined.
+RESULTS: There were 53 studies that met the inclusion criteria. Studies 
+examining associations between community gardens and nutrition or food security 
+were most frequently reported (k = 23). Other factors examined for associations 
+with community gardens were health (k = 16), psychosocial (k = 16) and community 
+outcomes (k = 7). Effects appeared positive for fruit and vegetable intake, some 
+psychosocial and community outcomes, but mixed for physical health outcomes. 
+Evidence quality overall was low.
+CONCLUSIONS: Community gardening was associated with higher fruit and vegetable 
+intake, positive psychosocial and community outcomes, but poor evidence quality 
+suggests the effects of community gardening may be overestimated.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12889-022-13591-1
+PMCID: PMC9229094
+PMID: 35739494 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

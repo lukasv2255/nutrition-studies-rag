@@ -1,0 +1,19 @@
+Title: Case Report: Initial Successful Treatment of Migraine and Irritable Bowel Syndrome With a Low-FODMAP Diet.
+Year: 2023
+DOI: 10.1080/27697061.2023.2288081
+
+ABSTRACT:
+OBJECTIVE
+Migraine and irritable bowel syndrome (IBS) can be difficult-to-treat comorbidities that may be driven by underlying gut-brain axis dysfunction. This report describes utilization of a low-FODMAP (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols) diet (LFD) in a patient with refractory migraine and co-occurring IBS.
+
+
+METHODS
+After unremarkable physical and neurological examinations, a 57-year-old woman with IBS and chronic migraine was started on a LFD under the guidance of a registered dietician. Psychometrically validated surveys administered at baseline and initial follow-up assessed patient-reported outcomes related to migraine and IBS symptoms.
+
+
+RESULTS
+At baseline, the patient reported 80/90 migraine days with average pain of 8/10, a Migraine Disability Assessment (MIDAS) score of 33, and Headache Impact Test-6 (HIT-6) score of 64, the latter 2 scores indicating severe disability. Baseline IBS symptom severity was noted at 9/10. Within 1 week on a LFD, the patient's IBS symptoms and migraines improved in both frequency and intensity of episodes. After 5 weeks on a LFD elimination, the patient's clinical improvement continued and she reported significant reduction in migraines, with average pain of 1/10 and IBS severity of 3/10. The patient also improved from severe to minimal levels of disability on validated measures (MIDAS, HIT-6, and IBS Patient Global Impression of Change).
+
+
+CONCLUSION
+This is the first case report detailing successful initial treatment of migraine and co-occurring IBS utilizing a dietician-guided LFD. There are a number of important reasons for potential improvement in these gut-brain axis disorders which are reviewed as well as an implication for long-term management and food reintroduction. Larger, randomized trials evaluating a LFD in diverse individuals with migraine and co-occurring IBS are warranted to help confirm these results.

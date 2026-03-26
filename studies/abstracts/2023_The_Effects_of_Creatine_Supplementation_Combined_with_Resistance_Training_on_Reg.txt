@@ -1,0 +1,63 @@
+Title: The Effects of Creatine Supplementation Combined with Resistance Training on Regional Measures of Muscle Hypertrophy: A Systematic Review with Meta-Analysis.
+Authors: Burke R
+Year: 2023
+Journal: Nutrients
+PMID: 37432300
+DOI: 10.3390/nu15092116
+
+ABSTRACT:
+1. Nutrients. 2023 Apr 28;15(9):2116. doi: 10.3390/nu15092116.
+
+The Effects of Creatine Supplementation Combined with Resistance Training on 
+Regional Measures of Muscle Hypertrophy: A Systematic Review with Meta-Analysis.
+
+Burke R(1), Piñero A(1), Coleman M(1), Mohan A(1), Sapuppo M(1), Augustin F(1), 
+Aragon AA(2), Candow DG(3), Forbes SC(4), Swinton P(5), Schoenfeld BJ(1).
+
+Author information:
+(1)Department of Exercise Science and Recreation, CUNY Lehman College, Bronx, NY 
+10468, USA.
+(2)Department of Family and Consumer Sciences, California State University, 
+Northridge, CA 91330, USA.
+(3)Faculty of Kinesiology and Health Studies, University of Regina, Regina, SK 
+S4S 0A2, Canada.
+(4)Department of Physical Education Studies, Faculty of Education, Brandon 
+University, Brandon, MB R7A 6A9, Canada.
+(5)School of Health Sciences, Robert Gordon University, Aberdeen AB10 7AQ, UK.
+
+The purpose of this paper was to carry out a systematic review with a 
+meta-analysis of randomized controlled trials that examined the combined effects 
+of resistance training (RT) and creatine supplementation on regional changes in 
+muscle mass, with direct imaging measures of hypertrophy. Moreover, we performed 
+regression analyses to determine the potential influence of covariates. We 
+included trials that had a duration of at least 6 weeks and examined the 
+combined effects of creatine supplementation and RT on site-specific direct 
+measures of hypertrophy (magnetic resonance imaging (MRI), computed tomography 
+(CT), or ultrasound) in healthy adults. A total of 44 outcomes were analyzed 
+across 10 studies that met the inclusion criteria. A univariate analysis of all 
+the standardized outcomes showed a pooled mean estimate of 0.11 (95% Credible 
+Interval (CrI): -0.02 to 0.25), providing evidence for a very small effect 
+favoring creatine supplementation when combined with RT compared to RT and a 
+placebo. Multivariate analyses found similar small benefits for the combination 
+of creatine supplementation and RT on changes in the upper and lower body muscle 
+thickness (0.10-0.16 cm). Analyses of the moderating effects indicated a small 
+superior benefit for creatine supplementation in younger compared to older 
+adults (0.17 (95%CrI: -0.09 to 0.45)). In conclusion, the results suggest that 
+creatine supplementation combined with RT promotes a small increase in the 
+direct measures of skeletal muscle hypertrophy in both the upper and lower body.
+
+DOI: 10.3390/nu15092116
+PMCID: PMC10180745
+PMID: 37432300 [Indexed for MEDLINE]
+
+Conflict of interest statement: B.J.S. formerly served on the scientific 
+advisory board for Dymatize Nutrition, a manufacturer of sports supplements 
+including creatine products. D.G.C. has conducted industry sponsored research 
+involving creatine supplementation and received creatine donations for 
+scientific studies and travel support for presentations involving creatine 
+supplementation at scientific conferences. In addition, D.G.C. serves on the 
+Scientific Advisory Board for Alzchem (a company that manufactures creatine) and 
+as an expert witness/consultant in legal cases involving creatine 
+supplementation. S.C.F. formerly served as a scientific advisor for a company 
+that sold creatine products. In addition, S.C.F. sells creatine educational 
+videos.

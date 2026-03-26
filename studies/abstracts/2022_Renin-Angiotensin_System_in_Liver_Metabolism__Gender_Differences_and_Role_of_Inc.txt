@@ -1,0 +1,46 @@
+Title: Renin-Angiotensin System in Liver Metabolism: Gender Differences and Role of Incretins.
+Authors: Mastoor Z
+Year: 2022
+Journal: Metabolites
+PMID: 35629915
+DOI: 10.3390/metabo12050411
+
+ABSTRACT:
+1. Metabolites. 2022 May 3;12(5):411. doi: 10.3390/metabo12050411.
+
+Renin-Angiotensin System in Liver Metabolism: Gender Differences and Role of 
+Incretins.
+
+Mastoor Z(1), Diz-Chaves Y(1), González-Matías LC(1), Mallo F(1).
+
+Author information:
+(1)Biomedical Research Centre (CINBIO), University of Vigo, 36310 Vigo, Spain.
+
+The impaired hepatic lipids and carbohydrates metabolism result in various 
+metabolic disorders, including obesity, diabetes, insulin resistance, 
+hyperlipidemia and metabolic syndrome. The renin-angiotensin system (RAS) has 
+been identified in the liver and it is now recognized as an important modulator 
+of body metabolic processes. This review is intended to provide an update of the 
+impact of the renin-angiotensin system on lipid and carbohydrate metabolism, 
+regarding gender difference and prenatal undernutrition, specifically focused on 
+the role of the liver. The discovery of angiotensin-converting enzyme 2 (ACE2) 
+has renewed interest in the potential therapeutic role of RAS modulation. RAS is 
+over activated in non-alcoholic fatty liver disease (NAFLD) and hepatocellular 
+carcinoma. Glucagon-like peptide-1 (GLP-1) has been shown to modulate RAS. The 
+GLP-I analogue liraglutide antagonizes hepatocellular steatosis and exhibits 
+liver protection. Liraglutide has a negative effect on the ACE/AngII/AT1R axis 
+and a positive impact on the ACE2/Ang(1-7)/Mas axis. Activation of the 
+ACE2/Ang(1-7)/Mas counter-regulatory axis is able to prevent liver injuries. 
+Angiotensin(1-7) and ACE2 shows more favorable effects on lipid homeostasis in 
+males but there is a need to do more investigation in female models. Prenatal 
+undernutrition exerts long-term effects in the liver of offspring and is 
+associated with a number of metabolic and endocrine alterations. These findings 
+provide a novel therapeutic regimen to prevent and treat many chronic diseases 
+by accelerating the effect of the ACE2/Ang1-7/Mas axis and inhibiting the 
+ACE/AngII/AT1R axis.
+
+DOI: 10.3390/metabo12050411
+PMCID: PMC9143858
+PMID: 35629915
+
+Conflict of interest statement: The authors declare no conflict of interest.

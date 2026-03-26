@@ -1,0 +1,43 @@
+Title: Obesity and vitamin D deficiency: a systematic review and meta-analysis.
+Authors: Pereira-Santos M
+Year: 2015
+Journal: Obes Rev
+PMID: 25688659
+DOI: 10.1111/obr.12239
+
+ABSTRACT:
+1. Obes Rev. 2015 Apr;16(4):341-9. doi: 10.1111/obr.12239. Epub 2015 Feb 17.
+
+Obesity and vitamin D deficiency: a systematic review and meta-analysis.
+
+Pereira-Santos M(1), Costa PR, Assis AM, Santos CA, Santos DB.
+
+Author information:
+(1)Instituto de Saúde Coletiva, Federal University of Bahia, Salvador, Bahia, 
+Brazil; School of Nutrition, Federal University of Bahia, Salvador, Bahia, 
+Brazil.
+
+Comment in
+    Obes Rev. 2015 Sep;16(9):817. doi: 10.1111/obr.12291.
+    Obes Rev. 2016 May;17(5):484. doi: 10.1111/obr.12393.
+
+Over the past decade, there have been an increasing number of studies on the 
+association between vitamin D deficiency and anthropometric state. However, we 
+did not identify any meta-analyses of the relationship between obesity and 
+vitamin D deficiency in different age groups. Thus, we evaluated the association 
+between obesity and vitamin D deficiency. We searched for observational studies 
+published up to April 2014 in PubMed/Medline, Web of Science and Scopus 
+databases. We performed a meta-analysis in accordance with the random-effects 
+model to obtain the summary measurement (prevalence ratio, PR). Among the 29,882 
+articles identified, 23 met the inclusion criteria. The prevalence of vitamin D 
+deficiency was 35% higher in obese subjects compared to the eutrophic group (PR: 
+1.35; 95% CI: 1.21-1.50) and 24% higher than in the overweight group (PR: 1.24; 
+95% CI: 1.14-1.34). These results indicate that the prevalence of vitamin D 
+deficiency was more elevated in obese subjects. The vitamin D deficiency was 
+associated with obesity irrespective of age, latitude, cut-offs to define 
+vitamin D deficiency and the Human Development Index of the study location.
+
+© 2015 World Obesity.
+
+DOI: 10.1111/obr.12239
+PMID: 25688659 [Indexed for MEDLINE]

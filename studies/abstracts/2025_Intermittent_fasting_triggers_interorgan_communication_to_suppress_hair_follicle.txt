@@ -1,0 +1,61 @@
+Title: Intermittent fasting triggers interorgan communication to suppress hair follicle regeneration.
+Authors: Chen H
+Year: 2025
+Journal: Cell
+PMID: 39674178
+DOI: 10.1016/j.cell.2024.11.004
+
+ABSTRACT:
+1. Cell. 2025 Jan 9;188(1):157-174.e22. doi: 10.1016/j.cell.2024.11.004. Epub
+2024  Dec 13.
+
+Intermittent fasting triggers interorgan communication to suppress hair follicle 
+regeneration.
+
+Chen H(1), Liu C(2), Cui S(2), Xia Y(3), Zhang K(2), Cheng H(4), Peng J(2), Yu 
+X(2), Li L(2), Yu H(1), Zhang J(4), Zheng JS(5), Zhang B(6).
+
+Author information:
+(1)College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang 310000, 
+China; School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310000, 
+China.
+(2)School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310000, 
+China.
+(3)School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310000, 
+China; Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, Zhejiang 
+310000, China; Research Center for Industries of the Future, Westlake 
+University, Hangzhou, Zhejiang 310000, China.
+(4)Department of Plastic Surgery, Affiliated Hangzhou First People's Hospital, 
+School of Medicine, Westlake University, Hangzhou, Zhejiang 310000, China.
+(5)School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310000, 
+China; School of Medicine, Westlake University, Hangzhou, Zhejiang 310000, 
+China.
+(6)School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310000, 
+China; Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, Zhejiang 
+310000, China; Research Center for Industries of the Future, Westlake 
+University, Hangzhou, Zhejiang 310000, China. Electronic address: 
+zhangbing@westlake.edu.cn.
+
+Intermittent fasting has gained global popularity for its potential health 
+benefits, although its impact on somatic stem cells and tissue biology remains 
+elusive. Here, we report that commonly used intermittent fasting regimens 
+inhibit hair follicle regeneration by selectively inducing apoptosis in 
+activated hair follicle stem cells (HFSCs). This effect is independent of 
+calorie reduction, circadian rhythm alterations, or the mTORC1 cellular 
+nutrient-sensing mechanism. Instead, fasting activates crosstalk between adrenal 
+glands and dermal adipocytes in the skin, triggering the rapid release of free 
+fatty acids into the niche, which in turn disrupts the normal metabolism of 
+HFSCs and elevates their cellular reactive oxygen species levels, causing 
+oxidative damage and apoptosis. A randomized clinical trial (NCT05800730) 
+indicates that intermittent fasting inhibits human hair growth. Our study 
+uncovers an inhibitory effect of intermittent fasting on tissue regeneration and 
+identifies interorgan communication that eliminates activated HFSCs and halts 
+tissue regeneration during periods of unstable nutrient supply.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2024.11.004
+PMID: 39674178 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

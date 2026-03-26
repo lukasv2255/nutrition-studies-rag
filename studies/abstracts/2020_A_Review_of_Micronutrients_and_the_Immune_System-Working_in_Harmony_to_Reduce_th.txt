@@ -1,0 +1,47 @@
+Title: A Review of Micronutrients and the Immune System-Working in Harmony to Reduce the Risk of Infection.
+Authors: Gombart AF
+Year: 2020
+Journal: Nutrients
+PMID: 31963293
+DOI: 10.3390/nu12010236
+
+ABSTRACT:
+1. Nutrients. 2020 Jan 16;12(1):236. doi: 10.3390/nu12010236.
+
+A Review of Micronutrients and the Immune System-Working in Harmony to Reduce 
+the Risk of Infection.
+
+Gombart AF(1), Pierre A(2), Maggini S(2).
+
+Author information:
+(1)Linus Pauling Institute, Department of Biochemistry and Biophysics, Oregon 
+State University, 307 Linus Pauling Science Center, Corvallis, OR 97331, USA.
+(2)Bayer Consumer Care AG, 4002 Basel, Switzerland.
+
+Immune support by micronutrients is historically based on vitamin C deficiency 
+and supplementation in scurvy in early times. It has since been established that 
+the complex, integrated immune system needs multiple specific micronutrients, 
+including vitamins A, D, C, E, B6, and B12, folate, zinc, iron, copper, and 
+selenium, which play vital, often synergistic roles at every stage of the immune 
+response. Adequate amounts are essential to ensure the proper function of 
+physical barriers and immune cells; however, daily micronutrient intakes 
+necessary to support immune function may be higher than current recommended 
+dietary allowances. Certain populations have inadequate dietary micronutrient 
+intakes, and situations with increased requirements (e.g., infection, stress, 
+and pollution) further decrease stores within the body. Several micronutrients 
+may be deficient, and even marginal deficiency may impair immunity. Although 
+contradictory data exist, available evidence indicates that supplementation with 
+multiple micronutrients with immune-supporting roles may modulate immune 
+function and reduce the risk of infection. Micronutrients with the strongest 
+evidence for immune support are vitamins C and D and zinc. Better design of 
+human clinical studies addressing dosage and combinations of micronutrients in 
+different populations are required to substantiate the benefits of micronutrient 
+supplementation against infection.
+
+DOI: 10.3390/nu12010236
+PMCID: PMC7019735
+PMID: 31963293 [Indexed for MEDLINE]
+
+Conflict of interest statement: S.M. and A.P. are employed by Bayer Consumer 
+Care Ltd., a manufacturer of multivitamins. A.F.G. has received funding for 
+conducting research on a product from Bayer Consumer Care Ltd.

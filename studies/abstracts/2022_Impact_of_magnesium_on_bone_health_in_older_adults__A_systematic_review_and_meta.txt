@@ -1,0 +1,58 @@
+Title: Impact of magnesium on bone health in older adults: A systematic review and meta-analysis.
+Authors: Groenendijk I
+Year: 2022
+Journal: Bone
+PMID: 34666201
+DOI: 10.1016/j.bone.2021.116233
+
+ABSTRACT:
+1. Bone. 2022 Jan;154:116233. doi: 10.1016/j.bone.2021.116233. Epub 2021 Oct 16.
+
+Impact of magnesium on bone health in older adults: A systematic review and 
+meta-analysis.
+
+Groenendijk I(1), van Delft M(2), Versloot P(2), van Loon LJC(3), de Groot 
+LCPGM(2).
+
+Author information:
+(1)Division of Human Nutrition and Health, Wageningen University & Research, 
+P.O. Box 17, 6700 AA Wageningen, the Netherlands. Electronic address: 
+inge.groenendijk@wur.nl.
+(2)Division of Human Nutrition and Health, Wageningen University & Research, 
+P.O. Box 17, 6700 AA Wageningen, the Netherlands.
+(3)Department of Human Biology, NUTRIM School for Nutrition and Translational 
+Research in Metabolism, Maastricht University, Maastricht, the Netherlands.
+
+BACKGROUND: Magnesium plays a key role in bone health and may, therefore, 
+represent an interesting nutrient for the prevention of bone loss and 
+osteoporosis. The aim of this systematic review and meta-analysis was to 
+investigate the impact of magnesium intake from any source on bone mineral 
+density (BMD), bone mineral content (BMC), bone turnover markers, and fracture 
+risk in older adults.
+METHODS: A systematic search was conducted using Embase, Medline Ovid and 
+Cochrane Central from database inception to October 2020. All studies that 
+related magnesium intake with bone health outcomes among adults aged ≥60 years 
+were included. Two investigators independently conducted abstract and full-text 
+screenings, data extractions, and risk of bias assessments. Authors were 
+contacted for missing data.
+RESULTS: Once 787 records were screened, six cohort studies, one case-control 
+study and five cross-sectional studies were included. Qualitative evaluation 
+demonstrated a positive trend between higher magnesium intake and higher hip and 
+femoral neck BMD. Meta-analysis of four studies showed a significant positive 
+association between magnesium intake and hip BMD (pooled beta: 0.03, 95% CI: 
+0.01-0.06, p < 0.05).
+CONCLUSIONS: This systematic review indicates that a higher magnesium intake may 
+support an increase in hip and femoral neck BMD. Due to limited research no 
+associations with BMD at other sites or fractures were found. There is a need 
+for properly designed cohort studies to determine the association between 
+magnesium intake and bone health in older adults. Next, large and long-term 
+randomized controlled trials in older adults are needed to determine whether an 
+increase in magnesium (supplementation) intake can improve bone health. The 
+combination of several bone nutrients (calcium, vitamin D, protein, magnesium 
+and potentially more) may be needed for the most optimal effect on bone health 
+and to delay or prevent the development of osteoporosis.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bone.2021.116233
+PMID: 34666201 [Indexed for MEDLINE]

@@ -1,0 +1,23 @@
+Title: A low FODMAP diet plus traditional dietary advice versus a low-carbohydrate diet versus pharmacological treatment in irritable bowel syndrome (CARBIS): a single-centre, single-blind, randomised controlled trial.
+Year: 2024
+DOI: 10.1016/s2468-1253(24)00045-1
+
+ABSTRACT:
+BACKGROUND
+Dietary advice and medical treatments are recommended to patients with irritable bowel syndrome (IBS). Studies have not yet compared the efficacy of dietary treatment with pharmacological treatment targeting the predominant IBS symptom. We therefore aimed to compare the effects of two restrictive dietary treatment options versus optimised medical treatment in people with IBS.
+
+
+METHODS
+This single-centre, single-blind, randomised controlled trial was conducted in a specialised outpatient clinic at the Sahlgrenska University Hospital, Gothenburg, Sweden. Participants (aged ≥18 years) with moderate-to-severe IBS (Rome IV; IBS Severity Scoring System [IBS-SSS] ≥175) and no other serious diseases or food allergies were randomly assigned (1:1:1) by web-based randomisation to receive a diet low in fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAPs) plus traditional IBS dietary advice recommended by the UK National Institute for Health and Care Excellence (hereafter the LFTD diet), a fibre-optimised diet low in total carbohydrates and high in protein and fat (hereafter the low-carbohydrate diet), or optimised medical treatment based on predominant IBS symptom. Participants were masked to the names of the diets, but the pharmacological treatment was open-label. The intervention lasted 4 weeks, after which time participants in the dietary interventions were unmasked to their diets and encouraged to continue during 6 months' follow-up, participants in the LFTD group were instructed on how to reintroduce FODMAPs, and participants receiving pharmacological treatment were offered diet counselling and to continue with their medication. The primary endpoint was the proportion of participants who responded to the 4-week intervention, defined as a reduction of 50 or more in IBS-SSS relative to baseline, and was analysed per modified intention-to-treat (ie, all participants who started the intervention). Safety was analysed in the modified intention-to-treat population. This trial is registered with ClinicalTrials.gov, NCT02970591, and is complete.
+
+
+FINDINGS
+Between Jan 24, 2017, and Sept 2, 2021, 1104 participants were assessed for eligibility and 304 were randomly assigned. Ten participants did not receive their intervention after randomisation and thus 294 participants were included in the modified intention-to-treat population (96 assigned to the LFTD diet, 97 to the low-carbohydrate diet, and 101 to optimised medical treatment). 241 (82%) of 294 participants were women and 53 (18%) were men and the mean age was 38 (SD 13). After 4 weeks, 73 (76%) of 96 participants in the LFTD diet group, 69 (71%) of 97 participants in the low-carbohydrate diet group, and 59 (58%) of 101 participants in the optimised medical treatment group had a reduction of 50 or more in IBS-SSS compared with baseline, with a significant difference between the groups (p=0·023). 91 (95%) of 96 participants completed 4 weeks in the LFTD group, 92 (95%) of 97 completed 4 weeks in the low-carbohydrate group, and 91 (90%) of 101 completed 4 weeks in the optimised medical treatment group. Two individuals in each of the intervention groups stated that adverse events were the reason for discontinuing the 4-week intervention. Five (5%) of 91 participants in the optimised medical treatment group stopped treatment prematurely due to side-effects. No serious adverse events or treatment-related deaths occurred.
+
+
+INTERPRETATION
+Two 4-week dietary interventions and optimised medical treatment reduced the severity of IBS symptoms, with a larger effect size in the diet groups. Dietary interventions might be considered as an initial treatment for patients with IBS. Research is needed to enable personalised treatment strategies.
+
+
+FUNDING
+The Healthcare Board Region Västra Götaland, the Swedish Research Council, the Swedish Research Council for Health, Working Life and Welfare, AFA Insurance, grants from the Swedish state, the Wilhelm and Martina Lundgren Science Foundation, Skandia, the Dietary Science Foundation, and the Nanna Swartz Foundation.

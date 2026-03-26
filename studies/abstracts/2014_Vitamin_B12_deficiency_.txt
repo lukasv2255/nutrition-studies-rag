@@ -1,0 +1,21 @@
+Title: Vitamin B12 deficiency.
+Authors: Hunt A
+Year: 2014
+Journal: BMJ
+PMID: 25189324
+DOI: 10.1136/bmj.g5226
+
+ABSTRACT:
+1. BMJ. 2014 Sep 4;349:g5226. doi: 10.1136/bmj.g5226.
+
+Vitamin B12 deficiency.
+
+Hunt A(1), Harrington D(2), Robinson S(2).
+
+Author information:
+(1)Haematology, Guy's and St Thomas' NHS Foundation Trust, London, UK 
+alesiahunt@nhs.net.
+(2)Haematology, Guy's and St Thomas' NHS Foundation Trust, London, UK.
+
+DOI: 10.1136/bmj.g5226
+PMID: 25189324 [Indexed for MEDLINE]

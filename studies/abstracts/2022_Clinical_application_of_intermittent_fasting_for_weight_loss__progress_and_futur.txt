@@ -1,0 +1,42 @@
+Title: Clinical application of intermittent fasting for weight loss: progress and future directions.
+Authors: Varady KA
+Year: 2022
+Journal: Nat Rev Endocrinol
+PMID: 35194176
+DOI: 10.1038/s41574-022-00638-x
+
+ABSTRACT:
+1. Nat Rev Endocrinol. 2022 May;18(5):309-321. doi: 10.1038/s41574-022-00638-x. 
+Epub 2022 Feb 22.
+
+Clinical application of intermittent fasting for weight loss: progress and 
+future directions.
+
+Varady KA(1), Cienfuegos S(2), Ezpeleta M(2), Gabel K(2).
+
+Author information:
+(1)Department of Kinesiology and Nutrition, University of Illinois at Chicago, 
+Chicago, IL, USA. varady@uic.edu.
+(2)Department of Kinesiology and Nutrition, University of Illinois at Chicago, 
+Chicago, IL, USA.
+
+Intermittent fasting diets have become very popular in the past few years, as 
+they can produce clinically significant weight loss. These diets can be defined, 
+in the simplest of terms, as periods of fasting alternating with periods of 
+eating. The most studied forms of intermittent fasting include: alternate day 
+fasting (0-500 kcal per 'fast day' alternating with ad libitum intake on 'feast 
+days'); the 5:2 diet (two fast days and five feast days per week) and 
+time-restricted eating (only eating within a prescribed window of time each 
+day). Despite the recent surge in the popularity of fasting, only a few studies 
+have examined the health benefits of these diets in humans. The goal of this 
+Review is to summarize these preliminary findings and give insights into the 
+effects of intermittent fasting on body weight and risk factors for 
+cardiometabolic diseases in humans. This Review also assesses the safety of 
+these regimens, and offers some practical advice for how to incorporate 
+intermittent fasting diets into everyday life. Recommendations for future 
+research are also presented.
+
+© 2022. Springer Nature Limited.
+
+DOI: 10.1038/s41574-022-00638-x
+PMID: 35194176 [Indexed for MEDLINE]

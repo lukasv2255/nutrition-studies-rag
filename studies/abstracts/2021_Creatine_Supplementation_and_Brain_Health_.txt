@@ -1,0 +1,65 @@
+Title: Creatine Supplementation and Brain Health.
+Authors: Roschel H
+Year: 2021
+Journal: Nutrients
+PMID: 33578876
+DOI: 10.3390/nu13020586
+
+ABSTRACT:
+1. Nutrients. 2021 Feb 10;13(2):586. doi: 10.3390/nu13020586.
+
+Creatine Supplementation and Brain Health.
+
+Roschel H(1), Gualano B(1)(2), Ostojic SM(3), Rawson ES(4).
+
+Author information:
+(1)Applied Physiology & Nutrition Research Group, Rheumatology Division, School 
+of Physical Education and Sport, Faculdade de Medicina FMUSP, Universidade de 
+Sao Paulo, Sao Paulo 01246-903, Brazil.
+(2)Food Research Center, University of São Paulo, Sao Paulo 05508-080, Brazil.
+(3)FSPE Applied Bioenergetics Lab, University of Novi Sad, 21000 Novi Sad, 
+Serbia.
+(4)Department of Health, Nutrition, and Exercise Science, Messiah University, 
+Mechanicsburg, PA 17055, USA.
+
+There is a robust and compelling body of evidence supporting the ergogenic and 
+therapeutic role of creatine supplementation in muscle. Beyond these 
+well-described effects and mechanisms, there is literature to suggest that 
+creatine may also be beneficial to brain health (e.g., cognitive processing, 
+brain function, and recovery from trauma). This is a growing field of research, 
+and the purpose of this short review is to provide an update on the effects of 
+creatine supplementation on brain health in humans. There is a potential for 
+creatine supplementation to improve cognitive processing, especially in 
+conditions characterized by brain creatine deficits, which could be induced by 
+acute stressors (e.g., exercise, sleep deprivation) or chronic, pathologic 
+conditions (e.g., creatine synthesis enzyme deficiencies, mild traumatic brain 
+injury, aging, Alzheimer's disease, depression). Despite this, the optimal 
+creatine protocol able to increase brain creatine levels is still to be 
+determined. Similarly, supplementation studies concomitantly assessing brain 
+creatine and cognitive function are needed. Collectively, data available are 
+promising and future research in the area is warranted.
+
+DOI: 10.3390/nu13020586
+PMCID: PMC7916590
+PMID: 33578876 [Indexed for MEDLINE]
+
+Conflict of interest statement: B.G. has received research grants, creatine 
+donation for scientific studies, travel support for participation in scientific 
+conferences and honorarium for speaking at lectures from AlzChem (a company 
+which manufactures creatine). Additionally, he serves as a member of the 
+Scientific Advisory Board for Alzchem. E.S.R. has conducted industry-sponsored 
+research on creatine and received financial support for presenting on creatine 
+at industry-sponsored scientific conferences. Additionally, he serves as a 
+member of the Scientific Advisory Board for AlzChem, who sponsored this special 
+issue. S.M.O. serves as a member of the Scientific Advisory Board on creatine in 
+health and medicine (AlzChem LLC). S.M.O. owns patent “Sports Supplements Based 
+on Liquid Creatine” at the European Patent Office (WO2019150323 A1), and active 
+patent application “Synergistic Creatine” at the UK Intellectual Property Office 
+(GB2012773.4). S.M.O. has served as a speaker at Abbott Nutrition, a consultant 
+of Allied Beverages Adriatic and IMLEK, and an advisory board member for the 
+University of Novi Sad School of Medicine, and has received research funding 
+related to creatine from the Serbian Ministry of Education, Science, and 
+Technological Development, Provincial Secretariat for Higher Education and 
+Scientific Research, AlzChem GmbH, KW Pfannenschmidt GmbH, and ThermoLife 
+International LLC. S.M.O. is an employee of the University of Novi Sad and does 
+not own stocks and shares in any organization.

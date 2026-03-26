@@ -1,0 +1,19 @@
+Title: Effect of low carbohydrate high fat diet on LDL cholesterol and gene expression in normal-weight, young adults: A randomized controlled study.
+Year: 2018
+DOI: 10.1016/j.atherosclerosis.2018.10.013
+
+ABSTRACT:
+BACKGROUND AND AIMS
+The effects of a low carbohydrate/high fat (LCHF) diet on health are debated. This study aims to explore the effects of a diet with less than 20 g carbohydrates per day (LCHF) on plasma low density lipoprotein cholesterol (LDL-C) in young and healthy adults. The secondary aim is the assessment of lipid profile and peripheral blood mononuclear cells (PBMC) gene expression.
+
+
+METHODS
+This was a randomized controlled parallel-designed intervention study. Participants were either assigned to a three-week LCHF diet or a control group continuing habitual diet ad libitum, in both groups.
+
+
+RESULTS
+In total, 30 healthy normal weight participants completed the study. Nine subjects did not complete it due to adverse events or withdrawn consent. In the LCHF diet group (n = 15), plasma LDL-C increased from (mean ± SD) 2.2 ± 0.4 mmol/l before intervention to 3.1 ± 0.8 after, while in the control group (n = 15), LDL-C remained unchanged: 2.5 ± 0.8 mmol/l (p < 0.001 between groups). There was a significant increase in apolipoprotein B, total cholesterol, high-density lipoprotein cholesterol, free fatty acids, uric acid and urea in the LCHF group versus controls. Plasma levels of triglycerides, lipoprotein (a), glucose, C-peptide or C-reactive protein (CRP), blood pressure, body weight or body composition did not differ between the groups. PBMC gene expression of sterol regulator element binding protein 1 (SREBP-1) was increased in the LCHF group versus controls (p ≤ 0.01). The individual increase in LDL-C from baseline varied between 5 and 107% in the LCHF group.
+
+
+CONCLUSIONS
+An LCHF diet for three weeks increased LDL-C with 44% versus controls. The individual response on LCHF varied profoundly.

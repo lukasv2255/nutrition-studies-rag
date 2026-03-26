@@ -1,0 +1,6 @@
+Title: Distribution of dietary protein intake in daily meals influences skeletal muscle hypertrophy via the muscle clock.
+Year: 2021
+DOI: 10.1016/j.celrep.2021.109336
+
+ABSTRACT:
+The meal distribution of proteins throughout the day is usually skewed. However, its physiological implications and the effects of better protein distribution on muscle volume are largely unknown. Here, using the two-meals-per-day feeding model, we find that protein intake at the early active phase promotes overloading-induced muscle hypertrophy, in a manner dependent on the local muscle clock. Mice fed branched-chain amino acid (BCAA)-supplemented diets at the early active phase demonstrate skeletal muscle hypertrophy. However, distribution-dependent effects are not observed in ClockΔ19 or muscle-specific Bmal1 knockout mice. Additionally, we examined the relationship between the distribution of proteins in meals and muscle functions, such as skeletal muscle index and grip strength in humans. Higher muscle functions were observed in subjects who ingested dietary proteins mainly at breakfast than at dinner. These data suggest that protein intake at breakfast may be better for the maintenance of skeletal muscle mass.

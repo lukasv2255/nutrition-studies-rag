@@ -1,0 +1,40 @@
+Title: Metabolic Effects of Intermittent Fasting.
+Authors: Patterson RE
+Year: 2017
+Journal: Annu Rev Nutr
+PMID: 28715993
+DOI: 10.1146/annurev-nutr-071816-064634
+
+ABSTRACT:
+1. Annu Rev Nutr. 2017 Aug 21;37:371-393. doi:
+10.1146/annurev-nutr-071816-064634.  Epub 2017 Jul 17.
+
+Metabolic Effects of Intermittent Fasting.
+
+Patterson RE(1)(2), Sears DD(1)(2)(3).
+
+Author information:
+(1)Moores Cancer Center, University of California, San Diego, La Jolla, 
+California 92093; email: dsears@ucsd.edu.
+(2)Department of Family Medicine and Public Health, University of California, 
+San Diego, La Jolla, California 92093.
+(3)Division of Endocrinology and Metabolism, Department of Medicine, University 
+of California, San Diego, La Jolla, California 92093.
+
+The objective of this review is to provide an overview of intermittent fasting 
+regimens, summarize the evidence on the health benefits of intermittent fasting, 
+and discuss physiological mechanisms by which intermittent fasting might lead to 
+improved health outcomes. A MEDLINE search was performed using PubMed and the 
+terms "intermittent fasting," "fasting," "time-restricted feeding," and "food 
+timing." Modified fasting regimens appear to promote weight loss and may improve 
+metabolic health. Several lines of evidence also support the hypothesis that 
+eating patterns that reduce or eliminate nighttime eating and prolong nightly 
+fasting intervals may result in sustained improvements in human health. 
+Intermittent fasting regimens are hypothesized to influence metabolic regulation 
+via effects on (a) circadian biology, (b) the gut microbiome, and (c) modifiable 
+lifestyle behaviors, such as sleep. If proven to be efficacious, these eating 
+regimens offer promising nonpharmacological approaches to improving health at 
+the population level, with multiple public health benefits.
+
+DOI: 10.1146/annurev-nutr-071816-064634
+PMID: 28715993 [Indexed for MEDLINE]

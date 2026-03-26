@@ -1,0 +1,23 @@
+Title: Genetically determined vitamin D levels and change in bone density during a weight-loss diet intervention: the Preventing Overweight Using Novel Dietary Strategies (POUNDS Lost) Trial.
+Year: 2018
+DOI: 10.1093/ajcn/nqy197
+
+ABSTRACT:
+Background
+Obesity is closely associated with bone health. Although diet and weight loss produce many metabolic benefits, studies of weight loss diets on bone health are conflicting. Genetic variations, such as vitamin D levels, may partly account for these conflicting observations by regulating bone metabolism.
+
+
+Objective
+We investigated whether the genetic variation associated with vitamin D concentration affected changes in bone mineral density (BMD) in response to a weight-loss diet intervention.
+
+
+Design
+In the 2-y Preventing Overweight Using Novel Dietary Strategies (POUNDS Lost) trial, BMD was measured for 424 participants who were randomly assigned to 1 of 4 diets varying in macronutrient intakes. A genetic risk score (GRS) was calculated based on 3 genetic variants [i.e., 7-dehydrocholesterol reductase (DHCR7) rs12785878, cytochrome P450 2R1 (CYP2R1) rs10741657 and group-specific component globulin (GC) rs2282679] related to circulating vitamin D levels. A dual-energy X-ray absorptiometry scan was performed to assess changes in whole-body BMD over 2 y. The final analysis included 370 participants at baseline.
+
+
+Results
+We found a significant interaction between dietary fat intake and vitamin D GRS on 2-y changes in whole-body BMD (P-interaction = 0.02). In the high-fat diet group, participants with higher GRS showed significantly less reduction in whole-body BMD than those with lower GRS, whereas the genetic associations were not significant in the low-fat diet group. We also found a significant interaction between dietary fat intake and the GRS on 6-mo change in femur neck BMD (P-interaction = 0.02); however, the interaction became nonsignificant at 2 y.
+
+
+Conclusion
+Our data indicate that dietary fat intake may modify the effect of vitamin D-related genetic variation on changes in BMD. Overweight or obese patients predisposed to sufficient vitamin D may benefit more in maintaining BMD along with weight loss by eating a low-fat diet. This trial was registered at clinicaltrials.gov as NCT03258203.

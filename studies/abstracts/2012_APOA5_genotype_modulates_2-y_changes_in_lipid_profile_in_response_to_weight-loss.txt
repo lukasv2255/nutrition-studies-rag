@@ -1,0 +1,46 @@
+Title: APOA5 genotype modulates 2-y changes in lipid profile in response to weight-loss diet intervention: the Pounds Lost Trial.
+Year: 2012
+DOI: 10.3945/AJCN.112.040907
+
+ABSTRACT:
+1. Am J Clin Nutr. 2012 Oct;96(4):917-22. doi: 10.3945/ajcn.112.040907. Epub 2012
+ Aug 22.
+
+APOA5 genotype modulates 2-y changes in lipid profile in response to weight-loss 
+diet intervention: the Pounds Lost Trial.
+
+Zhang X(1), Qi Q, Bray GA, Hu FB, Sacks FM, Qi L.
+
+Author information:
+(1)Departments of Nutrition and Epidemiology, Harvard School of Public Health, 
+Boston, MA, USA.
+
+BACKGROUND: The apolipoprotein A5 gene (APOA5) is a major gene that regulates 
+lipid metabolism and is modulated by dietary factors. A novel variant rs964184 
+in APOA5 was identified to be associated with lipids in genome-wide association 
+studies.
+OBJECTIVE: We examined whether this variant modified changes in lipid 
+concentrations in response to a 2-y weight-loss diet intervention in a 
+randomized trial.
+DESIGN: The current analyses were secondary analyses of a data set from the 
+Pounds Lost Trial. We genotyped APOA5 rs964184 in 734 overweight or obese adults 
+who were randomly assigned to one of 4 diets that differed in percentages of 
+energy derived from fat, protein, and carbohydrate for 2 y. We evaluated changes 
+in fasting serum concentrations of total cholesterol (TC), LDL cholesterol, HDL 
+cholesterol, and triglyceride from baseline to 2 y of follow-up.
+RESULTS: After a 2-y dietary intervention, we showed significant interactions 
+between the APOA5 rs964184 polymorphism and dietary fat intake (low compared 
+with high) in the determination of changes in TC, LDL cholesterol, and HDL 
+cholesterol (P-interaction = 0.007, 0.017, and 0.006, respectively). In the 
+low-fat intake group (20% of energy derived from fat), carriers of the risk 
+allele (G allele) exhibited greater reductions in TC and LDL cholesterol than 
+did noncarriers (P = 0.036 and 0.039, respectively), whereas in the high-fat 
+diet group (40% of energy derived from fat), participants with the G allele had 
+a greater increase in HDL cholesterol than did participants without this allele 
+(P = 0.038).
+CONCLUSION: Our data showed better improvement in lipid profiles from long-term 
+low-fat diet intake in the APOA5 rs964184 risk allele.
+
+DOI: 10.3945/ajcn.112.040907
+PMCID: PMC3441115
+PMID: 22914552 [Indexed for MEDLINE]

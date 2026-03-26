@@ -1,0 +1,19 @@
+Title: Short-term recovery sleep attenuates the impairment of response inhibition after total sleep deprivation: Evidence from an event-related potentials study.
+Year: 2025
+DOI: 10.1016/j.ijpsycho.2025.112563
+
+ABSTRACT:
+OBJECTIVES
+Sleep deprivation is increasingly a problem in modern society. Therefore, understanding the restorative effects of short naps on cognitive function after sleep deprivation has considerable relevance. This study investigated changes in response inhibition function after 30 h of total sleep deprivation (TSD) and the impact of 1 h of recovery sleep (RS) on the recovery of this function.
+
+
+METHODS
+Twenty-seven healthy male participants performed a visual Go/No-Go task while event-related potentials (ERP) were recorded. Response inhibition was assessed at three time points: at baseline (0 h of TSD), after 30 h of TSD, and after 1 h of RS.
+
+
+RESULTS
+The results from the behavioral indicators revealed a significant increase in reaction times to the Go stimuli (p = 0.013), a decrease in accuracy (p < 0.001), and a substantial rise in the error rate for the No-Go stimuli (p = 0.001) after 30 h of TSD compared with baseline. After 30 h of TSD, there was no significant improvement in task performance after 1 h of RS. ERP analysis showed a significant prolongation of the latencies of N2 (p = 0.012) and P3 (p = 0.010), a significant increase in P3 amplitude (p = 0.048), and no significant change in N2 amplitude after TSD compared with that at baseline. After 1 h of RS, N2 amplitude significantly increased (p = 0.010) and P3 latency remained prolonged (p = 0.008).
+
+
+CONCLUSIONS
+After thirty hours of sleep deprivation, the brain maintains task performance primarily through compensatory mechanisms. 1 h of RS partially ameliorates the impaired response inhibition caused by thirty hours of sleep deprivation, restoring this function closer to baseline levels.

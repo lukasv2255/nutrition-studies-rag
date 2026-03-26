@@ -1,0 +1,42 @@
+Title: Muscle Disuse as a Pivotal Problem in Sarcopenia-related Muscle Loss and Dysfunction.
+Year: 2016
+DOI: 10.14283/jfa.2016.78
+
+ABSTRACT:
+1. J Frailty Aging. 2016;5(1):33-41. doi: 10.14283/jfa.2016.78.
+
+Muscle Disuse as a Pivotal Problem in Sarcopenia-related Muscle Loss and 
+Dysfunction.
+
+Bell KE(1), von Allmen MT, Devries MC, Phillips SM.
+
+Author information:
+(1)Stuart M. Phillips, Ph.D. Department of Kinesiology, McMaster University, 
+1280 Main St. West, Hamilton, ON, L8S 4K1, Canada, Phone: +1-905-525-9140 
+x24465, Fax: +1-905-523-6011, Email: phillis@mcmaster.ca.
+
+An age-associated loss of muscle mass and strength--sarcopenia--begins at around 
+the fifth decade of life, with mass being lost at ~0.5-1.2% per year and 
+strength at ~3% per year. Sarcopenia can contribute to a variety of negative 
+health outcomes, including an increased risk for falls and fractures, the 
+development of metabolic diseases like type 2 diabetes mellitus, and increase 
+the chance of requiring assisted living. Linear sarcopenic declines in muscle 
+mass and strength are, however, punctuated by transient periods of muscle disuse 
+that can accelerate losses of muscle and strength, which could result in 
+increased risk for the aforementioned conditions. Muscle disuse is recognizable 
+with bed rest or immobilization (for example, due to surgery or acute illness 
+requiring hospitalization); however, recent work has shown that even a relative 
+reduction in ambulation (reduced daily steps) results in significant reductions 
+in muscle mass, strength and possibly an increase in disease risk. Although 
+reduced ambulation is a seemingly "benign" form of disuse, compared to bed rest 
+and immobilization, reports have documented that 2-3 weeks of reduced daily 
+steps may induce: negative changes in body composition, reductions in muscle 
+strength and quality, anabolic resistance, and decrements in glycemic control in 
+older adults. Importantly, periods of reduced ambulation likely occur fairly 
+frequently and appear more difficult to fully recover from, in older adults. 
+Here we explore the consequences of muscle disuse due to reduced ambulatory 
+activity in older adults, with frequent comparisons to established models of 
+disuse: bed rest and immobilization.
+
+DOI: 10.14283/jfa.2016.78
+PMID: 26980367 [Indexed for MEDLINE]

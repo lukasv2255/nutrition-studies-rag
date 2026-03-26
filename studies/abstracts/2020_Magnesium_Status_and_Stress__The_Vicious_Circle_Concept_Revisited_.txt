@@ -1,0 +1,59 @@
+Title: Magnesium Status and Stress: The Vicious Circle Concept Revisited.
+Authors: Pickering G
+Year: 2020
+Journal: Nutrients
+PMID: 33260549
+DOI: 10.3390/nu12123672
+
+ABSTRACT:
+1. Nutrients. 2020 Nov 28;12(12):3672. doi: 10.3390/nu12123672.
+
+Magnesium Status and Stress: The Vicious Circle Concept Revisited.
+
+Pickering G(1), Mazur A(2), Trousselard M(3), Bienkowski P(4), Yaltsewa N(5), 
+Amessou M(6), Noah L(6), Pouteau E(6).
+
+Author information:
+(1)Plateforme d'Investigation Clinique/CIC Inserm 1405, University Hospital CHU, 
+63000 Clermont-Ferrand, France.
+(2)INRAE, UNH, Unité de Nutrition Humaine, Université Clermont Auvergne, 63001 
+Clermont-Ferrand, France.
+(3)Independent Regulatory Board for Auditors (IRBA), 91220 Bretigny-sur-Orge, 
+France.
+(4)Department of Psychiatry, Warsaw Medical University, 02-091 Warsaw, Poland.
+(5)Department of General Medicine, The Yaroslavl State Medical University 
+Institute of Postgraduate Education, 150000 Yaroslavl, Russia.
+(6)Medical Affairs Department, Consumer HealthCare, Sanofi, Gentilly, 94250 
+Paris, France.
+
+Magnesium deficiency and stress are both common conditions among the general 
+population, which, over time, can increase the risk of health consequences. 
+Numerous studies, both in pre-clinical and clinical settings, have investigated 
+the interaction of magnesium with key mediators of the physiological stress 
+response, and demonstrated that magnesium plays an inhibitory key role in the 
+regulation and neurotransmission of the normal stress response. Furthermore, low 
+magnesium status has been reported in several studies assessing nutritional 
+aspects in subjects suffering from psychological stress or associated symptoms. 
+This overlap in the results suggests that stress could increase magnesium loss, 
+causing a deficiency; and in turn, magnesium deficiency could enhance the body's 
+susceptibility to stress, resulting in a magnesium and stress vicious circle. 
+This review revisits the magnesium and stress vicious circle concept, first 
+introduced in the early 1990s, in light of recent available data.
+
+DOI: 10.3390/nu12123672
+PMCID: PMC7761127
+PMID: 33260549 [Indexed for MEDLINE]
+
+Conflict of interest statement: A.M. reports consultancy fees from Sanofi, 
+unrelated to this publication. E.P. is an employee at Sanofi. G.P. has no 
+conflicts of interest. L.N. is an employee at Sanofi. M.A. is an employee at 
+Sanofi. M.T. has no conflicts of interest. P.B. reports speaker’s honoraria 
+from: Abbott, Adamed, Angelini, Apotex, Astellas, Asteriamed, Bausch Health, BGP 
+Products, BMS, Bioton, Boehringer Ingelheim, Bonnier Business, Chiesi, CROS, 
+Fundacja Syntonia, Fundacja Zdrowie i Opieka, Gedeon Richter, + pharma, 
+G-Pharma, Ipsen, Item Publishing, Janssen, Kimze, Krka, Lilly, Lundbeck, 
+Medforum, Mediadore, Medical Education, Medical Experts, Medycyna Praktyczna, 
+Mylan, Neoart, Novo Nordisk, P2P, Pfizer, Pierre Fabre, Polfa Tarchomin, 
+Polpharma, Promed, QAH, Sandoz, Sanofi-Aventis, Servier, S & P Partners, Takeda, 
+Termedia, Teva, Warsaw Voice, White Solutions, Valeant, Via Medica, VM Media, 
+Zentiva. Y.N. has no conflicts of interest.

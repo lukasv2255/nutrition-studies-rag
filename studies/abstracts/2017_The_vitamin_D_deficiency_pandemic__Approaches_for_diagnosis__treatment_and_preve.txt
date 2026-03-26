@@ -1,0 +1,32 @@
+Title: The vitamin D deficiency pandemic: Approaches for diagnosis, treatment and prevention.
+Authors: Holick MF
+Year: 2017
+Journal: Rev Endocr Metab Disord
+PMID: 28516265
+DOI: 10.1007/s11154-017-9424-1
+
+ABSTRACT:
+1. Rev Endocr Metab Disord. 2017 Jun;18(2):153-165. doi:
+10.1007/s11154-017-9424-1.
+
+The vitamin D deficiency pandemic: Approaches for diagnosis, treatment and 
+prevention.
+
+Holick MF(1).
+
+Author information:
+(1)Endocrinology, Nutrition and Diabetes, Department of Medicine, Boston 
+University Medical Center, Boston, MA, 02118, USA. mfholick@bu.edu.
+
+Vitamin D deficiency and insufficiency is a global health issue that afflicts 
+more than one billion children and adults worldwide. The consequences of vitamin 
+D deficiency cannot be under estimated. There has been an association of vitamin 
+D deficiency with a myriad of acute and chronic illnesses including 
+preeclampsia, childhood dental caries, periodontitis, autoimmune disorders, 
+infectious diseases, cardiovascular disease, deadly cancers, type 2 diabetes and 
+neurological disorders. This review is to put into perspective the controversy 
+surrounding the definition for vitamin D deficiency and insufficiency as well as 
+providing guidance for how to treat and prevent vitamin D deficiency.
+
+DOI: 10.1007/s11154-017-9424-1
+PMID: 28516265 [Indexed for MEDLINE]

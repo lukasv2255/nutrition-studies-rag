@@ -1,0 +1,6 @@
+Title: Alteration of gut microbiome and metabolome by Clostridium butyricum can repair the intestinal dysbiosis caused by antibiotics in mice
+Year: 2023
+DOI: 10.1016/j.isci.2023.106190
+
+ABSTRACT:
+Summary This study evaluated the repair effects of Clostridium butyricum (CBX 2021) on the antibiotic (ABX)-induced intestinal dysbiosis in mice by the multi-omics method. Results showed that ABX eliminated more than 90% of cecal bacteria and also exerted adverse effects on the intestinal structure and overall health in mice after 10 days of the treatment. Of interest, supplementing CBX 2021 in the mice for the next 10 days colonized more butyrate-producing bacteria and accelerated butyrate production compared with the mice by natural recovery. The reconstruction of intestinal microbiota efficiently promoted the improvement of the damaged gut morphology and physical barrier in the mice. In addition, CBX 2021 significantly reduced the content of disease-related metabolites and meanwhile promoted carbohydrate digestion and absorption in mice followed the microbiome alternation. In conclusion, CBX 2021 can repair the intestinal ecology of mice damaged by the antibiotics through reconstructing gut microbiota and optimizing metabolic functions.

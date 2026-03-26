@@ -1,0 +1,51 @@
+Title: Vitamin B12 deficiency and use of proton pump inhibitors: a systematic review and meta-analysis.
+Authors: Choudhury A
+Year: 2023
+Journal: Expert Rev Gastroenterol Hepatol
+PMID: 37060552
+DOI: 10.1080/17474124.2023.2204229
+
+ABSTRACT:
+1. Expert Rev Gastroenterol Hepatol. 2023 May;17(5):479-487. doi: 
+10.1080/17474124.2023.2204229. Epub 2023 Apr 19.
+
+Vitamin B12 deficiency and use of proton pump inhibitors: a systematic review 
+and meta-analysis.
+
+Choudhury A(1), Jena A(2), Jearth V(2), Dutta AK(3), Makharia G(4), Dutta U(2), 
+Goenka M(5), Kochhar R(6), Sharma V(2).
+
+Author information:
+(1)Department of Medicine, Nagaon Medical College and Hospital, Nagaon, Assam, 
+India.
+(2)Department of Gastroenterology, Postgraduate Institute of Medical Education 
+and Research, Chandigarh, India.
+(3)Department of Gastroenterology, Christian Medical College, Vellore, India.
+(4)Department of Gastroenterology and Human Nutrition, All India Institute of 
+Medical Science, Delhi, India.
+(5)Institute of Gastrosciences and Liver, Apollo Multispecialty Hospitals, 
+Kolkata, India.
+(6)Director of Gastroenterology, Fortis Hospital, Mohali, India.
+
+BACKGROUND: Proton pump inhibitors (PPI) may impact the absorption of vitamin 
+B12. We performed a systematic review to ascertain if PPI use increases risk of 
+vitamin B12 deficiency.
+METHODS: Electronic databases (PubMed, Embase, Scopus) were searched on first of 
+September 2022. We selected studies that compared the frequency of vitamin B12 
+deficiency in PPI users and non-users. Pooled Odds Ratio (OR) was calculated for 
+the occurrence of vitamin B12 deficiency in PPI users compared to non-users. The 
+risk of bias was assessed using the Newcastle Ottawa scale.
+RESULTS: Twenty-five studies were included. The pooled OR of vitamin B12 
+deficiency among PPI users (2852 participants) was higher than non-users (28070 
+participants) (OR 1.42, 95% CI: 1.16-1.73; I2 = 54%). Overall risk of PPI use 
+among vitamin B12 deficient individuals was higher than those without deficiency 
+(OR 1.49, 1.20-1.85; I2 = 68%). Most studies found no difference between serum 
+vitamin B12 levels among PPI users compared to non-users.
+CONCLUSION: Although the pooled OR of vitamin B12 deficiency was slightly 
+increased in PPI users, but there was significant heterogeneity, and the pooled 
+OR was too low to imply an association clearly. Better-designed prospective 
+studies in long-term users may clarify the issue.
+REGISTRATION: This study was not registered on PROSPERO.
+
+DOI: 10.1080/17474124.2023.2204229
+PMID: 37060552 [Indexed for MEDLINE]

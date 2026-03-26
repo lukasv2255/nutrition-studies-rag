@@ -1,0 +1,36 @@
+Title: Effect of Alcohol Consumption on Recovery From Eccentric Exercise Induced Muscle Damage in Females.
+Year: 2017
+DOI: 10.1123/ijsnem.2016-0171
+
+ABSTRACT:
+1. Int J Sport Nutr Exerc Metab. 2017 Apr;27(2):115-121. doi: 
+10.1123/ijsnem.2016-0171. Epub 2016 Oct 21.
+
+Effect of Alcohol Consumption on Recovery From Eccentric Exercise Induced Muscle 
+Damage in Females.
+
+McLeay Y, Stannard SR, Mundel T, Foskett A, Barnes M.
+
+This study was designed to investigate the effects of alcohol consumption on 
+recovery of muscle force when consumed immediately postexercise in young 
+females. Eight young women completed 300 maximal eccentric actions of the 
+quadriceps femoris muscle on an isokinetic dynamometer on two occasions in a 
+randomized, cross-over design after which an alcoholic beverage (0.88g 
+ethanol/kg body weight) or an iso-caloric placebo was consumed. Maximal 
+isokinetic (concentric and eccentric) torque and isometric tension produced 
+across the knee were measured in both the exercised and control leg predamage, 
+36 hr post, and 60 hr post damage. Venous blood creatine kinase (CK) activity 
+and muscle soreness ratings were taken before damage and once per day to 60 hr 
+post damage. Significant differences were observed between the exercised and 
+control leg for maximal concentric, and eccentric torque and isometric tension 
+(p < .05). A near significant Treatment × Time interaction was observed for 
+isometric tension (p = .077), but not for concentric or eccentric torque. No 
+main effects of treatment (alcohol) or interactions with Time × Leg or Leg × 
+Treatment were observed. Perceived muscle soreness during box stepping and 
+squatting showed significant time effects (p < .05), and CK activity did not 
+significantly change. Our results indicate that the consumption of 0.88g 
+ethanol/kg body weight following eccentric exercise-induced muscle damage does 
+not affect recovery in the days following damage in females.
+
+DOI: 10.1123/ijsnem.2016-0171
+PMID: 27768503 [Indexed for MEDLINE]

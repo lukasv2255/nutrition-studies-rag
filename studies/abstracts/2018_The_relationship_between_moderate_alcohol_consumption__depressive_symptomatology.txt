@@ -1,0 +1,46 @@
+Title: The relationship between moderate alcohol consumption, depressive symptomatology, and C‐reactive protein: the Health and Retirement Study
+Year: 2018
+DOI: 10.1002/gps.4746
+
+ABSTRACT:
+1. Int J Geriatr Psychiatry. 2018 Feb;33(2):316-324. doi: 10.1002/gps.4746. Epub 
+2017 Jun 14.
+
+The relationship between moderate alcohol consumption, depressive 
+symptomatology, and C-reactive protein: the Health and Retirement Study.
+
+Paulson D(1), Shah M(1), Herring D(1), Scott R(1), Herrera M(1), Brush D(1), 
+Bassett R(1).
+
+Author information:
+(1)Department of Psychology, University of Central Florida, Orlando, FL, USA.
+
+OBJECTIVE: Moderate alcohol use has been broadly associated with health benefits 
+among older adults, including improved mood. Aims of this study were to evaluate 
+the relationship of moderate alcohol use and depressive symptomatology over a 
+period of eight years, and to examine inflammation, indicated by C-reactive 
+protein (CRP), as one mechanism by which this relationship functions.
+METHODS: The study included 3177 community-dwelling participants over the age of 
+65 in 2008 drawn from the Health and Retirement Study. Data from the 2006, 2008, 
+2012, and 2014 waves were used. Alcohol use was measured via self-report and was 
+dichotomized as abstinent (0 drinks per week) and moderate (1-14 drinks per 
+week). Inflammation was measured using CRP, which was collected using an 
+enzyme-linked immunosorbent assay and provided in units of μg/mL. Control 
+variables included gender, age, body mass index (BMI), and medical burden.
+RESULTS: A latent growth curve model with full information maximum likelihood 
+was used, with results revealing that moderate drinkers endorsed fewer 
+depressive symptoms at baseline and a steeper rate of change over time. 
+Abstinent respondents' depressive symptomatology was characterized by a more 
+linear change rate. Further, moderate drinkers had lower CRP levels suggesting 
+that inflammation partially mediates the relationship between moderate alcohol 
+use and depressive symptomatology.
+CONCLUSIONS: Moderate alcohol use predicts fewer depressive symptoms among older 
+adults. This relationship is partially moderated by CRP and is eroded by the 
+passage of time. Future research should identify additional mechanisms relating 
+alcohol to positive health outcomes and less depressive symptomatology. 
+Copyright © 2017 John Wiley & Sons, Ltd.
+
+Copyright © 2017 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/gps.4746
+PMID: 28612359 [Indexed for MEDLINE]

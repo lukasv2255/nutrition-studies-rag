@@ -1,0 +1,47 @@
+Title: PTH and Vitamin D.
+Authors: Khundmiri SJ
+Year: 2016
+Journal: Compr Physiol
+PMID: 27065162
+DOI: 10.1002/cphy.c140071
+
+ABSTRACT:
+1. Compr Physiol. 2016 Mar 15;6(2):561-601. doi: 10.1002/cphy.c140071.
+
+PTH and Vitamin D.
+
+Khundmiri SJ(1)(2), Murray RD(1)(2), Lederer E(1)(2)(3).
+
+Author information:
+(1)Department of Medicine, University of Louisville, Louisville, Kentucky, USA.
+(2)Department of Physiology and Biophysics, University of Louisville, 
+Louisville, Kentucky, USA.
+(3)Robley Rex VA Medical Center, University of Louisville, Louisville, Kentucky, 
+USA.
+
+PTH and Vitamin D are two major regulators of mineral metabolism. They play 
+critical roles in the maintenance of calcium and phosphate homeostasis as well 
+as the development and maintenance of bone health. PTH and Vitamin D form a 
+tightly controlled feedback cycle, PTH being a major stimulator of vitamin D 
+synthesis in the kidney while vitamin D exerts negative feedback on PTH 
+secretion. The major function of PTH and major physiologic regulator is 
+circulating ionized calcium. The effects of PTH on gut, kidney, and bone serve 
+to maintain serum calcium within a tight range. PTH has a reciprocal effect on 
+phosphate metabolism. In contrast, vitamin D has a stimulatory effect on both 
+calcium and phosphate homeostasis, playing a key role in providing adequate 
+mineral for normal bone formation. Both hormones act in concert with the more 
+recently discovered FGF23 and klotho, hormones involved predominantly in 
+phosphate metabolism, which also participate in this closely knit feedback 
+circuit. Of great interest are recent studies demonstrating effects of both PTH 
+and vitamin D on the cardiovascular system. Hyperparathyroidism and vitamin D 
+deficiency have been implicated in a variety of cardiovascular disorders 
+including hypertension, atherosclerosis, vascular calcification, and kidney 
+failure. Both hormones have direct effects on the endothelium, heart, and other 
+vascular structures. How these effects of PTH and vitamin D interface with the 
+regulation of bone formation are the subject of intense investigation.
+
+Copyright © 2016 John Wiley & Sons, Inc.
+
+DOI: 10.1002/cphy.c140071
+PMCID: PMC11163478
+PMID: 27065162 [Indexed for MEDLINE]

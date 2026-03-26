@@ -1,0 +1,68 @@
+Title: Effects of creatine supplementation on memory in healthy individuals: a systematic review and meta-analysis of randomized controlled trials.
+Authors: Prokopidis K
+Year: 2023
+Journal: Nutr Rev
+PMID: 35984306
+DOI: 10.1093/nutrit/nuac064
+
+ABSTRACT:
+1. Nutr Rev. 2023 Mar 10;81(4):416-427. doi: 10.1093/nutrit/nuac064.
+
+Effects of creatine supplementation on memory in healthy individuals: a 
+systematic review and meta-analysis of randomized controlled trials.
+
+Prokopidis K(1)(2), Giannos P(2)(3), Triantafyllidis KK(2)(4), Kechagias 
+KS(2)(5)(6), Forbes SC(7), Candow DG(8).
+
+Author information:
+(1)is with the Department of Musculoskeletal Biology, Institute of Life Course 
+and Medical Sciences, University of Liverpool, Liverpool, United Kingdom.
+(2)are with the Society of Meta-Research and Biomedical Innovation, London, 
+United Kingdom.
+(3)is with the Department of Life Sciences, Faculty of Natural Sciences, 
+Imperial College London, London, United Kingdom.
+(4)is with the Department of Nutrition & Dietetics, Musgrove Park Hospital, 
+Taunton & Somerset NHS Foundation Trust, Taunton, United Kingdom.
+(5)is with the Department of Metabolism, Digestion and Reproduction, Faculty of 
+Medicine, Imperial College London, London, United Kingdom.
+(6)is with the Department of Obstetrics & Gynaecology, Chelsea and Westminster 
+Hospital NHS Foundation Trust, London, United Kingdom.
+(7)is with the Department of Physical Education Studies, Faculty of Education, 
+Brandon University, Brandon, Manitoba, Canada.
+(8)is with the Faculty of Kinesiology and Health Studies, University of Regina, 
+Regina, Saskatchewan, Canada.
+
+Comment in
+    Nutr Rev. 2023 Oct 10;81(11):1495-1496. doi: 10.1093/nutrit/nuac108.
+
+CONTEXT: From an energy perspective, the brain is very metabolically demanding. 
+It is well documented that creatine plays a key role in brain bioenergetics. 
+There is some evidence that creatine supplementation can augment brain creatine 
+stores, which could increase memory.
+OBJECTIVE: A systematic review and meta-analysis of randomized controlled trials 
+(RCTs) was conducted to determine the effects of creatine supplementation on 
+memory performance in healthy humans.
+DATA SOURCES: The literature was searched through the PubMed, Web of Science, 
+Cochrane Library, and Scopus databases from inception until September 2021.
+DATA EXTRACTION: Twenty-three eligible RCTs were initially identified. Ten RCTs 
+examining the effect of creatine supplementation compared with placebo on 
+measures of memory in healthy individuals met the inclusion criteria for 
+systematic review, 8 of which were included in the meta-analysis.
+DATA ANALYSIS: Overall, creatine supplementation improved measures of memory 
+compared with placebo (standard mean difference [SMD] = 0.29, 95%CI, 0.04-0.53; 
+I2 = 66%; P = 0.02). Subgroup analyses revealed a significant improvement in 
+memory in older adults (66-76 years) (SMD = 0.88; 95%CI, 0.22-1.55; I2 = 83%; 
+P = 0.009) compared with their younger counterparts (11-31 years) (SMD = 0.03; 
+95%CI, -0.14 to 0.20; I2 = 0%; P = 0.72). Creatine dose (≈ 2.2-20 g/d), duration 
+of intervention (5 days to 24 weeks), sex, or geographical origin did not 
+influence the findings.
+CONCLUSION: Creatine supplementation enhanced measures of memory performance in 
+healthy individuals, especially in older adults (66-76 years).
+SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. 42021281027.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+International Life Sciences Institute.
+
+DOI: 10.1093/nutrit/nuac064
+PMCID: PMC9999677
+PMID: 35984306 [Indexed for MEDLINE]

@@ -1,0 +1,47 @@
+Title: Effects of Vitamin B12 Supplementation on Cognitive Function, Depressive Symptoms, and Fatigue: A Systematic Review, Meta-Analysis, and Meta-Regression.
+Authors: Markun S
+Year: 2021
+Journal: Nutrients
+PMID: 33809274
+DOI: 10.3390/nu13030923
+
+ABSTRACT:
+1. Nutrients. 2021 Mar 12;13(3):923. doi: 10.3390/nu13030923.
+
+Effects of Vitamin B12 Supplementation on Cognitive Function, Depressive 
+Symptoms, and Fatigue: A Systematic Review, Meta-Analysis, and Meta-Regression.
+
+Markun S(1), Gravestock I(2), Jäger L(1), Rosemann T(1), Pichierri G(1)(2), 
+Burgstaller JM(1)(2).
+
+Author information:
+(1)Institute of Primary Care, University and University Hospital Zurich, 8091 
+Zurich, Switzerland.
+(2)Horten Centre for Patient Oriented Research and Knowledge Transfer, 
+University of Zurich, 8091 Zurich, Switzerland.
+
+Vitamin B12 is often used to improve cognitive function, depressive symptoms, 
+and fatigue. In most cases, such complaints are not associated with overt 
+vitamin B12 deficiency or advanced neurological disorders and the effectiveness 
+of vitamin B12 supplementation in such cases is uncertain. The aim of this 
+systematic review and meta-analysis of randomized controlled trials (RCTs) is to 
+assess the effects of vitamin B12 alone (B12 alone), in addition to vitamin B12 
+and folic acid with or without vitamin B6 (B complex) on cognitive function, 
+depressive symptoms, and idiopathic fatigue in patients without advanced 
+neurological disorders or overt vitamin B12 deficiency. Medline, Embase, 
+PsycInfo, Cochrane Library, and Scopus were searched. A total of 16 RCTs with 
+6276 participants were included. Regarding cognitive function outcomes, we found 
+no evidence for an effect of B12 alone or B complex supplementation on any 
+subdomain of cognitive function outcomes. Further, meta-regression showed no 
+significant associations of treatment effects with any of the potential 
+predictors. We also found no overall effect of vitamin supplementation on 
+measures of depression. Further, only one study reported effects on idiopathic 
+fatigue, and therefore, no analysis was possible. Vitamin B12 supplementation is 
+likely ineffective for improving cognitive function and depressive symptoms in 
+patients without advanced neurological disorders.
+
+DOI: 10.3390/nu13030923
+PMCID: PMC8000524
+PMID: 33809274 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

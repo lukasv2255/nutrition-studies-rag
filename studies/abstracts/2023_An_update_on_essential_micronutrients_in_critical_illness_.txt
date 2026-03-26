@@ -1,0 +1,52 @@
+Title: An update on essential micronutrients in critical illness.
+Authors: Koekkoek KWA
+Year: 2023
+Journal: Curr Opin Crit Care
+PMID: 37306546
+DOI: 10.1097/MCC.0000000000001062
+
+ABSTRACT:
+1. Curr Opin Crit Care. 2023 Aug 1;29(4):315-329. doi: 
+10.1097/MCC.0000000000001062. Epub 2023 Jun 8.
+
+An update on essential micronutrients in critical illness.
+
+Koekkoek KWA(1), Berger MM(2).
+
+Author information:
+(1)Department of Intensive Care Medicine, University Medical Centre Utrecht, 
+Utrecht, The Netherlands.
+(2)Faculty of Biology and Medicine, University of Lausanne, Lausanne, 
+Switzerland.
+
+PURPOSE OF REVIEW: Numerous micronutrients are involved in antioxidant and 
+immune defence, while their blood concentrations are frequently low in 
+critically ill patients: this has fuelled many supplementation trials. Numerous 
+observational, randomized studies have been published, which are presented 
+herein.
+RECENT FINDINGS: Micronutrient concentrations must be analysed considering the 
+context of the inflammatory response in critical illness. Low levels do not 
+always indicate a deficiency without objective micronutrients losses with 
+biological fluids. Nevertheless, higher needs and deficiencies are frequent for 
+some micronutrients, such as thiamine, vitamins C and D, selenium, zinc and 
+iron, and have been acknowledged with identifying patients at risk, such as 
+those requiring continuous renal replacement therapy (CRRT). The most important 
+trials and progress in understanding have occurred with vitamin D (25(OH)D), 
+iron and carnitine. Vitamin D blood levels less than 12 ng/ml are associated 
+with poor clinical outcomes: supplementation in deficient ICU patients generates 
+favourable metabolic changes and decreases mortality. Single high-dose 25(OH)D 
+should not be delivered anymore, as boluses induce a negative feedback mechanism 
+causing inhibition of this vitamin. Iron-deficient anaemia is frequent and can 
+be treated safely with high-dose intravenous iron under the guidance of hepcidin 
+to confirm deficiency diagnosis.
+SUMMARY: The needs in critical illness are higher than those of healthy 
+individuals and must be covered to support immunity. Monitoring selected 
+micronutrients is justified in patients requiring more prolonged ICU therapy. 
+Actual results point towards combinations of essential micronutrients at doses 
+below upper tolerable levels. Finally, the time of high-dose micronutrient 
+monotherapy is probably over.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MCC.0000000000001062
+PMID: 37306546 [Indexed for MEDLINE]

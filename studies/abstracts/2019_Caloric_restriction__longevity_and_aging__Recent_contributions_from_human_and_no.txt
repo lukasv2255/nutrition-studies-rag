@@ -1,0 +1,6 @@
+Title: Caloric restriction, longevity and aging: Recent contributions from human and non-human primate studies.
+Year: 2019
+DOI: 10.1016/j.pnpbp.2019.109702
+
+ABSTRACT:
+The health benefits of chronic caloric restriction (CR) resulting in lifespan extension are well established in many species and has been recently demonstrated also in non-human primates, but its effects in humans remain to be proven on a long-term basis. CR might be a very efficient anti-aging strategy but its definition and limits must be well understood before envisaging to apply it to human. In this review, we first report and compare the recently issued CR studies in non-human primates and humans and then try to understand what an optimal caloric intake is. In a last part, we will discuss the pertinence of using CR as an anti-aging strategy with respect to the risks of frailty and obesity.

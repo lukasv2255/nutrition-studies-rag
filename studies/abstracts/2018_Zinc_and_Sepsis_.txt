@@ -1,0 +1,47 @@
+Title: Zinc and Sepsis.
+Authors: Alker W
+Year: 2018
+Journal: Nutrients
+PMID: 30060473
+DOI: 10.3390/nu10080976
+
+ABSTRACT:
+1. Nutrients. 2018 Jul 27;10(8):976. doi: 10.3390/nu10080976.
+
+Zinc and Sepsis.
+
+Alker W(1)(2), Haase H(3)(4).
+
+Author information:
+(1)Department of Food Chemistry and Toxicology, Berlin Institute of Technology, 
+13355 Berlin, Germany. alker@tu-berlin.de.
+(2)TraceAge-DFG Research Unit on Interactions of Essential Trace Elements in 
+Healthy and Diseased Elderly, Potsdam-Berlin-Jena, Germany. alker@tu-berlin.de.
+(3)Department of Food Chemistry and Toxicology, Berlin Institute of Technology, 
+13355 Berlin, Germany. Haase@tu-berlin.de.
+(4)TraceAge-DFG Research Unit on Interactions of Essential Trace Elements in 
+Healthy and Diseased Elderly, Potsdam-Berlin-Jena, Germany. Haase@tu-berlin.de.
+
+Sepsis, defined as a "life-threatening organ dysfunction caused by a 
+dysregulated host-response to infection" is a major health issue worldwide and 
+still lacks a fully elucidated pathobiology and uniform diagnostic tests. The 
+trace element zinc is known to be crucial to ensure an appropriate immune 
+response. During sepsis a redistribution of zinc from serum into the liver has 
+been observed and several studies imply a correlation between zinc and sepsis 
+outcome. Therefore the alterations of zinc concentrations in different tissues 
+might serve as one part of the host's defense mechanism against pathogens during 
+sepsis by diverse mechanisms. It has been suggested that zinc is involved in 
+nutritional immunity, acts as a hepatoprotective agent, or a differentiation 
+signal for innate immune cells, or supports the synthesis of acute phase 
+proteins. Further knowledge about these events could help in the evaluation of 
+how zinc could be optimally applied to improve treatment of septic patients. 
+Moreover, the changes in zinc homeostasis are substantial and correlate with the 
+severity of the disease, suggesting that zinc might also be useful as a 
+diagnostic marker for evaluating the severity and predicting the outcome of 
+sepsis.
+
+DOI: 10.3390/nu10080976
+PMCID: PMC6115943
+PMID: 30060473 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

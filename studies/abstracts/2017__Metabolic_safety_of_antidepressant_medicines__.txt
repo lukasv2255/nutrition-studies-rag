@@ -1,0 +1,53 @@
+Title: [Metabolic safety of antidepressant medicines].
+Authors: Łężak W
+Year: 2017
+Journal: Pol Merkur Lekarski
+PMID: 28557969
+DOI: 
+
+ABSTRACT:
+1. Pol Merkur Lekarski. 2017 May 23;42(251):210-213.
+
+[Metabolic safety of antidepressant medicines].
+
+[Article in Polish]
+
+Łężak W(1), Mokros Ł(2), Karbownik MS(1), Witusik A(3), Kosmalski M(2), 
+Kowalczyk E(1), Pietras T(2).
+
+Author information:
+(1)Medical University of Lodz, Poland: Department of Pharmacology and 
+Toxicology.
+(2)Department of Clinical Pharmacology; Jan Kochanowski University in Kielce, 
+Kielce, Poland.
+(3)Sub-Department of Psychology, Institute of Pedagogical Sciences, Faculty of 
+Social Science, Piotrków Trybunalski Branch.
+
+Metabolic syndrome is a very serious health issue, not only from internal 
+medicine's point of view. Patients suffering from overweight, arterial 
+hypertension, lipids and carbohydrates metabolism disorders are also in the 
+circle of interest of other areas of medicine, including psychiatry. Currently, 
+one of key problems of pharmacotherapy is a comorbidity of metabolic syndrome 
+and mental disorder. Depression is more common than schizophrenia. Despite the 
+fact that in everyday clinical practice there are more patients with depression 
+than schizophrenia, there is a bigger interest among scientists for metabolic 
+syndrome after antipsychotic drugs than as an effect of use of antidepressant 
+agents.
+AIM: The aim of an analysis was to review literature committed to influence of 
+depression pharmacotherapy on development of metabolic syndrome. 169 results 
+were provided, including 18 original publications. Final analysis consists of 9 
+that investigate correlation between antidepressive medicines use and metabolic 
+syndrome development (but not its each individual component).
+RESULTS: In general, antidepressant pharmacotherapy is associated not only with 
+increased risk of metabolic syndrome occurrence but also their worsening. 
+However, it needs to be emphasized that there is a difference between 
+antidepressants groups - tricyclic antidepressive medicines are the most 
+commonly associated with risk of developing metabolic disorders, but also SNRIs 
+and SSRIs are mentioned as significant contributors. Mechanisms of 
+aforementioned changes are still unclear. However, their influence on histamine 
+and serotonin pathways, which take part in regulation of i.e. food intake, is 
+suggested. The search for mechanisms that are precisely responsible for 
+metabolic changes continues, in hope of finding a way to avoid adverse effects 
+of antidepressant medicines use.
+
+PMID: 28557969 [Indexed for MEDLINE]

@@ -1,0 +1,6 @@
+Title: A Pilot Study for the Detection of Cyclic Prolyl-Hydroxyproline (Pro-Hyp) in Human Blood after Ingestion of Collagen Hydrolysate
+Year: 2018
+DOI: 10.3390/nu10101356
+
+ABSTRACT:
+Levels of short linear hydroxyproline (Hyp)-containing peptides, such as prolyl-hydroxyproline (Pro-Hyp), increase in human blood after the ingestion of collagen hydrolysate, which has been associated with beneficial effects for human skin and joints. The present study demonstrates the presence of a novel food-derived collagen peptide, cyclic Pro-Hyp, in human blood after the ingestion of collagen hydrolysate. The cyclic Pro-Hyp levels in plasma samples were estimated by liquid chromatography mass spectrometry (LC-MS). Cyclic Pro-Hyp levels significantly increased in the plasma after ingestion of collagen hydrolysate, reaching a maximum level after 2 h and then decreasing. The maximum level of cyclic Pro-Hyp in plasma ranged from 0.1413 to 0.3443 nmol/mL, representing approximately 5% of linear Pro-Hyp in plasma after ingestion of collagen hydrolysate. Addition of cyclic Pro-Hyp in medium at 7 nmol/mL significantly enhanced the growth rate of mouse skin fibroblasts on collagen gel more extensively compared to linear Pro-Hyp.

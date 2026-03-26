@@ -1,0 +1,39 @@
+Title: You are what you eat: diet, health and the gut microbiota.
+Authors: Zmora N
+Year: 2019
+Journal: Nat Rev Gastroenterol Hepatol
+PMID: 30262901
+DOI: 10.1038/s41575-018-0061-2
+
+ABSTRACT:
+1. Nat Rev Gastroenterol Hepatol. 2019 Jan;16(1):35-56. doi: 
+10.1038/s41575-018-0061-2.
+
+You are what you eat: diet, health and the gut microbiota.
+
+Zmora N(1)(2), Suez J(1), Elinav E(3).
+
+Author information:
+(1)Immunology Department, Weizmann Institute of Science, Rehovot, Israel.
+(2)Gastroenterology Unit, Tel Aviv Sourasky Medical Center, Sackler Faculty of 
+Medicine, Tel Aviv University, Tel Aviv, Israel.
+(3)Immunology Department, Weizmann Institute of Science, Rehovot, Israel. 
+eran.elinav@weizmann.ac.il.
+
+Since the renaissance of microbiome research in the past decade, much insight 
+has accumulated in comprehending forces shaping the architecture and 
+functionality of resident microorganisms in the human gut. Of the multiple 
+host-endogenous and host-exogenous factors involved, diet emerges as a pivotal 
+determinant of gut microbiota community structure and function. By introducing 
+dietary signals into the nexus between the host and its microbiota, nutrition 
+sustains homeostasis or contributes to disease susceptibility. Herein, we 
+summarize major concepts related to the effect of dietary constituents on the 
+gut microbiota, highlighting chief principles in the diet-microbiota crosstalk. 
+We then discuss the health benefits and detrimental consequences that the 
+interactions between dietary and microbial factors elicit in the host. Finally, 
+we present the promises and challenges that arise when seeking to incorporate 
+microbiome data in dietary planning and portray the anticipated revolution that 
+the field of nutrition is facing upon adopting these novel concepts.
+
+DOI: 10.1038/s41575-018-0061-2
+PMID: 30262901 [Indexed for MEDLINE]

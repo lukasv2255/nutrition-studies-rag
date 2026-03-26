@@ -1,0 +1,6 @@
+Title: Loss of SELENOW aggravates muscle loss with regulation of protein synthesis and the ubiquitin-proteasome system
+Year: 2024
+DOI: 10.1126/sciadv.adj4122
+
+ABSTRACT:
+Sarcopenia is characterized by accelerated muscle mass and function loss, which burdens and challenges public health worldwide. Several studies indicated that selenium deficiency is associated with sarcopenia; however, the specific mechanism remains unclear. Here, we demonstrated that selenoprotein W (SELENOW) containing selenium in the form of selenocysteine functioned in sarcopenia. SELENOW expression is up-regulated in dexamethasone (DEX)–induced muscle atrophy and age-related sarcopenia mouse models. Knockout (KO) of SELENOW profoundly aggravated the process of muscle mass loss in the two mouse models. Mechanistically, SELENOW KO suppressed the RAC1-mTOR cascade by the interaction between SELENOW and RAC1 and induced the imbalance of protein synthesis and degradation. Consistently, overexpression of SELENOW in vivo and in vitro alleviated the muscle and myotube atrophy induced by DEX. SELENOW played a role in age-related sarcopenia and regulated the genes associated with aging. Together, our study uncovered the function of SELENOW in age-related sarcopenia and provides promising evidence for the prevention and treatment of sarcopenia.

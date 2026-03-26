@@ -1,0 +1,45 @@
+Title: [Interaction between intestinal microorganisms and carbohydrates of mammals and its influence].
+Authors: Zou Y
+Year: 2020
+Journal: Ying Yong Sheng Tai Xue Bao
+PMID: 33300747
+DOI: 10.13287/j.1001-9332.202011.037
+
+ABSTRACT:
+1. Ying Yong Sheng Tai Xue Bao. 2020 Nov;31(11):3959-3968. doi: 
+10.13287/j.1001-9332.202011.037.
+
+[Interaction between intestinal microorganisms and carbohydrates of mammals and 
+its influence].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Zou Y(1), Han CX(1).
+
+Author information:
+(1)Key Laboratory of National Forestry and Grassland Administration on 
+Management of Western Forest Bio-Disaster, Northwest A&F University, Yangling 
+712100, Shaanxi, China.
+
+The intestinal microorganisms have physiological functions, including regulation 
+of nutrition, immunity, and energy metabolism of host. Diet is one of important 
+factors affecting the intestinal microorganism of mammals. It is important to 
+investigate the interaction between intestinal microorganism and carbohydrates 
+metabolism and its influence, because carbohydrates were the main food source 
+for mammals. We reviewed related literature from three aspects: the effects of 
+carbohydrates on intestinal microorganisms, the metabolic mechanism of 
+intestinal microorganisms on carbohydrates, and the effects of carbohydrates 
+fermentation products on the host. The main types of carbohydrates that 
+intestinal microorganisms can use for fermentation are resistant starch and 
+non-starch polysaccharides. Different types of carbohydrates can induce adaptive 
+changes in different microorganisms. Short-chain fatty acids fermented from 
+complex polysaccharide play an important role in regulating host energy balance 
+and immune response. This review would deepen the understanding of the 
+contribution of intestinal microorganisms to host carbohydrates metabolism, and 
+provide a refe-rence for the nutritional regulation of mammalian health.
+
+Publisher: 
+肠道微生物具有调节宿主营养、免疫以及能量代谢等生理功能。饮食是影响哺乳动物的肠道微生物的一个重要因素。碳水化合物是哺乳动物食物能量的主要来源,因此研究肠道微生物与碳水化合物的代谢之间的关系及其影响具有重要意义。基于近年相关研究,本文从碳水化合物对肠道微生物组成的影响、肠道微生物对碳水化合物的代谢机制以及碳水化合物发酵产物短链脂肪酸对宿主的影响3个方面进行了综述。研究表明,肠道微生物可用于发酵的碳水化合物类型主要是抗性淀粉和非淀粉多糖;不同类型的碳水化合物会导致肠道菌群发生适应性变化;复杂多糖发酵产生的短链脂肪酸在调节宿主能量平衡和免疫应答方面发挥了重要作用。总结近年来相关研究,可加深对肠道菌群对宿主碳水化合物代谢贡献的理解,为哺乳动物机体健康状况的营养调控策略提供参考。.
+
+DOI: 10.13287/j.1001-9332.202011.037
+PMID: 33300747 [Indexed for MEDLINE]

@@ -1,0 +1,6 @@
+Title: Non-alcoholic fatty liver disease, diet and gut microbiota
+Year: 2014
+DOI: 10.17877/DE290R-15828
+
+ABSTRACT:
+Non-alcoholic fatty liver disease (NAFLD) is a severe liver disease that is increasing in prevalence with the worldwide epidemic of obesity and its related insulin-resistance state. Evidence for the role of the gut microbiota in energy storage and the subsequent development of obesity and some of its related diseases is now well established. More recently, a new role of gut microbiota has emerged in NAFLD. The gut microbiota is involved in gut permeability, low-grade inflammation and immune balance, it modulates dietary choline metabolism, regulates bile acid metabolism and produces endogenous ethanol. All of these factors are molecular mechanisms by which the microbiota can induce NAFLD or its progression toward overt non-alcoholic steatohepatitis. Modification of the gut microbiota composition and/or its biochemical capacity by specific dietary or pharmacological interventions may advantageously affect host metabolism. Large-scale intervention trials, investigating the potential benefit of prebiotics and probiotics in improving cardiometabolic health in high-risk populations, are fervently awaited.

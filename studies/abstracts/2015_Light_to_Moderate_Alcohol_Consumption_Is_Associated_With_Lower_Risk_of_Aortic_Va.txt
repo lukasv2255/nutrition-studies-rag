@@ -1,0 +1,72 @@
+Title: Light to Moderate Alcohol Consumption Is Associated With Lower Risk of Aortic Valve Sclerosis: The Study of Health in Pomerania (SHIP)
+Year: 2015
+DOI: 10.1161/ATVBAHA.114.304831
+
+ABSTRACT:
+1. Arterioscler Thromb Vasc Biol. 2015 May;35(5):1265-70. doi: 
+10.1161/ATVBAHA.114.304831. Epub 2015 Mar 12.
+
+Light to Moderate Alcohol Consumption Is Associated With Lower Risk of Aortic 
+Valve Sclerosis: The Study of Health in Pomerania (SHIP).
+
+Markus MR(1), Lieb W(2), Stritzke J(2), Siewert U(2), Troitzsch P(2), Koch M(2), 
+Dörr M(2), Felix SB(2), Völzke H(2), Schunkert H(2), Baumeister SE(2).
+
+Author information:
+(1)From the Department of Internal Medicine B (M.R.P.M., M.D., S.B.F.), 
+Department of Study of Health in Pomerania/Clinical-Epidemiological Research, 
+Institute for Community Medicine (M.R.P.M., P.T., H.V., S.E.B.), and Department 
+of Epidemiology of Health Care and Community Health, Institute for Community 
+Medicine (U.S.), University Medicine Greifswald, Greifswald, Germany; DZHK 
+(German Centre for Cardiovascular Research), partner site Greifswald, 
+Greifswald, Germany (M.R.P.M., M.D., S.B.F., H.V.); Institute of Epidemiology, 
+Christian-Albrechts-University Kiel, Kiel, Germany (W.L., M.K.); Department of 
+Cardiology, Asklepios North Sea Clinic, Westerland/Sylt, Germany (J.S.); 
+Department of Cardiovascular Diseases, Deutsches Herzzentrum München, Technische 
+Universität München, Munich, Germany (H.S.); DZHK (German Centre for 
+Cardiovascular Research), partner site Munich Heart Alliance, Munich, Germany 
+(H.S.); and Department of Epidemiology and Preventive Medicine, University of 
+Regensburg, Regensburg, Germany (S.E.B.). marcello.markus@uni-greifswald.de.
+(2)From the Department of Internal Medicine B (M.R.P.M., M.D., S.B.F.), 
+Department of Study of Health in Pomerania/Clinical-Epidemiological Research, 
+Institute for Community Medicine (M.R.P.M., P.T., H.V., S.E.B.), and Department 
+of Epidemiology of Health Care and Community Health, Institute for Community 
+Medicine (U.S.), University Medicine Greifswald, Greifswald, Germany; DZHK 
+(German Centre for Cardiovascular Research), partner site Greifswald, 
+Greifswald, Germany (M.R.P.M., M.D., S.B.F., H.V.); Institute of Epidemiology, 
+Christian-Albrechts-University Kiel, Kiel, Germany (W.L., M.K.); Department of 
+Cardiology, Asklepios North Sea Clinic, Westerland/Sylt, Germany (J.S.); 
+Department of Cardiovascular Diseases, Deutsches Herzzentrum München, Technische 
+Universität München, Munich, Germany (H.S.); DZHK (German Centre for 
+Cardiovascular Research), partner site Munich Heart Alliance, Munich, Germany 
+(H.S.); and Department of Epidemiology and Preventive Medicine, University of 
+Regensburg, Regensburg, Germany (S.E.B.).
+
+OBJECTIVE: In developed countries, sclerotic and calcific degeneration of the 
+aortic valve is a common disorder showing pathophysiologic similarities with 
+atherothrombotic coronary disease. Light to moderate alcohol consumption has 
+been associated with a lower risk for atherothrombotic coronary disease and 
+mortality. Whether alcohol consumption affects the development of aortic valve 
+sclerosis (AVS) is not well known. In the present study, we aim to analyze the 
+cross-sectional association between average daily alcohol consumption and AVS in 
+the general population.
+APPROACH AND RESULTS: We analyzed cross-sectional data from 2022 men and women, 
+aged 45 to 81 years, from the population-based Study of Health in Pomerania. We 
+used a computer-assisted interview that included beverage-specific questions 
+about quantity and frequency of alcohol over the last 30 days to calculate the 
+average quantity of alcohol consumption (in grams of ethanol per day). AVS was 
+ascertained by echocardiography. The prevalence of AVS was 32.3%. Average daily 
+alcohol intake displayed a J-type relation with AVS (fully adjusted P value: 
+0.005). Compared with individuals with an average consumption of 10 g of alcohol 
+per day, multivariable-adjusted odds ratios were 1.60 (95% confidence interval, 
+1.19-2.14) among current abstainers and 1.56 (95% confidence interval, 
+1.01-2.41) among individuals with an average consumption of 60 g per day.
+CONCLUSIONS: Our findings indicate that light to moderate alcohol consumption 
+was associated with a lower odd of having AVS. Prospective data need to address 
+whether alcohol consumption and related changes over time in several biological 
+markers affect the progression of AVS.
+
+© 2015 American Heart Association, Inc.
+
+DOI: 10.1161/ATVBAHA.114.304831
+PMID: 25767276 [Indexed for MEDLINE]

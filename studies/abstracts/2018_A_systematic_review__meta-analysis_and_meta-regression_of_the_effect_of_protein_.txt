@@ -1,0 +1,70 @@
+Title: A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults.
+Authors: Morton RW
+Year: 2018
+Journal: Br J Sports Med
+PMID: 28698222
+DOI: 10.1136/bjsports-2017-097608
+
+ABSTRACT:
+1. Br J Sports Med. 2018 Mar;52(6):376-384. doi: 10.1136/bjsports-2017-097608.
+Epub  2017 Jul 11.
+
+A systematic review, meta-analysis and meta-regression of the effect of protein 
+supplementation on resistance training-induced gains in muscle mass and strength 
+in healthy adults.
+
+Morton RW(1), Murphy KT(1), McKellar SR(1), Schoenfeld BJ(2), Henselmans M(3), 
+Helms E(4), Aragon AA(5), Devries MC(6), Banfield L(7), Krieger JW(8), Phillips 
+SM(1).
+
+Author information:
+(1)Department of Kinesiology, McMaster University, Hamilton, Canada.
+(2)Department of Health Sciences, Lehman College of CUNY, Bronx, New York, USA.
+(3)Bayesian Bodybuilding, Gorinchem, Netherlands.
+(4)Sport Performance Research Institute New Zealand, AUT University, Auckland, 
+New Zealand.
+(5)California State University, Northridge, California, USA.
+(6)Department of Kinesiology, University of Waterloo, Waterloo, Canada.
+(7)Health Sciences Library, McMaster University, Hamilton, Canada.
+(8)Weightology, LLC, Issaquah, Washington, USA.
+
+Erratum in
+    Br J Sports Med. 2020 Oct;54(19):e7. doi: 10.1136/bjsports-2017-097608corr1.
+
+OBJECTIVE: We performed a systematic review, meta-analysis and meta-regression 
+to determine if dietary protein supplementation augments resistance exercise 
+training (RET)-induced gains in muscle mass and strength.
+DATA SOURCES: A systematic search of Medline, Embase, CINAHL and SportDiscus.
+ELIGIBILITY CRITERIA: Only randomised controlled trials with RET ≥6 weeks in 
+duration and dietary protein supplementation.
+DESIGN: Random-effects meta-analyses and meta-regressions with four a priori 
+determined covariates. Two-phase break point analysis was used to determine the 
+relationship between total protein intake and changes in fat-free mass (FFM).
+RESULTS: Data from 49 studies with 1863 participants showed that dietary protein 
+supplementation significantly (all p<0.05) increased changes (means (95% CI)) 
+in: strength-one-repetition-maximum (2.49 kg (0.64, 4.33)), FFM (0.30 kg (0.09, 
+0.52)) and muscle size-muscle fibre cross-sectional area (CSA; 310 µm2 (51, 
+570)) and mid-femur CSA (7.2 mm2 (0.20, 14.30)) during periods of prolonged RET. 
+The impact of protein supplementation on gains in FFM was reduced with 
+increasing age (-0.01 kg (-0.02,-0.00), p=0.002) and was more effective in 
+resistance-trained individuals (0.75 kg (0.09, 1.40), p=0.03). Protein 
+supplementation beyond total protein intakes of 1.62 g/kg/day resulted in no 
+further RET-induced gains in FFM.
+SUMMARY/CONCLUSION: Dietary protein supplementation significantly enhanced 
+changes in muscle strength and size during prolonged RET in healthy adults. 
+Increasing age reduces and training experience increases the efficacy of protein 
+supplementation during RET. With protein supplementation, protein intakes at 
+amounts greater than ~1.6 g/kg/day do not further contribute RET-induced gains 
+in FFM.
+
+© Article author(s) (or their employer(s) unless otherwise stated in the text of 
+the article) 2018. All rights reserved. No commercial use is permitted unless 
+otherwise expressly granted.
+
+DOI: 10.1136/bjsports-2017-097608
+PMCID: PMC5867436
+PMID: 28698222 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: SMP has received grant 
+support, travel expenses, and honoraria for presentations from the US National 
+Dairy Council. This agency has supported trials reviewed in this analysis.

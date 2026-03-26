@@ -1,0 +1,6 @@
+Title: Genetic and Diet-Induced Animal Models for Non-Alcoholic Fatty Liver Disease (NAFLD) Research
+Year: 2022
+DOI: 10.3390/ijms232415791
+
+ABSTRACT:
+A rapidly increasing incidence of non-alcoholic fatty liver disease (NAFLD) is noted worldwide due to the adoption of western-type lifestyles and eating habits. This makes the understanding of the molecular mechanisms that drive the pathogenesis of this chronic disease and the development of newly approved treatments of utmost necessity. Animal models are indispensable tools for achieving these ends. Although the ideal mouse model for human NAFLD does not exist yet, several models have arisen with the combination of dietary interventions, genetic manipulations and/or administration of chemical substances. Herein, we present the most common mouse models used in the research of NAFLD, either for the whole disease spectrum or for a particular disease stage (e.g., non-alcoholic steatohepatitis). We also discuss the advantages and disadvantages of each model, along with the challenges facing the researchers who aim to develop and use animal models for translational research in NAFLD. Based on these characteristics and the specific study aims/needs, researchers should select the most appropriate model with caution when translating results from animal to human.

@@ -1,0 +1,6 @@
+Title: Exploring the serotonin‐probiotics‐gut health axis: A review of current evidence and potential mechanisms
+Year: 2023
+DOI: 10.1002/fsn3.3826
+
+ABSTRACT:
+Abstract Modulatory effects of serotonin (5‐Hydroxytryptamine [5‐HT]) have been seen in hepatic, neurological/psychiatric, and gastrointestinal (GI) disorders. Probiotics are live microorganisms that confer health benefits to their host. Recent research has suggested that probiotics can promote serotonin signaling, a crucial pathway in the regulation of mood, cognition, and other physiological processes. Reviewing the literature, we find that peripheral serotonin increases nutrient uptake and storage, regulates the composition of the gut microbiota, and is involved in mediating neuronal disorders. This review explores the mechanisms underlying the probiotic‐mediated increase in serotonin signaling, highlighting the role of gut microbiota in the regulation of serotonin production and the modulation of neurotransmitter receptors. Additionally, this review discusses the potential clinical implications of probiotics as a therapeutic strategy for disorders associated with altered serotonin signaling, such as GI and neurological disorders. Overall, this review demonstrates the potential of probiotics as a promising avenue for the treatment of serotonin‐related disorders and signaling of serotonin.

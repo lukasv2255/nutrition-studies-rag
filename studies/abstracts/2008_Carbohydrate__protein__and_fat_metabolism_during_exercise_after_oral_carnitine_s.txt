@@ -1,0 +1,35 @@
+Title: Carbohydrate, protein, and fat metabolism during exercise after oral carnitine supplementation in humans.
+Year: 2008
+DOI: 10.1123/IJSNEM.18.6.567
+
+ABSTRACT:
+1. Int J Sport Nutr Exerc Metab. 2008 Dec;18(6):567-84. doi: 
+10.1123/ijsnem.18.6.567.
+
+Carbohydrate, protein, and fat metabolism during exercise after oral carnitine 
+supplementation in humans.
+
+Broad EM(1), Maughan RJ, Galloway SD.
+
+Author information:
+(1)Department of Sports Studies, University of Stirling, Scotland, UK.
+
+Twenty nonvegetarian active males were pair-matched and randomly assigned to 
+receive 2 g of L-carnitine L-tartrate (LC) or placebo per day for 2 wk. 
+Participants exercised for 90 min at 70% VO2max after 2 days of a prescribed 
+diet (M +/- SD: 13.6 +/- 1.6 MJ, 57% carbohydrate, 15% protein, 26% fat, 2% 
+alcohol) before and after supplementation. Results indicated no change in 
+carbohydrate oxidation, nitrogen excretion, branched-chain amino acid oxidation, 
+or plasma urea during exercise between the beginning and end of supplementation 
+in either group. After 2 wk of LC supplementation the plasma ammonia response to 
+exercise tended to be suppressed (0 vs. 2 wk at 60 min exercise, 97 +/- 26 vs. 
+80 +/- 9, and 90 min exercise, 116 +/- 47 vs. 87 +/- 25 micromol/L), with no 
+change in the placebo group. The data indicate that 2 wk of LC supplementation 
+does not affect fat, carbohydrate, and protein contribution to metabolism during 
+prolonged moderate-intensity cycling exercise. The tendency toward suppressed 
+ammonia accumulation, however, indicates that oral LC supplementation might have 
+the potential to reduce the metabolic stress of exercise or alter ammonia 
+production or removal, which warrants further investigation.
+
+DOI: 10.1123/ijsnem.18.6.567
+PMID: 19164828 [Indexed for MEDLINE]

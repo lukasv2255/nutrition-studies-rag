@@ -1,0 +1,6 @@
+Title: Intestinal Fructose and Glucose Metabolism in Health and Disease
+Year: 2019
+DOI: 10.3390/nu12010094
+
+ABSTRACT:
+The worldwide epidemics of obesity and diabetes have been linked to increased sugar consumption in humans. Here, we review fructose and glucose metabolism, as well as potential molecular mechanisms by which excessive sugar consumption is associated to metabolic diseases and insulin resistance in humans. To this end, we focus on understanding molecular and cellular mechanisms of fructose and glucose transport and sensing in the intestine, the intracellular signaling effects of dietary sugar metabolism, and its impact on glucose homeostasis in health and disease. Finally, the peripheral and central effects of dietary sugars on the gut–brain axis will be reviewed.

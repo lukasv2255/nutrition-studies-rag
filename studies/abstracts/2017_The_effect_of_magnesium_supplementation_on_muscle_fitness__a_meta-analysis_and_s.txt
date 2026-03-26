@@ -1,0 +1,50 @@
+Title: The effect of magnesium supplementation on muscle fitness: a meta-analysis and systematic review.
+Authors: Wang R
+Year: 2017
+Journal: Magnes Res
+PMID: 29637897
+DOI: 10.1684/mrh.2018.0430
+
+ABSTRACT:
+1. Magnes Res. 2017 Nov 1;30(4):120-132. doi: 10.1684/mrh.2018.0430.
+
+The effect of magnesium supplementation on muscle fitness: a meta-analysis and 
+systematic review.
+
+Wang R(1), Chen C(2), Liu W(1), Zhou T(1), Xun P(2), He K(2), Chen P(1).
+
+Author information:
+(1)Key Laboratory of Exercise and Health Sciences of Ministry of Education, 
+Shanghai University of Sport, Shanghai, 200438, China.
+(2)Department of Epidemiology and Biostatistics, School of Public Health -- 
+Bloomington, Indiana University, Bloomington, IN 47405, USA.
+
+Increasing evidence supports a role of magnesium (Mg) in skeletal muscle 
+function. However, no systematic review or meta-analysis has summarized data on 
+Mg supplementation in relation to muscle fitness in humans. Thus, this study 
+aimed to quantitatively assess the effect of Mg supplementation on muscle 
+fitness. A meta-analysis and systematic review. Medline database and other 
+sources were searched for randomized clinical trials through July 2017. Studies 
+that reported results regarding at least one of the following outcomes: leg 
+strength, knee extension strength, peak torque, muscle power, muscle work, jump, 
+handgrip, bench press weights, resistant exercise, lean mass, muscle mass, 
+muscle strength, walking speed, Repeated Chair Stands, and TGUG were included. 
+Measurements of the association were pooled using a fixed-effects model and 
+expressed as weighted mean differences (WMDs) with 95% confidence intervals (95% 
+CIs). Fourteen randomized clinical trials targeting 3 different populations were 
+identified: athletes or physically active individuals (215 participants; mean 
+age: 24.9 years), untrained healthy individuals (95 participants; mean age: 40.2 
+years), and elderly or alcoholics (232 participants; mean age: 62.7 years). The 
+beneficial effects of Mg supplementation appeared to be more pronounced in the 
+elderly and alcoholics, but were not apparent in athletes and physically active 
+individuals. The results of the meta-analysis suggested that no significant 
+improvements in the supplementation group were observed regarding isokinetic 
+peak torque extension [WMD = 0.87; 95% CI = (-1.43, 3.18)], muscle strength 
+[WMD = 0.87; 95% CI = (-0.12, 1.86)] or muscle power [WMD = 3.28; 95% 
+CI = (-14.94, 21.50)]. Evidence does not support a beneficial effect of Mg 
+supplementation on muscle fitness in most athletes and physically active 
+individuals who have a relatively high Mg status. But Mg supplementation may 
+benefit individuals with Mg deficiency, such as the elderly and alcoholics.
+
+DOI: 10.1684/mrh.2018.0430
+PMID: 29637897 [Indexed for MEDLINE]

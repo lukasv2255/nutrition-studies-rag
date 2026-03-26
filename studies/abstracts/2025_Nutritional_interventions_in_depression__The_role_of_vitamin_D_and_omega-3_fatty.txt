@@ -1,0 +1,23 @@
+Title: Nutritional interventions in depression: The role of vitamin D and omega-3 fatty acids in neuropsychiatric health.
+Year: 2025
+DOI: 10.1016/j.clnu.2025.01.009
+
+ABSTRACT:
+BACKGROUND
+Depression is a pervasive mental health disorder with complex etiologies involving neurotransmitter imbalances, inflammation, and hormonal dysregulation. Emerging evidence highlights the significance of nutritional interventions in improving depressive symptoms.
+
+
+OBJECTIVE
+This review explores the mechanisms of action and clinical applications of Vitamin D and Omega-3 fatty acids in managing depression, providing insights into their potential therapeutic roles.
+
+
+METHODS
+A comprehensive search was conducted across databases, including PubMed, Scopus, Web of Science, and PsycINFO. Keywords such as "depression," "Vitamin D," "Omega-3 fatty acids," "nutritional psychiatry," and "mental health" were employed. Articles were selected based on relevance, methodology, and contribution to the understanding of nutritional interventions in depression. Observational studies, randomized controlled trials, and meta-analyses were prioritized, while non-peer-reviewed sources were excluded.
+
+
+RESULTS
+Vitamin D modulates neurotransmitter activity, reduces neuroinflammation, and influences neuroplasticity, enhancing cognitive function and mood regulation. Omega-3 fatty acids, particularly EPA and DHA, exhibit anti-inflammatory properties, optimize serotonergic transmission, and stabilize neuronal membranes. Clinical evidence suggests that supplementation with these nutrients can significantly reduce depressive symptoms, particularly in patients with comorbid nutritional deficiencies. However, variability in study designs and dosages limits the generalizability of findings.
+
+
+CONCLUSION
+Integrating Vitamin D and Omega-3 supplementation into mental health care holds promise as an adjunctive strategy for treating depression. However, limitations in existing studies, including heterogeneity in study design and dosage, warrant further investigation.

@@ -1,0 +1,23 @@
+Title: Riboflavin Bioavailability Varies with Milk Type and Is Altered in Self-Reported Dairy Intolerance States (P24-012-19).
+Year: 2019
+DOI: 10.1093/cdn/nzz044.P24-012-19
+
+ABSTRACT:
+Objectives
+Riboflavin, the most abundant and bioavailable B-vitamin present in milk, is highly sensitive to degradation; thus, riboflavin content may vary depending on processing or the type of milk. Milk is one of the richest dietary source of riboflavin, making sufficient intake more challenging for those with dietary restrictions, such as lactose and dairy intolerant populations. Additionally, these individuals experience altered digestive function following dairy intake which may alter the bioavailability of ingested nutrients. Therefore, this study investigated whether B-vitamin bioavailability from milk is altered by milk type or processing, and whether this bioavailability is diminished in individuals with lactose and dairy intolerance.
+
+
+Methods
+The study recruited self-reported milk tolerant and intolerant young women (n = 40). All participants underwent a lactose challenge (50 g) for classification as dairy tolerant (DT, n = 10), lactose intolerant (LI, n = 10) or non-lactose dairy intolerant (NLDI, n = 20; self-reported dairy intolerance, but lactose tolerant). All participants ingested 750 mL of conventional milk (CM), lactose-free conventional milk (LF-CM) and a2 MilkTM (A2M) in a double-blind randomized crossover controlled trial. Plasma samples collected at fasting and hourly until 3 hours were analyzed for B-vitamins using high performance liquid chromatography coupled with mass spectrometry.
+
+
+Results
+Only plasma riboflavin concentrations increased following all types of milk ingestion in all groups. Riboflavin concentrations were higher post CM (P < 0.05) at all postprandial time points than LF-CM and A2M (time x treatment interaction, P = 0.010) in all groups; however, the incremental area under the curve (iAUC) following CM was only higher than A2M (P = 0.001) but not LF-CM. NLDI subjects had lower postprandial riboflavin concentrations and iAUC (group x treatment interaction, P = 0.040; iAUC P = 0.049) than LI individuals.
+
+
+Conclusions
+Riboflavin from CM is more bioavailable than LF-CM or A2M indicating that riboflavin content depends on the milk type or processing. However, regardless of milk type, decreased bioavailability may put NLDI individuals at increased risk of riboflavin inadequacy compared to LI people.
+
+
+Funding Sources
+AgResearch, The a2 Milk Company, High Value Nutrition, Riddet Institute.

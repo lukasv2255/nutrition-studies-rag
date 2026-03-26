@@ -1,0 +1,78 @@
+Title: Moderate alcohol consumption, types of beverages and drinking pattern with cardiometabolic biomarkers in three cohorts of US men and women
+Year: 2023
+DOI: 10.1007/s10654-023-01053-w
+
+ABSTRACT:
+1. Eur J Epidemiol. 2023 Nov;38(11):1185-1196. doi: 10.1007/s10654-023-01053-w. 
+Epub 2023 Sep 25.
+
+Moderate alcohol consumption, types of beverages and drinking pattern with 
+cardiometabolic biomarkers in three cohorts of US men and women.
+
+Li X(1), Hur J(2)(3)(4), Cao Y(5)(6)(7), Song M(8)(9)(10)(11), Smith-Warner 
+SA(8)(9), Liang L(8)(12), Mukamal KJ(13), Rimm EB(8)(9)(14), Giovannucci 
+EL(8)(9)(14).
+
+Author information:
+(1)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA. xinyili@hsph.harvard.edu.
+(2)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA. jhur@hsph.harvard.edu.
+(3)Department of Food Science and Biotechnology, Sungkyunkwan University, Suwon, 
+Gyeonggi, South Korea. jhur@hsph.harvard.edu.
+(4)Food Clinical Research Center, Institute of Biotechnology and Bioengineering, 
+Sungkyunkwan University, Suwon, Gyeonggi, South Korea. jhur@hsph.harvard.edu.
+(5)Division of Public Health Sciences, Department of Surgery, Washington 
+University School of Medicine, St. Louis, MO, USA.
+(6)Alvin J Siteman Cancer Center, Washington University School of Medicine, St. 
+Louis, MO, USA.
+(7)Division of Gastroenterology, Department of Medicine, Washington University 
+School of Medicine, St. Louis, MO, USA.
+(8)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA.
+(9)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA.
+(10)Clinical and Translational Epidemiology Unit, Massachusetts General Hospital 
+and Harvard Medical School, Boston, MA, USA.
+(11)Division of Gastroenterology, Massachusetts General Hospital and Harvard 
+Medical School, Boston, MA, USA.
+(12)Department of Biostatistics, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA.
+(13)Department of Medicine, Beth Israel Deaconess Medical Center, Boston, MA, 
+USA.
+(14)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital and Harvard Medical School, Boston, MA, USA.
+
+Underlying mechanisms of the inverse relationship between moderate alcohol 
+consumption and cardiometabolic disorders are unclear. Modification by types of 
+alcoholic beverages consumed and drinking pattern remains understudied. We aimed 
+to provide insight into the mechanisms by examining 14 insulinemic/glycemic, 
+inflammatory and lipid markers. We used cross-sectional data from 15,436 women 
+in the Nurses' Health Study, 19,318 women in the Nurses' Health Study II, and 
+6872 men in the Health Professionals Follow-up Study. Multivariable linear 
+regression was used to estimate the percentage differences in biomarker 
+concentrations according to alcohol intakes. The average alcohol intake in the 
+combined cohort was 3.3 servings/week. We found a 1 serving/d increment in 
+alcohol intake (14 g ethanol, 44 ml liquor or 355 ml beer or 118 ml wine per 
+day) was associated with a 0.6% lower level of HbA1c, 1.7-3.6% lower 
+proinflammatory markers and 4.2% higher adiponectin, as well as 7.1% higher 
+HDL-cholesterol and 2.1% lower triglyceride with a significant linear trend. 
+Wine, especially red wine, was associated with lower inflammation in particular. 
+Beer had weaker favorable to null associations with blood lipids and 
+adiponectin. Liquor was associated with higher C-peptide and interleukin-6, yet 
+equally associated with lower HbA1c and higher HDL-cholesterol as other 
+beverages. Drinking 3 days or more per week was related to a better biomarker 
+profile than nonregular drinking independent of intake levels. Drinking appeared 
+to have similar associations irrespective whether done with meals or not. Our 
+data indicated moderate alcohol intake, especially if consumed from wine and 
+done regularly, was associated with favorable profiles of insulinemic/glycemic 
+and inflammatory markers and blood lipids.
+
+© 2023. Springer Nature B.V.
+
+DOI: 10.1007/s10654-023-01053-w
+PMCID: PMC10924636
+PMID: 37747628 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest We declare that we have no 
+conflicts of interest.
